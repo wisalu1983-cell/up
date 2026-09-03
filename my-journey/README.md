@@ -1,8 +1,8 @@
 # My Journey — Kala's Plans & Progress
 
 This folder is **not part of the upstream `byoungd/up` project**. It's a personal
-add-on inside my fork, used to track my own learning plans, progress logs, and
-diagnostic results while following the guide.
+add-on inside my fork, used to track my own learning plans, progress logs,
+diagnostic results, and reference materials while following the guide.
 
 - Upstream (original guide, read-only for me): `byoungd/up`
 - My fork (where this folder lives): `wisalu1983-cell/up`
@@ -12,9 +12,15 @@ diagnostic results while following the guide.
 ```
 my-journey/
 ├── README.md              # this file
-├── gdc-2027-plan.md        # main goal + phased plan for GDC 2027
-├── diagnostics/            # dated copies of english-diagnostic.md, filled in
-└── weekly-reviews/         # dated copies of weekly-review.md, filled in
+├── gdc-2027-plan.md       # main goal + phased plan for GDC 2027
+├── diagnostics/           # dated copies of english-diagnostic.md, filled in
+├── weekly-reviews/        # dated copies of weekly-review.md, filled in
+└── resources/             # reference materials used for learning
+    └── talks/              # conference talks and related source files
+        └── gdc-2024-ai-workflows/
+            ├── README.md
+            ├── media/      # audio and video
+            └── transcript/ # readable transcript and subtitle files
 ```
 
 ## Sync workflow (fork + stay updated with upstream)

@@ -8,6 +8,16 @@ outputs/
 playwright-report/
 test-results/
 
+# Video files (audio files remain trackable)
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+
 # local env files
 .env.local
 .env.*.local
