@@ -1,81 +1,46 @@
----
-title: GDC 2027 English Readiness Plan
-owner: Kala
-created: 2026-08-27
-target_date: 2027-03 (first week)
-status: kickoff
----
+# GDC 2027 英语准备滚动计划
 
-# GDC 2027 English Readiness Plan
+所有者：Kala。英语训练称呼：Kara。初建：2026-08-27。更新：2026-10-12。状态：持续训练中。
 
-## Goal (in the format from `docs/threads/part-1/0-cefr.md`)
+## 目标任务卡
 
-- **场景**: GDC 2027 现场听分享（听力为主），并与同事拜访公司探讨 AI production
-  与游戏（产业讨论/networking，口语为主）
-- **受众**: GDC 演讲者/参会者的技术英语；被拜访公司的从业者
-- **完成标准**: 现场能听懂技术分享、抓住要点和细节；能主动提问、参与产业讨论；
-  能清晰表达自己对 AI production 的观点和问题，无需对方放慢或重复
-- **期限**: 2027 年 3 月第一周
-- **证据**: 练习录音、行业词汇表、模拟对话记录、听力笔记（存于本文件夹）
+- 场景：2027年3月初参加GDC、会后交流与公司拜访，处理赴美日常沟通。
+- 受众：讲者、游戏行业从业者、同行同事、会场及旅行服务人员。
+- 行动：听演讲抓主线与证据；介绍项目；说明观点并追问；请求、确认与解决问题。
+- 质量门槛：核心意思准确传达，听者能理解要点与下一步；听力抓主线及关键事实，遇到遗漏能继续跟随；交流卡住时能解释、换词或主动澄清。
+- 期限：用户计划2027年3月初；具体大会日期与行程尚未在本次迁移中核实。
+- 证据：sessions/中的自然首答、教师帮助与迁移；diagnostics/阶段评估；原音位置与可用录音引用。
 
-## Why this shapes training priority
+原计划的无需放慢或重复保留为长期期望。实际训练也练主动澄清；合理追问能支持现场任务成功。原计划全文见[初始快照](archive/2026-08-27-gdc-plan-original.txt)。
 
-Listening (conference talks) + Speaking (industry discussion/networking) are
-the real bottleneck skills. Reading/Writing are secondary — writing only
-matters for post-meeting follow-up emails.
+## 当前基线
 
-## Phased Plan
+已有2026-09-14综合评估与7月至10月多次实际记录，不重新从零测评。口语功能约B1；熟悉话题意义理解常强于即时表达，日常词辨认与数字单位仍需观察。阅读、写作未测。完整真实长演讲跟随尚无充分达标证据。
 
-### Phase 0 — Baseline (this week)
+## 滚动阶段
 
-- [ ] Listening baseline: pick one AI/games-related talk from GDC Vault
-      (YouTube), listen 3–4 min without subtitles, write main idea + 3 details
-- [ ] Speaking baseline: 2 min unscripted — "what our company is doing with
-      AI production, and what I want to discuss with the other side"
-- [ ] Fill in `diagnostics/2026-08-baseline.md` (copy from upstream
-      `docs/templates/english-diagnostic.md`)
+| 时段 | 训练方向 | 调整依据 |
+| --- | --- | --- |
+| 10月 | 真实表达缺口、两三句组织、服务沟通、低到中等密度听力、短原声适应 | 首答是否更易完成；所需完整范句是否减少；词句能否跨场景用 |
+| 11月至12月 | 短原声稳定后逐步延长至60～120秒；关键词笔记、项目追问、small talk | 当前长度下主线与关键事实稳定，再提高一个难度维度 |
+| 1月至2月 | 听片段、提问、回应与后续联系贯通；公司拜访及旅行场景 | 用接近现场条件的连续任务检查任务完成与修复能力 |
+| 出发前两周 | 重点流程及个人项目介绍复测；临时问题处理 | 高频任务稳定程度与最近失败点；控制无关新词负担 |
 
-### Phase 1 — Weeks 1–12: Build rhythm
+这是可调整的工作规划。日期不保证能力升级；每次计划根据实际证据确定下一项最小任务。每日两段各12～15分钟。
 
-- Listening: 2–3x/week, GDC Vault talks + AI-in-games podcasts (e.g. "AI and
-  Games" by Tommy Thompson) — real accents/terms, not generic material
-- Speaking: use the "English Task Card" from `docs/threads/part-1/7-ai.md`
-  each session; real scenario each time (e.g. explain the AI production
-  pipeline to a non-technical person)
-- Build a personal industry word-chunk list: AI production, procedural
-  generation, pipeline, shipping, playtesting, etc. — collocations + real
-  sentences, not isolated words
+## 近期完成标准
 
-### Phase 2 — Weeks 13–20: Raise difficulty
+- 一个明确的新情境中，用两三句表达建议、理由或请求，并回应一次追问。
+- 相近低到中等密度材料首听报告主旨、关键时间连单位和行动方案；其他细节按任务选择。
+- 每日1～2个核心词句来自真实卡点或高频需求；有独立新场景产出才提高掌握状态。
+- 记录任务完成、可理解度、组织、帮助依赖、保持和迁移。没有同条件样本不输出总提升百分比。
 
-- Switch to harder/faster talks; practice note-taking for gist, not full
-  comprehension
-- Simulate networking: self-intro, asking questions, follow-up after
-  exchanging cards
-- Practice sudden follow-up questions with a partner (or Rem)
+## 进度入口
 
-### Phase 3 — Weeks 21–26 (Dec–Feb): Real-delivery rehearsal
+- [2026-09-14基线](diagnostics/2026-09-14-baseline.md)
+- [2026-10-08阶段更新](weekly-reviews/2026-10-08-stage-review.md)
+- [最新实际复盘](sessions/2026-10-09--12.md)
+- [待执行计划](plans/2026-10-12.md)
+- [当前学习状态](current-state.md)
 
-- Full loop simulation: listen to a talk → ask a question live → write a
-  follow-up email afterward
-- Retest under same conditions as Phase 0 baseline, compare progress
-- Prepare a company-visit question list + self-intro script, drill until
-  it doesn't need the script
-
-### Phase 4 — Final 2 weeks before departure
-
-- Only real-condition rehearsal, no new material: full loop of
-  listen + ask + write in English
-- Mindset: goal isn't "perfect", it's "don't switch back to Chinese on-site,
-  and the other side doesn't need to slow down for you"
-
-## Progress Log
-
-| Date | Phase | What I did | Evidence saved | Notes |
-| --- | --- | --- | --- | --- |
-| | | | | |
-
-## Weekly Reviews
-
-See `weekly-reviews/` — one file per week, based on upstream
-`docs/templates/weekly-review.md`.
+复评按10～15次有效训练或3～4周积累的证据进行；短周回顾关注完成、质量、保持和迁移。无需补造旧周报告。

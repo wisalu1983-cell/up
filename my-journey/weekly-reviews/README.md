@@ -1,3 +1,7 @@
-_This folder holds dated weekly review notes, based on upstream
-`docs/templates/weekly-review.md`. One file per week, named
-`YYYY-Www.md` (e.g. `2026-W35.md`)._
+# 周期与阶段复盘
+
+已迁入[2026-10-08阶段更新](2026-10-08-stage-review.md)，范围主要为9月14日至10月2日。10月9日至12日新增证据见[最近复盘](../sessions/2026-10-09--12.md)。
+
+使用[Level Up每周复盘模板](../../docs/templates/weekly-review.md)：完成、质量、保持与迁移；下一轮优先调整一个重要因素。按有效样本安排，不补造过去每周的报告。
+
+阶段复评约10～15次有效训练或3～4周；具体日期由实际进度决定。

@@ -1,58 +1,38 @@
-# My Journey — Kala's Plans & Progress
+# Kala 的英语训练与 GDC 准备
 
-This folder is **not part of the upstream `byoungd/up` project**. It's a personal
-add-on inside my fork, used to track my own learning plans, progress logs,
-diagnostic results, and reference materials while following the guide.
+仓库：wisalu1983-cell/up，分支：master。更新时间：2026-10-12。
 
-- Upstream (original guide, read-only for me): `byoungd/up`
-- My fork (where this folder lives): `wisalu1983-cell/up`
+从2026-10-12起，本目录是训练目标、当前状态、方法方针、表达库、计划和复盘的主档案。每天继续在ChatGPT制定与执行训练；完成复盘后将相关资料提交到这里。既有ChatGPT档案保留为迁移快照。
 
-## Folder layout
+## 新会话读取顺序
 
-```
-my-journey/
-├── README.md              # this file
-├── gdc-2027-plan.md       # main goal + phased plan for GDC 2027
-├── diagnostics/           # dated copies of english-diagnostic.md, filled in
-├── weekly-reviews/        # dated copies of weekly-review.md, filled in
-└── resources/             # reference materials used for learning
-    └── talks/              # conference talks and related source files
-        └── gdc-2024-ai-workflows/
-            ├── README.md
-            └── media/      # audio, video, readable transcripts, and subtitles
-```
+1. [当前学习状态](current-state.md)
+2. [当前训练方针与Level Up方法应用](training-policy.md)
+3. [GDC目标与滚动规划](gdc-2027-plan.md)
+4. [个人表达缺口与复用库](expression-bank.md)
+5. [计划索引](plans/README.md)及[训练记录索引](sessions/README.md)中的最近记录
+6. 按需要读取[材料目录](resources/README.md)与[历史归档](archive/README.md)
 
-## Sync workflow (fork + stay updated with upstream)
+历史文件保留当时的观察与安排；有冲突时，以当前方针和最近可核实的实际证据为准。不会因未拿到某次会话就推断没有练习。
 
-This repo has two remotes:
+## 与 Level Up 的关系
 
-| Remote     | URL                                  | Purpose                          |
-| ---------- | ------------------------------------- | --------------------------------- |
-| `origin`   | https://github.com/wisalu1983-cell/up | My fork — push my plans here      |
-| `upstream` | https://github.com/byoungd/up         | Original guide — pull updates from here |
+本目录是个人学习扩展，原项目byoungd/up的作者介绍属于原作者。方法来源见[应用对照](training-policy.md#方法来源与个人适配)。以真实任务、独立首答、具体反馈、平行迁移和滚动复盘设计训练。
 
-**Push my own progress (to my fork):**
+## 提交与归档约定
 
-```bash
-git add my-journey/
-git commit -m "update: <what changed>"
-git push origin master
-```
+用户已于2026-10-12授权：使用现有仓库，日常训练资料完成复盘后允许直接提交。
 
-**Pull the latest guide updates from the original author:**
+- 授权范围：本目录的英语训练计划、实际复盘、状态、表达库、阶段评估及必要材料索引。
+- 新计划在这里输出供执行；默认随完成后的复盘一起提交。用户另行要求保存计划时可以提前提交，并明确标记未执行。
+- 完成后规划老师读取实际会话，整理证据，再一并提交计划、复盘及必要状态更新。执行老师只做简短口头反馈。
+- 只提交可取得的记录。缺失原文、时间或音频时注明范围；不能用计划补写实际过程。
+- 不修改Level Up上游方法正文、网站配置或无关项目。遇到版本冲突先读取新内容，保留他人变更。
+- 当前仓库为公开仓库。本次迁移依据用户已确认的仓库选择执行；后续资料只包含训练必要内容。
+- 提交成功后返回commit链接；失败时说明哪些资料尚未归档。
 
-```bash
-git fetch upstream
-git merge upstream/master
-# resolve conflicts if any (rare, since my-journey/ is untouched upstream)
-git push origin master   # keep my fork updated too
-```
+## 保持与上游同步
 
-Since all my personal content lives only in `my-journey/` (a path the upstream
-repo doesn't touch), merging upstream updates should almost never conflict.
+origin为[个人仓库](https://github.com/wisalu1983-cell/up)，upstream为[原项目](https://github.com/byoungd/up)。
 
-## Optional: contribute back
-
-If something in `my-journey/` turns into a generally useful improvement to the
-guide itself (not just personal notes), open a PR from my fork back to
-`byoungd/up` the normal GitHub way.
+个人训练资料放在my-journey/；同步原项目时保留该目录的内容。训练归档不自动发起向上游的贡献。

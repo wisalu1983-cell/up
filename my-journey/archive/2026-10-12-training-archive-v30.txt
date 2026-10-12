@@ -1,0 +1,4171 @@
+# 英语口语练习记录
+**整理范围：2026-07-15 ～ 2026-10-12**
+
+> 本文档整理当前可确认的英语口语练习对话、单次总结与阶段性观察。  
+> 目的：持续积累真实听力与口语证据，为后续阶段性综合评估和训练方针制定提供依据。  
+> 记录原则：区分“用户自然产出”“教师提示后产出”“用户明确反馈”，不把跟读成功直接视为已经掌握。
+
+---
+
+## 一、长期训练目标与记录规则
+
+### 核心现实目标：2027 年 3 月初参加 GDC
+
+用户发起整套英语口语训练的主要目的，是为 2027 年 3 月初参加 GDC 做准备。届时需要重点完成两类真实任务：
+
+1. 提高大会演讲的理解效果，能够抓住主题、论点、结构和关键细节。
+2. 在美国停留及参会期间完成日常沟通、会场交流和基础社交，避免因英语能力明显影响行动与沟通。
+
+后续训练必须围绕这一目标设计，同时继续解决当前已确认的语法自动化、固定搭配和连续听力问题。
+
+#### 大会演讲听力能力
+
+训练内容逐步覆盖：
+
+- 听出演讲主题和核心观点。
+- 识别 `first`、`however`、`the key point is`、`for example`、`in conclusion` 等结构信号。
+- 保留数字、案例、因果关系、对比和结论。
+- 遇到陌生术语时继续跟住后续内容。
+- 用关键词做简短记录。
+- 听完后用英语或中文复述主旨与关键细节。
+- 逐步适应游戏开发、AI、产品设计、玩家研究和制作管理等 GDC 常见主题。
+
+听力材料长度按以下方向提高：
+
+- 当前阶段：30～90 秒。
+- 中期阶段：1～3 分钟。
+- 临近出发阶段：3～5 分钟，并加入接近真实演讲的语速、结构和信息密度。
+
+#### GDC 现场交流能力
+
+训练场景逐步覆盖：
+
+- 用 20～30 秒介绍自己、职业和团队职责。
+- 用 1～2 分钟介绍正在做的游戏或 AI 项目。
+- 与演讲者或参会者进行 small talk。
+- 询问对方的项目、职位和观点。
+- 对没听清的内容进行确认、追问和复述。
+- 表达赞同、保留意见、兴趣和进一步问题。
+- 交换联系方式并自然结束对话。
+- 完成大会注册、寻找会场、询问日程和处理现场问题。
+
+#### 赴美日常沟通能力
+
+持续加入以下真实场景：
+
+- 机场入境和行李问题
+- 酒店入住与问题处理
+- 出租车和 rideshare
+- 餐厅点餐与结账
+- 问路和公共交通
+- 购物与支付
+- 身体不适或物品遗失等临时情况
+
+#### 阶段安排
+
+- 2026 年 9 月至 10 月：继续自动化高频句型，完成 30～90 秒听力，建立日常场景基础。
+- 2026 年 11 月至 12 月：加入 1～3 分钟迷你演讲、关键词记录、自我介绍和 networking 对话。
+- 2027 年 1 月至 2 月：增加 3～5 分钟 GDC 风格演讲、会后交流、问答和完整现场模拟。
+- 2027 年 3 月出发前：集中复测高频场景、听力策略、个人介绍、项目介绍和应急表达。
+
+日常生活、家庭、体育和兴趣话题继续用于训练自然表达。每周应稳定加入 GDC 演讲听力、参会交流或赴美生活场景，并根据实际表现逐步增加比重。
+
+### 训练流程
+
+1. **观察阶段**
+   - 每天进行一段英语对话，由老师主导或共同推进。
+   - 观察听力理解、反应速度、词汇、语法、流利度、发音、句子组织、固定搭配和表达习惯。
+   - 优先保留真实自然输出，不因频繁纠错破坏完整表达。
+
+2. **阶段性评估**
+   - 积累足够样本后，对多次对话进行综合分析。
+   - 区分偶发错误与稳定问题。
+   - 判断最值得优先提升的能力，并制定训练策略。
+
+3. **针对性训练**
+   - 按评估结果设计每日对话、听力输入、复述、句型复用和专项练习。
+   - 一段时间后再次评估并更新方针。
+
+### 单次记录要求
+
+每次练习结束后，保留：
+- 对话主题与任务
+- 用户自然表达样本
+- 听力理解情况
+- 口语流利度
+- 词汇与固定搭配
+- 语法与句型
+- 发音或语音辨别
+- 做得较好的部分
+- 主要问题
+- 典型错误与修正
+- 下一步观察或训练重点
+
+### 交流偏好
+
+- 训练时主要使用英语。
+- 听不懂时由用户主动提出，再进行重复或解释。
+- 复杂表达可以逐句拆解，再由用户完整重组。
+- 用户有时会先用中文说明复杂意思，再学习自然英文表达。
+- 避免过度逐句跟读，保留足够的自由表达样本。
+
+---
+
+# 二、单次训练记录
+
+## 2026-07-15｜首次系统口语水平采样
+
+### 主题
+- 自我介绍
+- 出生与居住地
+- 职业与团队职责
+- 最近两周的工作
+- AI Agent 技术 Demo / Proposal
+
+### 用户自然表达样本
+
+> I'm Kala and I'm from China, Shanghai.  
+> I borned in Shanghai...  
+> I live in Hongkou District now.  
+> I'm a game producer.
+
+> I lead a team of game designers, programmer, artists and QA members.
+
+> I review and confirm each member's work.
+
+> In the past two weeks, I have been working on a proposal of a demo to present an AI agent framework we are developing.
+
+### 主要语言证据
+
+#### 1. 基础自我介绍能力
+能够独立完成姓名、城市、居住地区、职业等基础信息表达。
+
+典型问题：
+
+> I borned in Shanghai.
+
+修正：
+
+> I was born in Shanghai.
+
+经过多次提醒后可以正确说出：
+
+> I was born in Shanghai and I live in Hongkou District now.
+
+说明 `born` 这一固定结构最初没有自动化，但能够在明确反馈后修正。
+
+#### 2. 工作内容表达
+能够使用已有词汇描述团队结构及职责，出现以下问题：
+
+- `programmer` 单复数不稳定
+- `designer` 单复数不稳定
+- `members` 与 `each member's work` 的对应关系需要帮助
+- 复杂职责描述时会频繁自我修正
+
+较稳定的目标表达：
+
+> I'm a game producer.  
+> I lead a team of designers, programmers, artists, and QA.  
+> I review and confirm each member's work.
+
+#### 3. 复杂工作内容
+用户可以表达“过去两周一直在准备技术 Demo / Proposal”，但时态选择明显不稳定：
+
+> I had... I've... I was... I was doing...
+
+提示后可以使用：
+
+> In the past two weeks, I have been working on...
+
+这说明用户对现在完成进行时有一定接受能力，但尚未自动化。
+
+#### 4. 词汇提取
+“游戏方案”无法立即找到英文。
+
+本次学习：
+- `proposal`
+- `design proposal`
+- `technical proposal`
+- `technical prototype`
+- `AI agent framework`
+
+### 流利度表现
+
+特点比较明显：
+- 想表达的内容通常清楚
+- 英文组织跟不上思维时会大量使用 `uh`
+- 会在句子中途主动推翻并重启
+- 自我修正本身会进一步降低流利度
+
+早期观察：
+
+**内容思维能力领先于英文实时句子组织能力。**
+
+### 听力表现
+
+可以理解简单、短句式的指令和纠正。复杂工作表达采用逐句学习时，需要较慢语速和重复。
+
+### 本次阶段判断
+
+优势：
+- 表达意愿强
+- 有足够基础词汇完成日常和工作沟通
+- 接受修正后能够快速复述
+- 可以讨论真实工作内容
+
+需要继续观察：
+- 时态
+- 单复数
+- 固定搭配
+- 复杂句即时组织
+- 自我修正导致的卡顿
+- 较长英语输入的理解能力
+
+---
+
+## 2026-09-06｜早餐与日常通勤对话
+
+### 主题
+- 简单听力热身
+- 早餐习惯
+- 咖啡、牛奶、面包、馒头
+- 环境噪音下要求重复
+- 描述车辆经过造成听力干扰
+
+### 听力证据
+
+开始时听到：
+
+> Try to catch the rhythm.
+
+用户反馈：
+
+> I can hear clearly, but I didn't understand the last sentence well.
+
+解释 `rhythm` 后可以继续。
+
+之后能够理解：
+
+> When you skip coffee, do you usually go with milk or tea in the morning?
+
+以及：
+
+> Do you usually have it with bread or something else?
+
+并能够立即回答。
+
+初步判断：
+
+**熟悉日常语境中的短句理解较稳定。遇到陌生表达、较长输入或环境噪音时，理解率下降。**
+
+### 用户自然表达样本
+
+> Both is my favorite.
+
+> Maybe the western style.
+
+> Bread, milk. But I don't drink coffee. I don't like coffee.
+
+> I eat a cup of milk every morning.
+
+> Sometimes bread, sometimes... Mantou.
+
+> Anything I can get in the kitchen or in the fridge.
+
+### 典型错误与修正
+
+| 原始表达 | 更自然表达 | 观察点 |
+|---|---|---|
+| Both is my favorite. | I like both. | 主谓一致 / 自然表达 |
+| I eat a cup of milk every morning. | I drink a cup of milk every morning. | 动词搭配 |
+| I drank a cup of milk every morning. | I drink a cup of milk every morning. | 日常习惯用一般现在时 |
+| In morning... | In the morning... | 冠词 |
+| my message | my messages | 单复数 |
+
+### 很有价值的真实交流样本
+
+车辆经过后，用户尝试说明：
+
+> A car just rushed beside me... and it makes a very large voice, so I can't hear clear... the last sentence you said. So please pardon to me.
+
+自然表达：
+
+> A car just rushed past me and made a really loud noise, so I couldn't hear what you said. Could you say that again, please?
+
+这里暴露的重点：
+- `rush past me`
+- `make a loud noise`
+- `couldn't hear ... clearly`
+- `say that again`
+
+核心词汇基本存在，主要困难在固定搭配和自然组合方式。
+
+### 本次总结
+
+优点：
+- 能持续完成真实日常交流
+- 听不懂时会主动说明
+- 即使缺词，仍会利用现有词汇把意思传达出来
+- 交流意愿稳定
+
+主要问题：
+- 实时口语自我修正较多
+- 固定搭配不足
+- 时态、冠词、单复数容易在自然口语中丢失
+
+训练原则开始明确：
+
+**先完整说完，再集中修改。**
+
+---
+
+## 2026-09-07｜周一通勤与工作安排
+
+### 主题
+- 周末工作
+- 到公司后的工作安排
+- 游戏 Demo 文档
+- 学习 `organize`
+- 学习短语 `jump straight in`
+
+### 用户自然表达样本
+
+> I'm on my way to the company and I'm going to the metro station.
+
+> When I arrive my office, I will 整理 the jobs and the documents I made in the weekend.
+
+> I almost worked... maybe fifteen hours in the weekend to make some new documents, new design for my game demo.
+
+### 新词与表达
+
+“整理”：
+
+> organize
+
+用户能够立即尝试：
+
+> Organize my documents I made in the weekend.
+
+更自然：
+
+> Organize the documents I made over the weekend.
+
+### `jump straight in`
+
+用户第一次听到该短语时未理解，主动要求：
+- 解释
+- 拼写
+- 使用场景
+
+学习过程：
+
+> jump straight in
+
+含义：
+
+> start immediately / start right away
+
+用户随后尝试迁移：
+
+> When I attend my office, I will jump straight in organizing documents I made in the weekend.
+
+修正：
+
+> When I get to the office, I'll jump straight in and organize the documents I made over the weekend.
+
+### 听力与学习能力证据
+
+这是本次非常重要的证据。
+
+用户面对陌生短语时会主动完成以下步骤：
+
+1. 发现自己没理解
+2. 要求重复
+3. 要求解释
+4. 要求拼写
+5. 确认含义
+6. 放进自己的工作场景中使用
+
+说明用户具有较好的**主动词汇学习和即时迁移能力**。
+
+### 典型语言问题
+
+| 原始表达 | 建议表达 |
+|---|---|
+| arrive my office | arrive at the office / get to the office |
+| attend my office | get to the office |
+| in the weekend | over the weekend |
+| What's your recommend? | What would you recommend? |
+| I didn't hear clear. | I couldn't hear you clearly. |
+
+### 本次总结
+
+优势：
+- 可以描述真实工作计划
+- 新短语学习后的迁移能力较好
+- 会主动确认自己是否理解正确
+- 沟通策略比较成熟
+
+主要观察点：
+- 介词
+- 动词搭配
+- 副词使用
+- 新表达能否在几天以后无提示复用
+
+---
+
+## 2026-09-08｜讲述女儿夜间害怕失去父母的经历
+
+### 主题
+- 讲述昨晚发生的家庭事件
+- 补充一两年前类似经历
+- 表达女儿对未来死亡和失去父母的恐惧
+- 表达自己作为父亲的复杂感受
+- 讨论如何帮助孩子缓解恐惧
+
+### 用户自然叙述样本
+
+> She cried and cried and moaned and go outside and walk to me.
+
+> I don't want to sleep. I imagine... someday I will lose you and mom. I'm so scared. I'm so upset.
+
+> It was not the first time.
+
+> She will lost me and my wife.
+
+> She realized sometimes we will die, so that's why she got scared.
+
+### 抽象情绪表达
+
+用户说：
+
+> It's complicated.
+
+并尝试：
+
+> One part is I feel warm... that she truly loves us and she truly rely on us.
+
+> The other part is... it remind me...
+
+随后遇到“消解她的这些恐惧”无法找到英文表达。
+
+可用表达：
+
+> help her cope with these fears
+
+> ease her fears
+
+较自然的情绪表达：
+
+> Part of me feels touched because she really loves us and relies on us.
+
+### 典型错误
+
+| 原始表达 | 建议表达 | 观察点 |
+|---|---|---|
+| She will lost me and my wife. | She will lose us. | 动词原形 |
+| She truly rely on us. | She really relies on us. | 第三人称单数 |
+| It remind me... | It reminds me... | 第三人称单数 |
+| I feel warm. | I feel touched. | 情绪词选择 |
+| one part is... the other part is... | Part of me feels... and another part of me... | 抽象表达结构 |
+| she go outside | she went outside | 过去时 |
+
+### 听力证据
+
+用户之后主动补充：
+
+> 最后一段关于如何帮助女儿应对恐惧的较长英文建议，我听懂大概的意思，但没有完全听明白里面的细节。
+
+因此正式记录：
+
+**主旨理解成功，细节理解不完整。**
+
+这一证据非常重要，因为此前多数对话较短。本次较长、抽象、连续的英语输入开始暴露：
+
+- 长句实时解析
+- 抽象词汇
+- 连续信息保持
+
+可能存在明显瓶颈。
+
+### 本次总结
+
+相比早餐等日常话题，本次语言任务明显升级。
+
+积极证据：
+- 可以独立叙述真实事件
+- 能补充过去背景
+- 能表达原因与情绪
+- 可以讨论较抽象的人际和心理内容
+
+主要问题：
+- 过去时不稳定
+- 第三人称单数不稳定
+- 抽象情绪词汇不足
+- 较长英语输入只能稳定抓住主旨，细节能力尚待加强
+
+---
+
+## 2026-09-10 上午｜天气、通勤与复杂工作任务
+
+### 主题
+- 天气
+- “阳光不那么毒辣”
+- 微风与通勤
+- 一个非常复杂的工作文档
+- 一个中心文档牵连大量系统修改
+- 希望未来两天完成工作
+
+### 用户主动发起天气话题
+
+> Today I want to be the first one. Let's talk about the weather.
+
+用户尝试表达：
+
+> The weather is not so boiling like two weeks ago.
+
+> It's sunshine but the sun is not very... 不那么毒辣.
+
+本次学习：
+
+> harsh
+
+自然表达：
+
+> The weather isn't as hot as it was two weeks ago.  
+> It's sunny today, but the sun isn't as harsh.
+
+随后用户使用：
+
+> The breeze... the wind is blowing... it's fresh.
+
+建议：
+
+> There's a nice breeze and it feels fresh.
+
+### 自然日常表达中的问题
+
+用户说：
+
+> Everything is as normal around me.
+
+可表达：
+
+> Everything is normal, as usual.
+
+用户说：
+
+> The life and jobs waiting me to do has no changed.
+
+自然表达：
+
+> The work waiting for me hasn't changed.
+
+### 复杂工作内容
+
+用户先用中文说明完整概念：
+
+- 有一个很大、很复杂的问题
+- 正在写非常复杂的中心文档
+- 文档牵连很多其他地方
+- 从架构到细节都需要处理
+- 已经处理近两周
+- 希望未来两天收尾
+- 完成有挑战
+
+用户明确要求：
+
+> Teach me to express one sentence by one sentence.
+
+这进一步确认：
+
+**复杂表达时，用户偏好先逐句建立结构，最后再自己完整重组。**
+
+### 分句训练
+
+第一句：
+
+> I'm writing a big and complicated document.
+
+第二句：
+
+> It affects a lot of parts.
+
+第三句：
+
+> I'm struggling with it for almost two weeks.
+
+第四句：
+
+> I hope I can finish it in the next two days, but it seems very challenging.
+
+### 用户最后完整重组
+
+> I'm writing a big and complicated document, it affects a lot of parts of my job. I'm struggling with it for the last two weeks and I hope I can finish it in the last two days, but it seems very challenging.
+
+这是一条很有价值的能力证据：
+
+**经过短时间脚手架支持后，能够保持四个信息点并重新组合成一段连续英语。**
+
+同时仍有两个时间结构问题：
+
+> for the last two weeks
+
+在这个语境中更自然：
+
+> I've been struggling with it for almost two weeks.
+
+以及：
+
+> in the last two days
+
+未来时间应为：
+
+> in the next two days
+
+用户之后可以正确修正 `next two days`。
+
+### 其他语言点
+
+用户说：
+
+> It will very challenging.
+
+应为：
+
+> It will be very challenging.
+
+用户说：
+
+> Not worst.
+
+此处自然表达：
+
+> Not bad.
+
+### 听力证据
+
+对于：
+
+> How do you feel now that you've said it all in English?
+
+用户没有听清并要求重复。
+
+这与 9 月 8 日形成连续证据：
+
+**短问答较稳定；句子拉长或结构变复杂后，实时听力理解明显下降。**
+
+### 本次总结
+
+今天最值得记录的能力：
+
+**复杂意思经过逐句学习后，可以被用户自行重新整合。**
+
+当前逐渐清晰的三个重点：
+
+1. 英语句型自动化
+2. 较长英语输入的实时解析
+3. 复杂中文概念转换成英文的速度
+
+---
+
+## 2026-09-10 补充练习｜美国机场入境情景对话
+
+### 主题
+为 2027 年 3 月前往旧金山参加 GDC 做英语准备。
+
+用户主动询问“情景对话”的英语表达，并提出进行机场场景 Role-play。
+
+可用说法：
+
+> situational dialogue
+
+实际练习中更常用的训练说法：
+
+> role-play
+
+### 场景
+美国机场入境检查。
+
+模拟问题：
+
+> What's the purpose of your visit?
+
+用户自然回答：
+
+> I come to America and I will go to San Francisco to have a conference in Google... GDC 2027.
+
+更自然：
+
+> I'm here to attend the Game Developers Conference in San Francisco.
+
+第二个问题：
+
+> How long will you stay?
+
+用户回答：
+
+> Maybe 5 to 7 days. I will stay around...
+
+简化后：
+
+> I'll stay about a week.
+
+用户能够成功复述：
+
+> I will stay about a week.
+
+### 本次能力证据
+
+- 能够主动提出明确的现实使用场景。
+- 对机场入境这类固定问答，可以通过短句训练迅速形成可用表达。
+- 嘈杂环境下再次出现没听清，并主动要求重复。
+- 用户明确要求老师说慢一点。
+- 对固定、高频旅行表达的学习效率较高。
+
+### 值得修正的表达
+
+用户说：
+
+> When I land off in America...
+
+通常可说：
+
+> When I land in the US...
+
+或者：
+
+> When I arrive in the US...
+
+用户说：
+
+> I just arrived in my office.
+
+自然表达：
+
+> I just arrived at the office.
+
+或：
+
+> I just got to the office.
+
+---
+
+# 三、截至 2026-09-10 的累计观察
+
+> 以下仍属于观察阶段结论，会随着后续样本继续校准。
+
+## 1. 口语表达能力
+
+用户已经能够进行：
+- 基础日常交流
+- 描述生活习惯
+- 说明工作安排
+- 讨论专业工作内容
+- 讲述过去事件
+- 表达原因
+- 尝试表达复杂情绪
+- 处理旅行场景固定问答
+
+因此当前的主要限制已经逐渐集中到：
+
+### A. 实时句子组织速度
+
+脑中意思通常完整，但英文句子生成速度较慢。
+
+常见现象：
+- `uh`
+- 重复开头
+- 说到一半重启
+- 同时搜索词汇与语法结构
+
+### B. 语法自动化不足
+
+高频问题包括：
+- 过去时
+- 现在完成进行时
+- 第三人称单数
+- `be` 动词
+- 单复数
+- 冠词
+- 时间介词
+- 地点介词
+
+很多结构经过提示能够理解和修正，说明问题未必只是“不会语法”，更可能包括：
+
+**口语状态下无法足够快地自动调用正确结构。**
+
+## 2. 词汇情况
+
+基础词汇能够支撑日常交流。
+
+明显薄弱区域：
+- 固定搭配
+- 动词与介词搭配
+- 抽象情绪
+- 复杂工作流程
+- 自然口语短语
+
+近期学习样本：
+- organize
+- proposal
+- technical prototype
+- AI agent framework
+- jump straight in
+- harsh
+- affect
+- struggle with
+- challenging
+- wrap it up
+- cope with
+- ease someone's fears
+
+需要特别注意：
+
+**学习后能够复述，并不等于已经进入主动词汇。**
+
+后续应该观察这些词是否能在几天以后无提示重新出现。
+
+## 3. 听力情况
+
+目前证据呈现出较一致的层次：
+
+### 熟悉语境 + 短句
+理解相对稳定，可以直接回答。
+
+### 新短语
+可能无法立即识别，但在：
+- 重复
+- 拼写
+- 简短解释
+
+之后能够迅速建立理解。
+
+### 较长自然英语
+能够抓住大意，但细节可能丢失。
+
+9 月 8 日已经由用户明确确认：
+
+> 能听懂大概意思，但没有完全听懂细节。
+
+9 月 10 日较长的问题再次出现未听清现象。
+
+因此“长句实时听力”已经成为需要重点验证的候选训练方向。
+
+## 4. 学习方式方面的优势
+
+目前比较明确：
+
+### 主动澄清能力较好
+听不懂会主动说：
+- `Pardon?`
+- `I didn't hear clearly.`
+- `Please explain it to me.`
+- `How do you spell it?`
+
+### 新表达迁移能力较好
+例如 `jump straight in`：
+
+从完全陌生，到理解、拼写确认，再放入自己的工作场景使用，在同一次对话中完成。
+
+### 有真实沟通意识
+不知道准确英文时，仍会尝试使用现有词汇完成信息传递。
+
+### 复杂表达适合“拆解 → 重组”
+9 月 10 日复杂工作文档的描述是目前最清楚的证据：
+- 独立表达困难
+- 逐句建立结构
+- 最后可以自行连续复述
+
+这一训练方式后续值得继续使用。
+
+---
+
+# 四、目前最值得继续验证的项目
+
+在正式阶段性评估之前，还需要增加以下样本：
+
+### 1. 无脚手架连续叙述
+连续讲述一件过去发生的事情约 1～2 分钟。
+
+观察：
+- 过去时
+- 时间顺序
+- 连词
+- 卡顿
+- 自我修正
+
+### 2. 熟悉专业内容解释
+用英语解释一个自己非常熟悉的游戏系统或工作流程。
+
+观察：
+- 英文能力与专业知识之间的差距
+- 长句组织
+- 逻辑连接
+- 专业词汇提取
+
+### 3. 中等长度听力 + 复述
+听一段自然英语，然后先说自己听懂了什么。
+
+观察：
+- 主旨
+- 细节
+- 信息保持
+- 陌生词影响
+- 长句解析
+
+### 4. 观点表达
+对一个熟悉话题说明自己的看法和理由，并接受追问。
+
+观察：
+- 抽象表达
+- 即时反应
+- because / but / although / if 等结构
+- 连续论述
+
+### 5. 已学结构无提示复测
+观察此前学过的：
+- `jump straight in`
+- `in the next two days`
+- `I've been working on...`
+- `get to the office`
+- `over the weekend`
+
+能否自然再次出现。
+
+---
+
+# 五、当前暂定能力画像
+
+| 维度 | 当前观察 |
+|---|---|
+| 日常沟通 | 已具备较稳定基础 |
+| 自发表达 | 能表达真实内容，复杂度上升后卡顿增加 |
+| 流利度 | 自我修正、重复、填充音较明显 |
+| 语法 | 理解能力高于口语自动调用能力 |
+| 词汇 | 基础词汇够用，固定搭配和抽象表达偏弱 |
+| 听力短句 | 相对稳定 |
+| 听力长句 | 主旨通常可获得，细节能力需要加强验证 |
+| 新词学习 | 即时理解和迁移速度较好 |
+| 发音 | 暂未发现严重妨碍交流的问题，仍需更多样本 |
+| 交流策略 | 主动澄清和维持交流能力较好 |
+
+---
+
+# 六、2026-09-14 正式综合评估
+
+第一阶段正式综合评估已经完成，后续直接进入针对性训练，无需重新进行基础水平测试。
+
+## 当前能力定位
+
+- 口语功能约为 CEFR B1。
+- 熟悉语境和短句听力接近 B1。
+- 自然长句、陌生表达和连续信息听力约为 A2+～B1。
+- 定位仅服务训练设计，不等同于正式考试成绩。
+
+## 已确认优势
+
+- 能在没有脚本的情况下完成日常交流、过去事件叙述、工作问题说明和简单旅行情景对话。
+- 缺词时能够维持交流，并主动要求重复、解释或拼写。
+- 新表达的即时理解与迁移较快。
+- 复杂意思经过“短句拆解—逐句说准—重新连接”后，能够形成完整表达。
+
+## 当前训练优先级
+
+1. 高频句型和语法自动化：过去时、助动词后原形、第三人称单数、be 动词、冠词、单复数、时间与地点介词。
+2. 自然长句听力实时解析：重点使用 20～40 秒输入，分别检测主旨、细节、信息保持和长句结构。
+3. 固定搭配和自然组合：基础词汇基本够用，重点提升词块调用速度。
+4. 复杂表达先拆成 2～4 个短句，再使用 `but`、`so`、`then`、`because`、`and` 等连接。
+
+## 暂不列为主要瓶颈
+
+- 发音：目前没有发现严重妨碍理解的问题。
+- 基础词汇量：当前限制主要来自固定搭配和实时调用速度。
+
+---
+
+# 七、2026-09-14 至 2026-09-21 单次记录
+
+## 2026-09-14｜曼联比赛自由叙述
+
+### 自然产出
+
+用户连续讲述红牌、11 对 10、两次击中门框、VAR、丢球、0 比 1 失利、深夜观赛后的失望，以及第二天重新面对工作。该样本确认用户能够完成完整的过去事件叙述。
+
+### 当次学习与重构
+
+- `take advantage of`
+- `hit the post`
+- `violent conduct`
+- `lost 1–0`
+- `the bubble burst`
+- `pick myself up`
+
+短句重构后成功组合：
+
+> We had an extra player.  
+> We didn’t take advantage of it.  
+> Then they scored.
+
+### 观察
+
+自由叙述能力已经达到真实交流水平。过去时、固定搭配和复杂句实时组织仍需持续自动化。
+
+## 2026-09-14 补充｜业余门将比赛
+
+### 自然产出
+
+用户讲述新赛季首场比赛，球队 4–0 获胜。本人几乎没有扑救任务，主要通过喊话和指挥防守参与比赛，并比较了上赛季对阵同一对手时的不同。
+
+### 当次表达
+
+- `clean sheet`
+- `steady`
+
+### 观察
+
+能够围绕熟悉的体育经历连续叙述，并补充比较与评价。
+
+## 2026-09-15｜午间按摩与同事沟通
+
+### 当次学习
+
+- `during lunch`
+- `I’m getting a massage.`
+- `Feel free to contact me.`
+- `If anything’s urgent, feel free to ping me.`
+- `pick one near the office`
+
+### 延迟复现证据
+
+提示后曾正确说出：
+
+> I’m getting a massage during lunch.  
+> If anything’s urgent, feel free to ping me.
+
+几分钟后自由复述重新出现：
+
+> I’m getting to have a massage.  
+> in the lunch time  
+> if anything urgent
+
+### 结论
+
+该次训练明确证明：当场跟读或提示后正确，尚未等于主动掌握。后续必须进行当场、约 5 分钟后、第二天和数天后的分层复测。
+
+## 2026-09-16｜旧表达回忆与短听力
+
+### 无提示或较顺利回忆
+
+- `jump straight in`
+- `How’s it going?`
+- `If anything’s urgent, feel free to ping me.`
+- `I’m waiting for the traffic light and I feel calm.`
+- `I’m going to check the Dianping app and pick one near my office.`
+- `The task is quite challenging, but I can deal with it.`
+
+### 需要提示
+
+- `affect`
+- `I’m familiar with…`
+
+### 无效训练案例
+
+短听力后引入 `a quick reset`。用户尚未理解该表达时即被要求造句，并连续反馈：
+
+> I don’t get it.  
+> I don’t know how to speak.
+
+后续规则：先确认理解，再进行复用；不为完成流程强迫迁移价值不高或尚未理解的表达。
+
+## 2026-09-17｜朋友聚餐、第三人称单数与短句听力
+
+### 训练概况
+
+- 实际有效训练约 15 分钟，分两段完成。
+- 第一段完成旧表达复测、第三人称单数、否定结构和短句连接训练。
+- 恢复后完成短听力、复述和结束反馈。
+- 六项旧表达均已复测，但跨会话记录未保留逐项回答和提示层级，因此不更新掌握状态。
+
+### 自然产出与语法证据
+
+初始自然表达：
+
+> My friend usually uh choose the restaurant…
+
+> he seems not want to decide it.
+
+暴露的问题：
+
+- 第三人称单数在首次自然输出中仍未自动出现。
+- 否定表达未能立即调用 `doesn’t + 动词原形`。
+- 组织稍长句子时仍有停顿、重启和重复连接词。
+
+中间产出：
+
+> He doesn't want to decide Saturday.
+
+> Usually my friend chooses the restaurant to go, but this Saturday he doesn't want to choose it.
+
+提示和重构后的目标表达：
+
+> My friend usually chooses the restaurant, but he doesn't want to choose it this Saturday.
+
+这条表达同时维持了：
+
+- `my friend → chooses`
+- `doesn’t want → choose`
+- 使用 `but` 连接两个简单意思
+
+当前状态：提示和重构后能准确说出，尚无约五分钟后无提示复现证据。掌握层级暂记为第 3 级。
+
+### 短听力证据
+
+实际听力核心内容：
+
+> Even though we were all really hungry, nobody wanted to pick because everyone was tired after work.
+
+用户第一次复述：
+
+> Everyone's hungry, but no one wants to uh choose a restaurant, because, everyone's feel tired after a whole day's work.
+
+用户保留了三个核心信息：
+
+- 大家都饿了。
+- 没有人愿意选择餐厅。
+- 原因是大家工作以后都很累。
+
+用户明确表示第二部分没有听清，并确认：
+
+> I didn't hear clear the second sentence. Is it Did you say nobody wants to pick
+
+再次尝试时出现：
+
+> Although everyone feel hungry, but no one wants to uh pick, because everyone's feel tired after holiday's work.
+
+之后能够准确说出：
+
+> Everyone felt tired after work.
+
+听力判断：
+
+- 主旨准确，完整保留“饿了—没人想选—因为累了”的因果链。
+- 词汇理解没有显示明显障碍。
+- 主要困难集中在听后结构保持和重新组织。
+- `everyone's feel tired`、`everyone feel hungry` 显示 be 动词与实义动词结构仍会混合。
+- `Although ... but ...` 仍需训练英文连接方式。
+
+本次材料明显短于计划要求，无法据此判断 25～35 秒自然英语的信息保持能力。
+
+### 未完成或无有效证据的项目
+
+- `work for everyone`：没有实际教学、理解确认或迁移证据，继续标记为待测试。
+- 两条重构句的正式延迟复现：没有找到符合要求的执行证据。
+- 标准长度听力：计划要求约 60～75 词，实际材料过短。
+- 六项旧表达复测：已执行，但逐项提示层级无法恢复，不能更新为自然掌握。
+
+### 当次结论
+
+9 月 17 日进一步确认：语法知识已经存在，首次自然开口时自动调用仍不稳定。短时拆解和重构能够明显改善第三人称单数、否定结构和短句连接。短听力的主旨及因果关系保持较好，标准长度的连续信息保持仍待测试。
+
+### 下次优先复测
+
+1. `My friend usually chooses…`
+2. `He doesn’t want to choose…`
+3. `Everyone is tired.` 与 `Everyone was tired.`
+4. `work for everyone`
+5. 25～35 秒、约 60～75 词的自然听力
+
+复测时必须保留逐项原始回答和提示层级，并在约五分钟后再次测试当天的关键修正句。
+
+## 2026-09-20｜家庭周末活动、标准长度听力与主动迁移
+
+### 训练概况
+
+- 本次执行的是 9 月 19 日制定的训练计划。
+- 有效训练约 18 分钟，中途暂停一次，恢复后从未完成环节继续。
+- 旧结构复测、自由表达、句子重构、67 词听力、`work for everyone` 学习与延迟复测均已执行。
+- 实际用时超过计划，主要原因是听力材料进行了多次重复和局部解释。
+
+执行偏差：
+
+- 第二条重构句训练了妻子使用手机的表达，未完成 `everyone + is / feels` 的专项重构。
+- 两条重构句的延迟时间不足约五分钟。
+- `work for everyone` 的结束复测继续使用同事聚餐和掷骰子的场景，尚未证明跨场景迁移。
+
+### 旧结构复测
+
+#### 第三人称单数
+
+第一次自然回答：
+
+> Usually he choose it.
+
+无提示表达中仍漏掉 `-s`，继续列为未稳定掌握。
+
+#### `doesn’t + 动词原形`
+
+第一次自然回答：
+
+> He doesn't want to choose it.
+
+无提示且完全正确。该结构相较 9 月 17 日明显进步，已出现跨天延迟成功证据，暂记为第 5 级。
+
+#### `everyone + be`
+
+第一次自然回答：
+
+> They felt tired.
+
+意思正确，但回避了目标主语，`Everyone was tired after work.` 仍缺乏无提示证据。
+
+#### `familiar with`
+
+第一次回答：
+
+> I'm familiar to the system.
+
+经过语义引导后能够恢复：
+
+> I'm familiar with the system.
+
+当前状态为可以恢复，尚未完全自动化。
+
+#### `over the weekend`
+
+第一次相关表达：
+
+> Usually I will watch a football game in the weekend.
+
+后续改成过去时：
+
+> We watched a movie in the weekend.
+
+时态得到修正，但介词仍回到 `in the weekend`。`over the weekend` 尚未掌握。
+
+### 自由表达证据
+
+主题为一家三口安排周末下午。用户能够持续说明：
+
+- 女儿想玩电子游戏。
+- 妻子喜欢躺在沙发上使用手机。
+- 自己倾向于玩游戏，也可能需要周末工作。
+- 家庭活动时间取决于女儿完成作业的速度和质量。
+- 作业完成得好时，一家人可以吃饭、看电影或 city walk。
+
+自然产出包括：
+
+> My daughter prefer to play some video games.
+
+> My wife always throw herself into the couch.
+
+> I would prefer to play games.
+
+> Sometimes I have to work the weekend.
+
+> If she finished her homework quick and well, then we will have a lot of spare time.
+
+> If she do it slowly and with a bad quality, the weekend will be void.
+
+主要证据：
+
+- 第三人称单数连续出现 `daughter prefer`、`wife throw`、`she do`。
+- 会主动使用 `but`、`if`、`then` 和 `and` 连接意思。
+- 条件、时间和结果同时进入一个句子时，停顿和重启明显增加。
+- 内容展开能力稳定，主要限制继续集中在句型自动化和实时组织。
+
+### 句子重构与短时延迟复现
+
+第一条原始表达：
+
+> My daughter prefer to play some video games.
+
+目标表达：
+
+> My daughter prefers to play video games.
+
+当场需要老师给出完整句，短时延迟后无提示成功复现。
+
+第二条原始表达：
+
+> My wife always throw herself into the couch. And ... swipe the smartphone.
+
+目标表达：
+
+> My wife prefers to stay on the couch and use her smartphone.
+
+中间曾出现：
+
+> My wife prefers to stay in the car and playing...
+
+老师给出完整句后完成，短时延迟后无提示说出：
+
+> My wife prefers to stay on the couch and use her phone.
+
+两条句子均证明短时保持成功。由于实际间隔不足约五分钟，暂记为第 4 级，不视为稳定的五分钟延迟掌握。
+
+### 67 词听力结果
+
+第一次听完后立即要求全文重复，没有形成可验证的首次主旨复述。
+
+主要困难句：
+
+> The mother preferred a quiet café, although it was too crowded near their home.
+
+用户对 `crowded` 及整句关系不确定。经过一次完整重复、一次分段重复、第二部分额外重复和局部解释后完成复述。
+
+最终保留的信息：
+
+- 父亲想骑自行车。
+- 女儿不想参加这项活动。
+- 母亲想去安静的咖啡馆。
+- 家附近太拥挤。
+- 最终留在家里看电影。
+
+遗漏或改变的信息：
+
+- 未明确保留一家三口。
+- 未保留女儿很累。
+- 遗漏买零食。
+- 未主动复述 `worked for everyone`。
+- 将女儿不想运动扩展为只想待在家里。
+
+听力判断：
+
+- 多次输入后能够抓住故事主线。
+- 约 67 词材料中会丢失多个具体细节。
+- `although it was too crowded near their home` 暴露连续语流中的短语解析困难。
+- 慢速重复后仍需要词义和句间关系解释，语速并非唯一影响因素。
+- 下一次首次听完后应先复述已经捕捉到的内容，再允许完整重复，以保留首次理解证据。
+
+### `work for everyone`
+
+初次理解：
+
+> Everyone feels that is fine.
+
+> with the simple plan
+
+核心意义理解准确。主动迁移到同事聚餐场景时说：
+
+> The method to decide where to go of throwing a dice works for everyone.
+
+后续改为：
+
+> In the end, we decided to roll dice. The method works for everyone.
+
+当前状态：理解稳定，能够主动使用，暂记为第 4 级。由于结束复测仍使用相同场景，跨场景迁移尚待验证。
+
+### 当次结论
+
+- `doesn’t + 动词原形` 已出现无提示、跨天正确使用，自动化程度明显提高。
+- 第三人称单数在自由表达中仍反复丢失，是当前最稳定的高频错误之一。
+- 两条纠正句均完成短时无提示复现，证明短时保持能力提高。
+- 标准长度听力能够恢复主线，第一次输入后的细节保持仍缺少充分证据，多次重复后仍会遗漏 2～3 个关键信息。
+- `work for everyone` 已能主动使用，下一步需要换到家庭活动或团队时间安排场景。
+
+### 下次优先复测
+
+1. 使用新主语测试第三人称单数，避免仅记忆固定句子。
+2. 将 `My daughter prefers…` 的延迟时间拉到五分钟以上。
+3. 无提示复测 `Everyone was tired after work.`
+4. 继续复测 `over the weekend`，纠正 `in the weekend`。
+5. 再做一段约 60～75 词听力，首次听后先说主旨和细节。
+6. 将 `work for everyone` 迁移到家庭安排或会议时间。
+
+## 2026-09-20 至 2026-09-21｜GDC 自我介绍与迷你演讲听力
+
+### 训练概况
+
+- 训练分两段完成。第一段在 9 月 20 日进行，因网络中断和临时事务暂停；第二段在 9 月 21 日恢复。
+- 有效训练约 30 分钟，明显超过原计划的 12～15 分钟。
+- 超时主要来自 GDC 自我介绍多次重启、`over the weekend` 的额外讨论，以及跨日恢复后的听力内容重建。
+- 四项旧结构复测、GDC 自我介绍、两个句子重构、75 词首次听力、结构信号训练和延迟复测均已完成。
+
+流程偏差：
+
+- 原计划要求首次听力后完整重读一次 75 词材料，实际完整重读为 0 次，后续主要使用局部提示和缩短版回顾。
+- `First` 的目标形式复用不足，主要使用了 `At first`。
+- 第二条重构句的正式复测受到完整答案提示，不能记录为正式无提示成功。
+
+### 旧结构复测
+
+#### 第三人称单数与主谓数量匹配
+
+第一次自然回答：
+
+> They prefers to play video games and eat meals.
+
+这里出现代词与谓语数量不一致。轻度提示将主语改为 `she` 后能够说出：
+
+> She prefers to play video games and have good meals with us.
+
+后续 GDC 表达中再次出现：
+
+> the agents lives in a simulation town
+
+结论：问题已经扩展为单数与复数主语切换时的谓语匹配。提示后稳定，自由表达仍未自动化。
+
+#### `everyone + 单数谓语`
+
+自然尝试包括：
+
+> Everybody feels… everybody felt tired after work.
+
+> Everyone felt… Everyone feels tired after work.
+
+`everyone feels` 和 `everyone felt` 的主谓一致均正确，时态选择仍不稳定。完整目标结构提示后说出：
+
+> Everyone was tired after work.
+
+当前状态：单数主语意识基本建立，过去时语境下的谓语选择继续训练。
+
+#### `over the weekend`
+
+第一次自然回答：
+
+> Over the weekend I finished the big and complicated document.
+
+无提示且表达正确，时间短语本身已经出现跨次稳定证据。
+
+后续主动尝试：
+
+> I’ve been working on a big and complicated document over the past weekend.
+
+对于已经结束的上个周末，简单过去时更稳定：
+
+> I worked on a big and complicated document over the past weekend.
+
+当前状态：时间短语已掌握，时态搭配继续观察。
+
+#### `work for everyone` 跨场景迁移
+
+第一次未理解会议时间场景，回答转向聚餐地点和掷骰子。重新解释后仍未主动调用目标结构。完整示例后能够复述：
+
+> We need a meeting time that works for everyone.
+
+延迟后先说：
+
+> We need a meeting time works for everyone.
+
+随后自我修正为：
+
+> We need a meeting time that works for everyone.
+
+当前状态：能够识别、复现并自我修正，关系从句 `that works` 尚未自动化，真正的跨场景主动迁移仍待验证。
+
+### 第一版 GDC 现场自我介绍
+
+重启后的主要自然表达：
+
+> Hi, I’m Kara from Grina, and I work for the Game Innovation Department of Grina. The department is focused on the research and developing of AI-native games and native application. Now we are developing a demo that will show our research and result of multi-AI agent framework. And we come here to see whether we can find in the GDC some new… attempts or practices that we can learn from.
+
+项目追问中的补充：
+
+> We are developing a demo using a multi-agent framework.
+
+> The agents live in a simulation town, and they can think, reasoning and decide what to do and how to do.
+
+已经覆盖的信息：
+
+- 公司和部门
+- 工作方向
+- AI-native games and applications
+- 当前 showcase demo
+- multi-agent framework
+- agent 的自主行为
+- 参加 GDC 的目的
+
+尚未稳定纳入：
+
+- `I’m a game producer.`
+- `I lead a team of…`
+- 更自然地表达寻找值得借鉴的新尝试和实践
+
+主要语言问题：
+
+- 主谓数量匹配：`the agents lives`
+- 固定搭配：`research and developing`
+- 结构搭配：`use the multi-agent framework into the demo`
+- 连续停顿和重启：`we come here to… to see if… if… to see…`
+
+更自然的关键结构：
+
+- `research and development`
+- `a demo using a multi-agent framework`
+
+当前判断：已具备 GDC 现场自我介绍的基础内容能力，尚需压缩为一次完成、自然清晰的 30 秒版本。
+
+### 句子重构与延迟复测
+
+#### 目标句一
+
+原始表达：
+
+> We are focusing on showcase demos that… we use the multi-agent framework into the demo.
+
+目标表达：
+
+> We are developing a showcase demo using a multi-agent framework.
+
+经过拆短和连读处理后完成重构。超过五分钟后无提示完整复现，属于明确的第 5 级延迟成功证据。
+
+#### 目标句二
+
+原始表达：
+
+> The agents live in a simulation town, and they can think reasoning and decide what to do and how to do.
+
+目标结构：
+
+> The agents live in a simulation town and decide what to do.
+
+第一段训练后超过五分钟曾主动表达：
+
+> The agent lives in a simulation town, and they can decide by themselves.
+
+核心概念和结构得到保留，但单复数发生变化。
+
+第二天正式复测前，用户询问目标内容，教师直接给出完整目标句。之后用户说：
+
+> The agents live in the simulation town and they can decide and act by themselves.
+
+最终表达正确自然，但正式测试已受到完整答案提示。当前状态：概念与结构能够保留，独立提取尚未得到充分证明。
+
+### 75 词 GDC 风格演讲听力
+
+第一次听后能够抓住完整的因果主线：
+
+> prototype → too many choices → players felt confused → three clear options → better result
+
+第一次回答中的主要信息：
+
+> they are developing a prototype
+
+> at beginning they gave too choices to the player
+
+> they feel confused
+
+> they gave 3 clearly options
+
+> then the players can do better
+
+在没有重新播放原文前，还能主动回忆：
+
+- `prototype`
+- `at the beginning`
+- `too many choices`
+- `three simpler options`
+
+用户明确反馈：
+
+> I don’t have a clear idea about the conclusion.
+
+第一次输入时遗漏：
+
+- `several testers felt confused` 的主体细节
+- `most players started faster`
+- `completed more tasks`
+- `more freedom does not always create a better first experience`
+- `a simpler start helps players understand the system`
+- `enjoy the game sooner`
+
+提示后成功补回：
+
+- `players move faster`
+- `finish more tasks`
+- `More freedom isn’t always better for the first experience.`
+
+跨日回顾时能够较完整重建：
+
+> too many choices → players did not do well → cut the choices into three → players move faster → do more tasks → more freedom is not always better
+
+持续最难保留的信息：
+
+> Sometimes a simpler start helps players understand the system and enjoy the game sooner.
+
+听力困难排序：
+
+1. 第一次输入后的信息保持
+2. 连续语流中的结果信息
+3. 演讲结论的即时提取
+4. 词汇影响较小
+
+当前判断：75 词专业内容没有超出理解范围，第一次输入时能够保留问题、改变和总体结果，第二层结果细节及结论容易丢失。
+
+### 演讲结构信号
+
+#### `First`
+
+用户主要使用：
+
+> At first, they gave too many choices to the players.
+
+意思正确，指定的演讲信号 `First` 尚未形成主动复用证据。
+
+#### `However`
+
+用户后期能够说：
+
+> However, when they cut the choices into three, players move faster and finish more tasks.
+
+提示后使用较稳定。
+
+#### `The key point is`
+
+后期能够主动尝试：
+
+> The key point is… more freedom is not always the better way to give good experience.
+
+结构已能调用，仍处于提示后成功阶段。
+
+### 当次结论
+
+- GDC 专业主题已经能够进入现有英语训练范围。
+- 第一次听 75 词材料时能够独立抓住问题、修改和总体结果。
+- `We are developing a showcase demo using a multi-agent framework.` 已完成五分钟以上无提示延迟复现。
+- GDC 自我介绍内容基本完整，停顿、重启和固定搭配显著影响紧凑度。
+- 当前距离 GDC 目标最需要提升的能力是第一次听演讲时的信息保持。
+
+### 下次优先训练
+
+1. 快速切换 `she prefers`、`the agent lives`、`the agents live`，继续测试主谓数量匹配。
+2. 将 `work for everyone` 换到酒店、晚餐地点或交通安排场景。
+3. 保留 `over the weekend`，重点观察过去时搭配。
+4. 使用 75～90 词 GDC 听力，第一次听后先提取问题、改变和结果三个槽位。
+5. 将 GDC 自我介绍压缩为一次完成的 30 秒版本。
+6. 在听力总结中主动使用 `First`、`However` 和 `The key point is`。
+
+## 2026-09-22｜GDC 自我介绍、NPC 记忆系统听力与跨场景迁移
+
+### 训练概况
+
+- 会话约从 09:25 持续到 10:27，中间有一次较长暂停，约 10:20 恢复。
+- 有效训练时间无法精确还原；从实际轮次判断，大概率超过计划的 12～15 分钟。
+- 单复数切换、`over the weekend`、项目句复测、第一轮 GDC 自我介绍、短听力、结构信号、延迟复测和跨场景迁移均有执行。
+- 第二轮 GDC 自我介绍未执行。
+- 实际听力材料为 41 词，未达到计划要求的 75～90 词。
+
+流程有效性限制：
+
+- 单复数切换过程中提前给出了 `Multiple agents live...` 和 `The agent decides...`，后续相关答案受到提示影响。
+- 自我介绍缺少第二轮，无法观察纠正后的即时改善。
+- 听力长度不足，不能作为 75～90 词目标能力的标准测试。
+- 暂停恢复后教师重新概述了部分听力内容，恢复后的回答不能反向计入首听或二听成绩。
+- 用户明确提出纠错要求：
+
+> If you want me to fix something, you should tell me what’s wrong and where I should fix and how to fix it.
+
+后续教师必须先指出具体错误位置、原因和正确表达，再要求用户重说。禁止只说 `Try again` 或反复要求重说而不说明问题。
+
+### 任务说明不足的证据
+
+本次对话中存在多次用户已经听到教师所说的词句，但不知道需要输出什么内容的情况。这类情况需要与英语听力困难分开记录。
+
+#### multiple agents 任务
+
+教师最初要求：
+
+> Tell me about multiple agents.
+
+用户询问：
+
+> What exact you want to know about the multi agents?
+
+教师随后才澄清：只需要用一个简单句描述多个 agents 住在哪里。原始要求缺少输出长度和内容范围。
+
+#### one agent 决策任务
+
+教师要求用户说一个 agent 如何作决定，但没有明确需要一个完整句，也没有说明需要描述哪一项信息。用户询问希望听到哪种句子并要求例子。教师直接给出：
+
+> The agent decides what to do.
+
+这既反映了任务说明不足，也造成测试答案提前泄露。
+
+#### GDC 交通方案任务
+
+教师先要求表达一个所有人都能接受的计划。用户随后澄清：
+
+> I mean the context. I didn't hear the context well.
+
+之后又询问：
+
+> One sentence for what I don't understand.
+
+教师重新说明 venue、步行、出租车和 shuttle 三种选择后，任务才变得具体。这里同时存在情境信息没有进入理解和输出要求不清两个因素，不能直接记为 `work for everyone` 提取失败。
+
+判断原则：当用户询问 `What exactly do you want to know?`、`What sentence?`、`What target?`、`What should I say?` 或表示没有听懂 `context` 时，先将其标记为任务澄清请求。教师重新说明任务以后再开始记录语言表现。
+
+### 单复数与第三人称单数复测
+
+#### `The agent lives...`
+
+第一次自然回答：
+
+> The agent lives in a simulation town- can decide and act by themselves.
+
+`agent lives` 无提示正确。后半句连接不完整，但不影响本项主谓一致判断。
+
+#### `The agents live...`
+
+澄清任务后的第一次回答：
+
+> The multi agents living in uh… Simulation town, and they can um decide and act… By themselves.
+
+主要问题：`agents living` 缺少有限谓语。随后获得完整纠正：
+
+> Multiple agents live in a simulation town.
+
+本项第一次自然回答失败，完整纠正后理解。`multiple agents` 在该语境中比 `multi agents` 更自然。
+
+#### `The agent decides...`
+
+教师在回答前直接给出：
+
+> The agent decides what to do.
+
+用户随后正确复述。该结果属于完整范句后的跟随表达，不能判断自然掌握。
+
+#### `The agents decide...`
+
+在轻微语义提示后说出：
+
+> Multiple agents decide by themselves.
+
+主谓匹配正确，属于轻微提示后成功。
+
+综合判断：`agent lives` 已有无提示证据，`agents decide` 有轻微提示后成功证据；`agents live` 的自然产出仍不稳定；`agent decides` 本次测试被完整范句污染。单复数主语快速切换尚未自动化。
+
+### `over the weekend` 与过去时
+
+第一次自然回答：
+
+> Over the weekend, I have been. dealing with a big and complicated document.
+
+`over the weekend` 再次无提示成功，时间短语保持第 5 级。已经结束的周末事件中，时态仍自然回到不合适的完成进行时。
+
+教师提供 `dealt with` 后，用户说出：
+
+> Over the weekend, I dealt I dealt with a big and complicated document.
+
+`dealt with` 属于完整提示后成功。一般过去时与已结束时间短语的搭配尚未自动化。
+
+### showcase demo 核心表达
+
+第一次提问：
+
+> What kind of demo are you developing?
+
+第一次回答：
+
+> I developing a showcase demo.
+
+在 `Try “We”` 提示后补充：
+
+> Using a multi- Agents framework.
+
+随后教师提供完整句，用户完成复述：
+
+> We are developing a showcase demo using a multi-agent framework.
+
+首次测试中可以自然恢复 `showcase demo`，完整句框架需要提示。
+
+经过听力、结构训练和长暂停后，延迟提问：
+
+> What does your showcase demo use?
+
+用户无提示回答：
+
+> Our showcase demo use a multi-agent framework.
+
+`multi-agent framework` 已形成真实的较长时间后独立提取证据。第三人称单数仍丢失，目标形式为：
+
+> Our showcase demo uses a multi-agent framework.
+
+当前应区分两个层级：
+
+- `multi-agent framework` 核心内容：第 5 级，延迟回忆成功。
+- 完整句框架及 `demo uses`：第 3～4 级，能够自行组织，但语法尚未稳定。
+
+### 第一轮 30 秒 GDC 自我介绍
+
+用户实际表达：
+
+> Hi, I’m Kara. I come- China. I work for Greena- The uh Game Innovation Department. We are developing a showcase demo using a multi agent framework and the the agent- uh Lives in a simulation town and decides what to do by themselves.
+
+当时估计约 35 秒。整段没有从头重启，存在多次句内停顿和局部修正。
+
+已覆盖：
+
+- Kara
+- Grina，公司名被转录为 `Greena`
+- Game Innovation Department
+- showcase demo
+- multi-agent framework
+- agent 在 simulation town 中生活并自主决定行为
+
+未覆盖：
+
+- `I’m a game producer.`
+- AI-native games and applications
+- 参加 GDC 的目的
+
+主要表达问题：
+
+- `I come- China.` 应稳定为 `I’m from China.` 或 `I come from China.`
+- 公司与部门之间的结构没有完成，可使用 `I work for Grina in the Game Innovation Department.`
+- 单数 agent 的 `lives` 和 `decides` 在本段中使用正确。
+
+第二轮未执行。本次不能判断重构以后能否在 30 秒左右一次完成介绍。
+
+### 41 词 GDC 风格听力
+
+实际材料：
+
+> First, our team tested an NPC memory system, but players felt disconnected. However, when we added small personal details, like daily routines, players started caring more and stayed longer. The key point is that tiny human details can change player engagement.
+
+完整朗读两次。第一次回答记录完成前没有提供局部内容提示。
+
+#### 第一次听后
+
+用户能够保留：
+
+- 主题与 NPC memory system 有关。
+- 开发者进行了一项修改。
+- 修改带来了体验方面的正向变化。
+
+用户明确表示：
+
+> I just remember the developer changed something… but I can’t remember the details.
+
+未能恢复：
+
+- `players felt disconnected`
+- `small personal details`
+- `daily routines`
+- `players started caring more`
+- `stayed longer`
+- `tiny human details can change player engagement`
+
+首听表现为主题和大方向得到保留，问题、具体修改、具体结果和结论基本丢失。
+
+#### 第二次听后
+
+能够恢复修改：
+
+> The developer added some small details of the NPC.
+
+将结果重新解释为：
+
+> the NPCs are more like a living person
+
+原文中的 `players started caring more and stayed longer` 仍未恢复。核心结论无法独立总结，教师完整提供结论后才建立理解。
+
+困难来源：
+
+1. 第一次输入后的具体信息保持。
+2. 同时保存 problem、change、result 和 key point 四个槽位。
+3. 根据听到的信息即时归纳结论。
+
+本次未出现明确的核心词汇障碍。材料只有 41 词，结果仍显示明显的细节保持困难。由于材料长度不合规格，本次用于补充趋势证据，不用于替代 75～90 词标准测试。
+
+### 演讲结构信号
+
+- `First`：无额外提示成功，当前第 4 级。
+- `However`：第一次未使用，经过多次直接提示后成功，维持第 3 级。
+- `The key point is`：结构本身无额外提示成功，当前第 4 级；结论内容此前已由教师提供，不能据此评价听力保持。
+
+总结中再次出现：
+
+> players feels
+
+目标形式为 `players feel`。复数主语与谓语原形的匹配继续列为高频自动化项目。
+
+### `work for everyone` 跨场景测试
+
+场景为三名 GDC 参会者在步行、出租车和 shuttle 之间选择交通方案。用户开始阶段没有听清情境；重新说明后仍未自然调用目标表达。提示逐步升级到完整句：
+
+> We need a plan that works for everyone.
+
+用户随后正确复现：
+
+> I need a plan that works for everyone.
+
+本次属于完整提示后成功，没有形成新场景自然迁移证据。该表达保留第 4 级历史状态，跨场景第 6 级仍未建立。
+
+### 当次结论
+
+- `multi-agent framework` 出现较长间隔后的独立恢复，是本次最明确的进步。
+- `over the weekend` 再次无提示成功，短语本身已经稳定；过去时搭配仍需单独自动化。
+- 第三人称和主谓数量匹配继续出现 `demo use`、`players feels`、`agents living`。
+- 第一次听后的具体信息保持仍是当前最影响 GDC 听讲效果的能力。
+- GDC 自我介绍可以连续完成约 35 秒，核心信息覆盖不足，第二轮压缩训练需要补做。
+
+### 下次必须复测
+
+1. 使用未提前暴露答案的新内容测试 `agent lives / agents live / agent decides / agents decide`。
+2. 无提示测试 `Our showcase demo uses a multi-agent framework.`
+3. 完成两轮 30 秒 GDC 自我介绍，第二轮必须在当次训练中执行。
+4. 使用词数已经核验的标准听力材料，严格保存首听四个槽位。
+5. 用简单、已确认听懂的新场景复测 `something that works for everyone`。
+
+## 2026-09-23｜分段完成的 GDC 自我介绍与游戏教程听力
+
+资料来源：按 2026-09-23 独立训练会话的历史对话检索所得片段整理。后续核对出三个有实际练习消息的时段，以下均为 UTC：01:16:18～01:31:24，共 15 分 06 秒；02:14:01～02:18:13，共 4 分 12 秒；13:46:29～13:55:48，共 9 分 19 秒。扣除两段长间隔后，消息覆盖时段合计 28 分 37 秒。段内仍有短暂网络中断、等待和语音响应间隔，记录有效训练时间为约 28 分钟，不把 28 分 37 秒当作精确计时。三次自我介绍缺少独立的起止计时。后续核查已定位至少四次听力全文朗读，具体时间见下文。
+
+### 主谓匹配：四项首答
+
+1. 单数 agent：用户初答 `The agent lives in a simulation town and decides by himself.` `lives` 与 `decides` 均自然正确。
+2. 复数 agents：用户初答 `The agents live in a simulation town, and they can decide and act by themselves.` `agents live` 无提示正确，较 9 月 22 日的 `agents living` 有直接进步证据。
+3. showcase demo：在指定以 `Our showcase demo` 开头、说出所用框架时，用户初答 `We are developing a showcase demo using a multi-agent framework.` 内容和语法成立，但转换了主语与句型；这项首答无法证明 `demo uses` 的无提示自动调用。
+4. players：用户初答 `The players feel disconnected to the NPC.` 复数主语配 `feel` 正确；搭配宜为 `disconnected from`。按既定过去事件叙述可用 `felt`，但 `feel` 本身没有主谓一致错误。教师称其“missing s”的纠错解释不准确，不能据此记用户的语法错误。
+
+最后完成环节时，用户说 `Our showcase demo uses a multi agent framework.`，说明在中断与其他任务之后，能够恢复 `demo uses` 和 `multi-agent framework` 的完整框架。此为有情境提示的延迟正确表达，不应倒推第三项首答已经使用目标主语或句型。
+
+### GDC 自我介绍
+
+第一轮自由表达已包括 Kara、Grina、Game Innovation Department、producer、AI-native games/applications、showcase demo、multi-agent framework、agent 行为；未说参加 GDC 的目的。自然表达中可见 `I'm the Producer of the department`、`native AI` 和多处 `uh` 与句内停顿。
+
+教师选择两处重构：`I'm a game producer at Grina, in the Game Innovation Department.`；以及 `they can think and decide by themselves.` 用户要求解释第一处。教师一度主动使用中文，用户明确要求先用英语说明，只有用户表示英语解释仍未听懂时再用中文。
+
+第二轮用户自行使用 `I'm a game producer at Grina in the Game Innovation Department.`，涵盖工作方向和 demo，但仍遗漏参会目的；自然表达出现 `Our department focus...`、`research and developing...`、`The agents lives...`。第三次完整尝试才加入 `I want to learn more about the latest technology and ... practice in AI-native game and application` 这一目的，但继续出现填充音、局部重启与冗长的 agent 描述。
+
+可确认发生了三次完整介绍尝试。原始对话可检索片段没有独立计时结果；教师声称“within range”缺少计时证据，不能据此记录为 25～35 秒达标。
+
+### 86 词 GDC 风格听力：首遍独立结果
+
+训练原文内容：AI strategy game 的教程，玩家未看到主要目标且有人很快退出；团队添加一个短任务和清晰的视觉标记，延后可选系统；多数玩家完成首关，求助减少；结论是清晰的首次目标有助于理解复杂游戏。一次朗读发生中断，教师从头开始，再依次记录四项首答。进一步按消息检索可定位 2026-09-23 01:29:08、02:14:56、02:16:31、13:47:08 UTC 四次完整朗读；另有 01:28:17 UTC 的一次截断开头。故可确认至少四次完整朗读，其中首次一遍、后续至少三遍复听。检索返回的是会话片段，四次属于已确认下限，不保证绝对穷尽。
+
+- Problem：首答表达开发者测试 AI strategy game 的教程，玩家无法很好地跟上；未明确保留 `missed the main goal` 和 `stopped after a few minutes`。
+- Change：首答记得 `one very simple step`；未明确保留 `clear visual marker` 与 `optional systems hidden`。
+- Result：首答 `I don't remember exactly`，只记得 `the players did better`；未保留 `most players completed the first level` 和 `needed less help`。
+- Key point：首答能够独立概括 `Just make things simpler in the beginning can make the tutorial better.` 意义正确、语言组织不稳。后续用户明确表示明白核心意思但难以用自己的英语表达。`A simple first step makes it easier for players to get started.` 出现在教师示范与纠正之后，属于提示后的准确表达。
+
+首遍抓住了问题、修改、笼统结果、总体结论的骨架；具体结果和数字性细节保持不足。经过后续复听及教师提示，能够说出遗漏的更多信息；这些后得信息不得计入首遍成绩。
+
+### 表达方式与教学流程
+
+- 用户提出语速过快，请求放慢并重复。维持自然、稍慢的英语输入。
+- 用户重申默认使用英语解释，必要时再由用户提出中文请求。
+- 在听力总结时用户不喜欢强制套用 `First / However / The key point is` 三句框架，希望先用自己的话自然概括。最终固定信号词复用不能据此记为成功。
+- 中断后应只交代待完成的具体任务；恢复时重读或重新提供的材料必须与此前首听证据分开。
+
+### 本次结论与下一轮观察
+
+- 单复数切换在短句任务中有改进，`agent lives` 和 `agents live` 的首答均正确；自我介绍自由段仍出现 `department focus` 与 `agents lives`，说明自动化尚不稳定。
+- 通过几次自我介绍，四个内容锚点最终都表达出来；首次介绍仍遗漏参会目的，第三轮持续停顿、重启，时长缺少可靠计时。
+- 首次听完整标准长度迷你演讲，能够保留问题、改变、笼统结果与结论方向；具体结果是优先训练的听力保持目标。
+- 下一次优先做新主题的首听信息保持和自然口语复述；自我介绍可换成会后问答，观察表达能否在新情境中调用。纠错时务必核对语法解释本身的准确性。
+
+### 用户对听力与表达差异的补充反馈
+
+用户自行观察：目前听的能力比表达好一些，经常知道英语输入的意思，但一时不知道怎样用英语说出来。9 月 23 日 86 词听力中，首次听后能够概括问题、修改和总体结论，后续明确表示理解核心意思却难以用自己的英文表达，支持“即时口语组织妨碍复述”这一判断。原文中某些具体结果首遍没有被报告，仅凭自由复述缺少这些细节，尚无法区分没有听清、短时记忆丢失与有印象却表达不出。
+
+后续每段听力须分开记录：
+
+1. 不给内容提示，先让用户用英文关键词或短句说出记得的信息，保存首遍自然证据，允许不完整句。
+2. 自然回答记录完成后，用英文简短的是非题或选项判断检查特定细节的理解。把这一环节标为“提示后的识别”，不得回算为无提示回忆。
+3. 最后用自己的话说 2～3 句完整英文；如卡住，先确认所想表达的意思，再以短句重构和高频搭配协助表达。记录语义已知但英语调用失败的具体词块。
+
+暂将“听力主旨理解强于实时口语表达”列为工作判断；听力细节保持和表达各自继续取样。下一轮相应增加听后概括、现场问答与观点表达的练习比重。
+
+## 2026-09-25｜GDC 会后交流、协作玩法听力与观点表达
+
+资料来源：规划老师检索独立训练 session 的原始消息和时间线后整理。训练从北京时间约 23:34 开始，约 23:58 结束，消息覆盖时间约 24 分钟。对话连续进行，没有需要扣除的长时间中断。消息间隔包含思考、语音识别和回复等待，因此不作为精确有效计时。原计划为 12～15 分钟，本次明显超时，主要耗时来自听力材料的逻辑讨论和会后观点表达。
+
+### 项目表达自然提取
+
+第一个展台问题要求用一句话说明 showcase demo 使用的框架。用户第一次回答：
+
+> Our showcase demo using—our showcase demo uses a multi-agent framework, and agents live in a simulation town. They can decide and act by themselves.
+
+用户在同一次自然回答中把 `using` 自我修正为 `uses`，并正确使用 `agents live`、`decide` 和 `act`。这是 `Our showcase demo uses...` 跨天恢复的有效证据。回答超出一句，但内容连贯，没有从头重启。
+
+第二个问题询问 agents 的行为。用户自然回答：
+
+> The agents live in a simulation town, and they can decide and act by themselves, and also they can communicate to each others.
+
+`agents live`、`decide` 和 `act` 均正确。需要继续训练的搭配为：
+
+> The agents can communicate with each other.
+
+教师当时没有指出 `to each others`，反而重复了用户已经说对的 `decide and act by themselves`。这项纠错遗漏不能记为用户已经掌握正确搭配。
+
+### 71 词 GDC 风格听力
+
+原文讲述一款团队游戏的两轮测试：玩家起初各自拥有独立目标，多数队伍完成关卡但很少交流；设计者增加分享线索的规则；第二轮交流增加，更多队伍无需帮助完成谜题；结论为一条小规则可以改变协作方式。
+
+第一次完整朗读后，用户直接要求重读，教师没有先收集任何关键词。因此本次没有第一次听后的自然回忆证据。
+
+第二次完整朗读后的首次自由回忆为：
+
+> It is a team-based game... maybe they ran an A/B test... every player has separate goals... I didn't hear clearly what the designer changed, but the second group did better.
+
+用户保留了主题、两轮测试的结构、独立目标和第二轮整体更好，并把 `do better` 自我修正为 `did better`。没有恢复分享线索这一修改，也没有独立恢复具体结果与结论。`A/B test` 属于合理推断，原文没有直接使用这个词。
+
+选项识别阶段，用户能够确认：
+
+- 修改前队伍交流较少，回答为 `talk less`。
+- 修改后更多队伍 `solved the puzzle without help`。
+
+这两项属于提示后的正确识别，不能回算为无提示回忆。
+
+后续自由复述中，用户能够说出玩家需要在打开最后一扇门前分享线索，并理解交流增加。表达中出现 `every players`、`separated goals`、`what lead to that`、`more teams finish` 以及把 `final door` 扩展为 `boss level`。目标形式包括：
+
+- `every player had a separate goal`
+- `what led to that`
+- `more teams solved the puzzle`
+
+### 听力材料的逻辑限制
+
+用户追问第一轮是谁提供了帮助，以及为什么多数队伍已经完成关卡后仍要修改规则。这个问题有文本依据。原文只说第一轮多数队伍完成关卡且很少交流，没有说明第一轮是否获得帮助；第二轮才说更多队伍无需帮助完成谜题。两个结果使用的指标没有完全对齐。
+
+用户在最终复述中认为两轮的关卡完成情况没有明显变化，规则主要提升了沟通和信息分享。该判断反映了对文本逻辑的分析，不能记录为听力理解错误。材料设计本身造成了额外解释和超时。以后听力材料需要使用相同指标比较前后结果，例如第一轮有多少队伍完成、第二轮有多少队伍完成，或第一轮求助次数和第二轮求助次数。
+
+### 会后观点表达
+
+最初的问题要求说明最感兴趣的部分，以及相似方法能否帮助自己的团队。用户认为范围太宽，需要进一步说明。教师将任务缩小为两个要点：一个感兴趣的地方，以及一种可能帮助团队的方式。
+
+用户随后进行了一段较长的自然表达，核心观点为：第一轮多数队伍已经能够完成关卡，设计似乎可以正常工作；如果没有明确问题或玩家投诉，为什么还要增加规则。代表性自然表达包括：
+
+> Why did the designer add the small rule?
+
+> If something runs well, and there is no clear problem, you don't need to make a change.
+
+内容和推理完整，能够连续提出理由。实时组织仍出现大量填充音、重复启动和中英切换。自然表达中出现 `why the designer add`、`most of the teams can already finish`、`the design works to the players` 和 `make change`。适合后续自动化的表达为：
+
+- `Why did the designer add the rule?`
+- `The design seemed to work as intended.`
+- `If something works well, you may not need to change it.`
+- `make a change`
+
+在任务重新聚焦后，用户能够回答：
+
+> I'm interested in the way the designer compared the results between the two groups and how they analyzed them and decided whether their design worked.
+
+并说明这种测试方法可以帮助团队改进 demo 和游戏设计。这是目前较好的 GDC 会后观点交流样本。用户能够提出超出材料表面的专业判断，主要困难集中在准确、简洁地组织英文。
+
+### 延迟提取与任务歧义
+
+延迟问题使用：
+
+> What is your team building?
+
+用户把 `team building` 理解成团队团建活动，因此先回答了另一个问题。这个理解有语言依据。教师澄清时直接给出了 `Our showcase demo uses a multi-agent framework...`，导致延迟测试受到完整答案提示，不能记为无提示成功。
+
+理解任务后，用户完整回答：
+
+> We are developing a showcase demo using a multi-agent framework. The agents live in a simulation town, and they decide and act by themselves. Also, the agents can communicate to each other during the day and night.
+
+内容完整，`agents live`、`decide` 和 `act` 正确。`communicate to each other` 仍需调整为 `communicate with each other`。后续应使用更明确的问题：
+
+> What kind of product is your team developing right now?
+
+### 用户主动学习的结束表达
+
+训练结束时，用户主动询问如何礼貌地表示当前对话或计划已经结束。教师提供：
+
+- `I think we're all set.`
+- `That's it for now.`
+
+用户成功重复 `That's it for now.`。目前属于完整示范后能够使用，后续需要无提示回忆。
+
+### 当次结论
+
+- `Our showcase demo uses...`、`agents live`、`agents decide and act` 在开场自然回答中正确出现，项目介绍的核心句型比前几次稳定。
+- 第二次听后能够保留主题、测试结构和大致结果；具体修改仍未进入无提示回忆。两个选择题均识别正确。
+- 用户对材料的结果指标提出了合理质疑，进一步支持“理解与分析能力强于即时英文组织”的工作判断。
+- 会后交流已经能够形成较长、有专业判断的回答。主要瓶颈为句型调用、时态、单复数和固定搭配，以及把复杂观点压缩成清楚的两三句英文。
+- 延迟提取问题存在词义歧义，并在澄清时泄露完整答案，本次不能评价项目句的延迟无提示表现。
+
+### 下次必须复测
+
+1. 用清楚的新情境无提示复测 `Our showcase demo uses...`，避免使用含歧义的 `team building`。
+2. 无提示复测 `communicate with each other`。
+3. 用一个具体观点问题训练 `Why did...`、`works as intended` 和 `make a change`。
+4. 使用前后指标完全一致的 55～70 词听力；第一次请求重读前先记录用户已经记住的关键词。
+5. 用结束会话的真实情境无提示复测 `That's it for now.`。
+
+### 计划设计更新
+
+- 听力材料的 problem、change 和 result 必须构成明确因果链，前后比较使用同一指标。
+- 开放观点题首次提问时给出两个具体信息点，并明确回答为两到三句。
+- 延迟复测问题使用字面含义清楚的措辞；澄清任务时不提供目标表达。
+- 12～15 分钟训练中，听力讨论达到 6 分钟后进入下一个环节；有价值但未完成的讨论留到后续观点训练。
+
+## 2026-09-27｜GDC 测试数据听力与专业观点表达
+
+资料来源：规划老师检索独立训练 session 的原始消息和时间线后整理。训练从北京时间约 17:09:50 开始，17:18:26 左右完成口头反馈，连续约 8 分 36 秒，没有需要扣除的长暂停。原计划为 12～15 分钟，本次提前结束。执行 session 之后应用户要求另行生成了简短汇总，该汇总不作为原始训练证据。
+
+### 旧表达复测与任务理解
+
+第一个问题询问 showcase demo 使用什么框架。用户第一次回答：
+
+> Our showcase demo use a multi-agent framework.
+
+核心表达 `a multi-agent framework` 无提示恢复成功，第三人称单数再次丢失。目标形式为：
+
+> Our showcase demo uses a multi-agent framework.
+
+执行老师在练习过程中没有指出 `use → uses`，也没有要求重说；该错误只在练习后的简短汇总中出现。因此本次没有形成纠正后产出或延迟复现证据。
+
+第二个问题包含单词 `attendee`。用户没有听清这个词，主动询问发音、拼写和意思。教师拼写 `A-T-T-E-N-D-E-E`，解释为参加会议或演讲的人。用户随后表示理解，但本次没有独立使用该词。
+
+在听懂情境后，用户先解释了问题的含义，随后自然回答：
+
+> They are just like real people. They can meet and talk to each other and exchange information.
+
+用户没有提取指定搭配 `communicate with each other`，但 `talk to each other` 和 `exchange information` 均为自然、准确的主动表达。这里应记录为语义任务完成、目标词块未提取，不能记录为表达失败。原回答中的 `exchange their information` 可进一步压缩为 `exchange information`。
+
+### 66 词听力：第一次听取
+
+材料内容为合作解谜游戏测试：第一轮 10 支队伍中有 4 支无需求助完成；团队加入显示线索位置的共享地图；第二轮有 8 支队伍无需帮助完成，速度快约两分钟；结论为共享信息能够改善合作，同时不降低谜题难度。
+
+第一次听后，用户无提示回答：
+
+> Two groups... some change made the teams finish the quiz or something else... two minutes faster.
+
+随后明确表示没有听到更多内容。能够保留的信息包括两轮测试的概念、发生了某项修改以及 `two minutes faster`。`two groups` 是对两轮测试的重新解释，`quiz` 应为 `puzzle`。
+
+教师随后依次进行三个细节检查。用户的第一次回答分别为：
+
+- 4 支还是 8 支队伍：`I have no idea.`
+- 增加更多线索还是共享地图：`Also, I have no idea.`
+- 第二轮完成数量和速度：`I don't remember.`
+
+用户同时明确反馈第一遍语速过快，无法听清。由此可确认：首听只稳定保留了“两轮、发生修改、快两分钟”的零散信息；4、8、共享地图及结论均没有通过首听识别检查。
+
+### 第二次听取
+
+完整复听一次后，用户回答：
+
+> After the second time you read it, I got some more information. In the first test, only four of ten teams finished the puzzle without any hint. In the second test, eight of ten teams finished, maybe two minutes faster. But I didn't get what the developer did that led to the change and the result.
+
+复听后成功恢复：
+
+- 第一轮 4/10
+- 第二轮 8/10
+- 第二轮快约两分钟
+
+仍未恢复：
+
+- 新增 shared map
+- 地图显示线索位置
+- shared information improves teamwork
+- without making the puzzle easier
+
+`without any hint` 与原文 `without asking for help` 接近，但含义并不完全相同。用户明确表示没有听出开发者做了什么以及结论。教师随后直接进入观点练习，没有解释遗漏信息，也没有检查这些内容属于听觉识别、短时记忆还是表达困难。因此本次只能确认具体修改和结论未进入口头复述，困难来源尚未完全区分。
+
+### 专业观点表达
+
+情境为一个功能已有 70% 完成率且没有严重投诉，设计者仍想尝试修改。用户第一次长回答的核心逻辑为：
+
+- 如果团队有明确的改进目标，并且掌握数据或玩家反馈，可以尝试调整。
+- 如果没有目标，也不知道如何改进，不建议继续修改。
+
+代表性自然表达：
+
+> It depends on whether the team has a clear purpose or target to improve.
+
+> If they can get data or clear feedback from players, I think they can try.
+
+> On the other hand, if they don't know what the target is, I don't recommend making a change.
+
+原始回答持续时间较长，能够独立展开条件、证据和反方情况，内容判断清晰。实时表达中出现大量 `uh`、重复启动和句子碎片。主要问题包括：
+
+- `the team have` → `the team has`
+- `in the other hand` → `on the other hand`
+- `I don't recommend them to do` → `I wouldn't recommend making a change`
+- `make a new design according to the clues` → `make a change based on the data or player feedback`
+
+教师认为回答缺少简洁立场，并提供：
+
+> It seems to work as intended, so they may not need to make a change.
+
+这句话表达了明确结论，但缩小了用户原本的条件式观点。用户第二次回答继续保留自己的判断：团队有清楚目标和方法时可以尝试；缺少改进目标、数据或玩家反馈时不应修改。第二次明显更短，并成功把 `in the other hand` 调整为 `on the other hand`，结尾仍存在多个未完成片段。
+
+适合保留的两句版本为：
+
+> If the team has a clear goal and enough data or player feedback, they can try a change.
+
+> On the other hand, if they don't know what they want to improve, I wouldn't recommend changing it.
+
+这次再次证明，用户具备完整的专业判断和条件分析能力，主要限制是把复杂观点迅速压缩成两到三句结构完整的英文。
+
+### 结束表达
+
+教师要求用一句话礼貌结束练习。用户无提示回答：
+
+> I think that's all for today, and see you later.
+
+表达自然、礼貌，成功完成实际交流目标。更清楚的断句为：
+
+> I think that's all for today. See you later.
+
+用户没有调用 `That's it for now.`，但已经产生功能相同的自然表达。因此结束会话的交际能力可以记为无提示成功，`That's it for now.` 本身仍保持提示后掌握状态。
+
+### 当次结论
+
+- 项目核心名词可以自然恢复，`demo uses` 的第三人称单数再次回落，且当场没有获得有效纠正。
+- `communicate with each other` 没有主动出现；用户独立使用了自然的替代表达 `talk to each other` 和 `exchange information`。
+- 首听只保留两轮测试、笼统修改和 `two minutes faster`；三个细节检查均未答出，用户明确反馈语速过快。
+- 复听后能够准确恢复 4/10、8/10 和两分钟，但仍缺少 shared map 与结论。
+- 观点内容成熟，第二次表达有所压缩；主谓一致、固定搭配、句子完整性和填充音仍影响现场清晰度。
+- 用户能够无提示自然结束会话，交流功能已经实现。
+
+### 执行流程评价与下次调整
+
+- 本次听力首次回忆、细节识别和复听结果得到清楚分层，是有效改进。
+- 首遍朗读速度对用户偏快。下一次保持自然、稍慢语速，并在信息句之间保留短暂停顿。
+- 复听后需要补查未恢复内容，确认是没有听清、没有记住还是缺少英文表达。
+- 观点纠正应保留用户的原始立场，优先把原意压缩成两个短句。
+- 每次至少完成一次纠正后的目标句和五分钟后的延迟复测，避免只在课后汇总中指出错误。
+- 当前 8 分半的有效练习偏短。下一次补足到约 12 分钟，同时控制同一问题的解释长度。
+
+---
+
+# 八、当前每日训练框架
+
+每次约 10～15 分钟。
+
+1. 旧表达无提示回忆：1～3 项，控制在约 2 分钟。
+2. 自由表达或 GDC 情境：2～4 分钟，老师主动给出明确任务，用户完成整段后再反馈。
+3. 即时反馈与句子重构：从刚才的回答中选择 1～2 个高价值问题，当场说明问题并提供更自然的表达，再让用户重新表达一次。
+4. 短听力：20～40 秒；先复述主旨，再回忆细节，最后判断困难来源并补全未理解的信息。
+5. 高频表达积累：每次选择 1～2 个生活、工作或 GDC 交流中常用的词句，确认理解后换场景使用。
+6. 延迟复测与结束：复测当次纠正内容和高频表达。执行 session 只做简短口头反馈，完整总结由规划老师读取原始对话后完成。
+
+默认全英语交流。用户主动要求中文或确需解释复杂概念时再切换。听不懂时依次采用重复、拆短、解释词义或拼写。
+
+## 2026-09-22 训练计划执行规则更新
+
+最近几次训练连续出现超时、提前泄露答案、听力材料长度不合规格和计划后半段未完成。后续采用以下执行规则。
+
+### 1. 每次只设置三个核心任务
+
+一节 12～15 分钟训练最多包含：
+
+1. 一个旧结构自动化目标。
+2. 一个 GDC 口语情境。
+3. 一段结构化听力。
+
+其他旧表达只做一到两项快速复测。优先保证计划内任务完整闭环。
+
+### 2. 固定时间预算
+
+- 旧结构复测：2 分钟。
+- GDC 自由表达与两项纠正：4 分钟。
+- 听力和首听记录：5 分钟。
+- 延迟复测与结束反馈：3 分钟。
+
+某一环节超时时停止扩展讲解，将未完成内容列入下次计划。
+
+### 3. 严格分离测试与教学
+
+- 测试阶段不提供范句、首词、目标动词或结构提示。
+- 同一组快速切换题全部回答完成后再集中纠正。
+- 一旦完整答案提前出现，该题立即标记为受到提示，不在同一轮重新计为无提示成功。
+- 首次回答、提示层级和最终回答分别记录。
+
+### 4. 采用明确纠错格式
+
+每次要求用户重说前，教师必须依次说明：
+
+1. `You said...`
+2. `The problem is...`
+3. `Say...`
+
+解释保持简短，每轮最多选择两个高价值错误。避免只说 `Try again`、`One more time` 或重复要求重说。
+
+### 5. 调整 30 秒自我介绍的信息量
+
+30 秒版本固定为四个内容锚点：
+
+1. 姓名、职位、公司和部门。
+2. AI-native games and applications。
+3. showcase demo 与 multi-agent framework。
+4. 参加 GDC 的目的。
+
+agent 在 simulation town 中的具体行为放入后续追问，不强行塞入 30 秒介绍。每次自我介绍训练必须完成两轮并分别计时。
+
+### 6. 听力采用训练与标准测试两种规格
+
+- 日常训练材料：55～70 词，集中练习三个信息槽位。
+- 标准测试材料：75～90 词，用于阶段比较，提取 problem、change、result 和 key point。
+
+执行前必须核验词数。朗读前只说明需要捕捉的槽位，不透露内容关键词。第一次回答全部记录完成后才能复听或解释。
+
+### 7. 任务说明必须包含三个要素
+
+每个训练问题首次提出时需要同时包含：
+
+1. 情境或讨论对象。
+2. 用户需要提供的信息范围。
+3. 输出形式，例如一个完整句、三个要点或 30 秒介绍。
+
+清楚的提问示例：
+
+> Say one complete sentence about where multiple agents live.
+
+> In one sentence, tell me what framework your showcase demo uses.
+
+> Give me three details: the problem, the change, and the result.
+
+避免使用范围过大的要求：
+
+> Tell me about multiple agents.
+
+> Say it again.
+
+> What do you remember?
+
+复测旧句时，应通过意义和场景指明目标，避免只说 `the sentence from before` 或 `the target sentence`。
+
+用户询问任务含义时，教师先用更简单的英语重述任务，不提供目标表达，也不把这次澄清计为语言错误。
+
+### 8. 先确认情境理解，再测试固定表达
+
+跨场景迁移前，先用一个简短问题确认用户听懂人物、目标和选项。确认过程不得出现目标表达。这样可以区分情境听力失败和固定表达提取失败。
+
+### 9. 暂停后的证据处理
+
+- 暂停时间不计入训练时长。
+- 恢复时只说明当前环节，不重新讲授待复测答案。
+- 如果教师重新概述了目标内容，暂停后的回答标记为提示后结果。
+- 长暂停可以作为延迟回忆间隔，但报告需要同时记录墙钟间隔和有效练习间隔无法确定。
+
+### 10. 听力复述方式
+
+先让用户用英文关键词或短句提供首遍自然证据，降低完整造句的负担；然后分别用简短英文判断题检查细节识别，再让用户以自己的话复述主线和细节。分别标记无提示回忆、提示后识别和完整口语表达，避免将“理解后说不出”直接记为听力未懂。`First`、`However`、`The key point is` 作为可选择的结构工具，不强制套用固定三句。教师提供英语模型后，只记录为提示后产出。
+
+### 11. 语言选择与纠错准确性
+
+默认英语提问和解释，语速自然、稍慢。用户明确表示英语解释仍不理解时，按要求切换中文。教师在指出所谓语法错误前先核实实际主语、时态和搭配，例如复数 `players feel` 本身符合主谓一致。
+
+### 12. 即时反馈必须在练习过程中完成
+
+用户完成一次有实质内容的回答后，教师需要立即提供简短反馈，再进入下一题。反馈分为两层：
+
+1. 先说明内容是否清楚、是否回答了问题。
+2. 再选择 1～2 个最有价值的语言问题进行纠正或改进。
+
+自由表达期间允许用户先说完，不在句子中间打断。回答结束后必须处理高价值问题，不能只说 `Good`、`That's clear` 就进入下一环节，也不能把应当场完成的纠正留到课后总结。
+
+如果用户使用了与目标词块不同但同样自然的表达，应明确认可其有效性，同时记录指定词块是否被主动提取。例如 `talk to each other` 可以完成交流任务，即使没有使用 `communicate with each other`。
+
+### 13. 在理解表达意图后提供自然说法
+
+用户的原意已经清楚，但英文表达生硬、冗长或存在更常见说法时，教师应当场提供一个忠实于原意的自然版本，并简短说明改进点。
+
+反馈需要区分：
+
+- 语法或搭配错误：说明哪里不成立，并给出正确形式。
+- 可以理解但不够自然：说明原句能够理解，再给出更常用的表达。
+- 内容组织过长：保留用户的立场和逻辑，将内容压缩成 2～3 个短句。
+
+改进建议不能改变用户原本的观点。例如用户表达条件式判断时，重构后的版本也要保留条件和两种情况。提供自然版本后，让用户基于自己的意思重新说一次；五分钟后再做一次无提示复测。
+
+### 14. 每次积累 1～2 个高频词句
+
+每节训练加入 1～2 个生活、工作或 GDC 交流中高频出现的词句。优先选择用户在当次回答中确实需要、未来一周可能使用、能够跨场景复用的内容。
+
+可选类型包括：
+
+- 请求澄清：`Could you clarify what you mean?`
+- 表达暂时没听懂：`I'm not sure I follow.`
+- 条件判断：`It depends on...`
+- 工作沟通：`I'll get back to you.`
+- 接受安排：`That works for me.`
+- 争取思考时间：`Let me think for a second.`
+
+教学顺序为：确认含义、结合当前情境示范、让用户换场景主动使用、结束前无提示复测。没有理解的新表达不要求强制造句。一次练习不增加超过两个新词句，避免挤占自由表达和听力时间。
+
+## 2026-09-27｜基于二语习得研究的训练方针更新
+
+研究依据包括：Lyster 与 Saito 对课堂口头纠错的元分析、de Jong 与 Perfetti 对 4/3/2 任务重复的实验、Vandergrift 与 Tafaghodtari 的听力元认知教学实验、Kim 等人对二语间隔练习的元分析，以及任务型语言教学与公式化词块研究。结合 7 月至 9 月训练证据，后续执行以下优先级。
+
+### 15. 每日两段式训练
+
+用户每天通常有两段碎片时间，每段可以稳定完成 12～15 分钟训练。因此后续把一天的完整练习设计为两个相对独立的训练段，总有效时间约 24～30 分钟。默认第一段训练口语输出与自动化，第二段训练 GDC 听力与口头总结。
+
+两段之间允许中断较长时间。每一段都必须有明确目标和完整结束点，即使当天只完成一段，也应形成有效训练记录。第二段开头安排 1 分钟无提示回忆第一段的核心表达，利用自然间隔完成当天第一次延迟复测。
+
+#### A 类：口语自动化课
+
+1. 旧表达无提示回忆：1～2 分钟。
+2. 真实任务第一次完成：2～3 分钟。
+3. 即时反馈与自然表达升级：2～3 分钟。
+4. 保持相同意思再次完成任务两次，每次更短、更清楚：3～4 分钟。
+5. 当次高频词句与延迟复测：2分钟。
+
+#### B 类：听力过程课
+
+1. 根据标题预测内容和信息槽位：1 分钟。
+2. 第一次听取并记录关键词：1～2 分钟。
+3. 无提示回忆与低表达负担的识别检查：2 分钟。
+4. 带着明确缺口第二次听取：1～2 分钟。
+5. 对照原文或关键句，判断困难来自声音切分、词汇、记忆还是表达：3 分钟。
+6. 用两三句英文复述并接受即时反馈：2～3 分钟。
+7. 延迟复测一个高频词句：1 分钟。
+
+默认每天完成一段 A 类和一段 B 类。两段可以围绕同一个 GDC 主题，例如第一段练习介绍项目或表达观点，第二段听取相关演讲片段；两段的具体任务仍须各自说明清楚，不能依赖用户记住上一段的隐含指令。
+
+每 4～5 个训练日安排一次综合 GDC 情境，把原声听力、笔记、会后提问和项目介绍放在两段连续任务中。
+
+### 16. 建立完整的纠正输出闭环
+
+每个核心错误采用以下流程：
+
+1. 保存第一次自然回答。
+2. 明确指出错误或不自然之处。
+3. 提供忠实于原意的自然版本。
+4. 用户立即重新完成同一沟通任务。
+5. 间隔数分钟后换情境再次提取。
+6. 在下一次、第 3 次、第 7 次和第 14 次练习中安排无提示复测。
+
+只在课后报告中指出错误不产生有效训练证据。教师说出正确句、用户跟读一次，也不能升级为主动掌握。
+
+### 17. 使用微型任务重复提高自动化
+
+复杂观点和项目介绍不再只回答一次。第一次允许充分表达内容，教师纠正后，用相同核心意思再说两次，并逐次缩短时间。适合当前每段 12～15 分钟训练的形式为：
+
+- 第一轮：60～90 秒，自由组织。
+- 第二轮：45～60 秒，使用纠正后的结构。
+- 第三轮：30～45 秒，保留核心信息并减少停顿。
+
+每轮记录任务是否完成、明显停顿、句子重启和目标结构正确率。目标是提高调用速度，同时保持原始观点。
+
+### 18. 听力从记忆测试升级为听力过程训练
+
+短文训练继续保留首听证据，但允许用户在 GDC 模拟中记关键词。现场听演讲本身可以记笔记，长期完全禁止笔记会过度测量工作记忆。
+
+听力笔记固定记录：
+
+- Topic
+- Problem 或 Claim
+- Change 或 Evidence
+- Result
+- Number
+- Takeaway
+
+每次复听前先确定一个具体缺口。第二次听后使用原文或关键句进行声音切分诊断，例如定位连读、弱读、未知词和长句边界。每隔一到两周保留一次无笔记首听测试，用于阶段比较。
+
+### 19. 逐步加入真实 GDC 原声
+
+人工短文用于控制词数和语法目标；真实原声用于适应讲话者、语速、口音、填充语和演讲结构。后续材料逐步采用 GDC Vault 免费内容和公开演讲：
+
+1. 15～30 秒原声片段。
+2. 45～60 秒原声片段。
+3. 90～120 秒带关键词笔记的片段。
+
+优先选择 Game Design、Production、AI、UX 和游戏测试主题。早期可使用字幕或原文完成诊断，最后一次必须关闭文字支持重新听取。
+
+### 20. 高频词句采用功能词块库
+
+高频积累围绕真实交际功能建立，优先级为：
+
+1. 请求澄清和确认理解。
+2. 争取思考时间和组织回答。
+3. 表达同意、保留意见和条件判断。
+4. 说明项目、数据、问题、改动和结果。
+5. 安排时间、地点、后续联系和结束会话。
+
+低频习语和一次性话题词不进入当前核心复测池。一个词块只有在两个不同情境中无提示成功后，才升级为新场景自然使用。
+
+### 21. 调整训练时间分配
+
+根据当前证据，下一阶段以每天两段、每段 12～15 分钟为标准。总体时间建议：
+
+- 口语即时组织与自动化：50%。
+- 演讲听力、笔记和声音诊断：35%。
+- 高频词句与语法提取：15%。
+
+该比例用于未来四周的计划分配。若首听数据保持进步较慢，再提高听力训练占比。
+
+日内默认分配：
+
+- 第一段：口语任务、即时纠正、自然改写和重复输出。
+- 第二段：GDC 听力、结构化笔记、口头总结和第一段表达的延迟回忆。
+
+每段最多教授两个新词句；一天新增内容总量通常控制在两个核心词块，避免两段分别增加大量新内容。
+
+### 22. 使用稳定指标进行两周复评
+
+口语指标：
+
+- 30～60 秒任务能否一次完成。
+- 每分钟明显填充音与句子重启次数。
+- 当周目标结构的正确率。
+- 新词块能否在新场景无提示使用。
+
+听力指标：
+
+- 首听保留的信息单元数量。
+- 数字、问题、修改、结果和结论的保持情况。
+- 第二次听取增加的信息量。
+- 困难来源是声音切分、词汇、记忆还是英文复述。
+
+每两周使用一段未练过的原声或半真实 GDC 材料进行一次标准测试，避免用当天刚训练过的内容判断进步。
+
+### 23. 交流任务优先于局部语法精度
+
+用户于 2026-09-29 明确调整训练优先级：有限训练时间首先用于确保能听懂关键信息、把真实意思表达出来、维持对话并完成 GDC 现场任务。第三人称单数、冠词、介词等局部形式错误，在不影响理解和交流推进时不再作为独立训练主线，也不占用多轮重复和延迟复测资源。
+
+后续反馈按以下优先级处理：
+
+1. 对方可能误解、无法判断用户意图或会改变结论的错误。
+2. 导致用户卡住、无法继续完成回答的问题。
+3. 能显著缩短表达、提高现场清晰度的高频句型和自然说法。
+4. GDC 听力中的问题、证据、数字、结果和结论。
+5. 不妨碍理解的局部语法和词形问题。
+
+第五类问题可以简短重述正确形式或记录趋势，通常不要求用户立即重说，也不加入核心 recall。只有符合以下任一条件时才升级为专项纠正：
+
+- 错误导致意义、时间、否定或数量关系发生变化。
+- 同一错误连续造成对方误解或使用户无法完成句子。
+- 它出现在必须高度稳定的常用现场表达中，并且可以用很少时间修正。
+
+例如 `Our showcase demo use a multi-agent framework` 已足以传达核心意思，教师可以自然回述正确形式，但无需反复测试 `uses`。专业建议中更应优先训练如何清楚说明观察方法、数据依据和建议结论。
+
+口语评估的主要指标调整为：
+
+- 交流任务是否完成。
+- 听者能否准确理解核心意思。
+- 能否在缺词时继续表达或主动澄清。
+- 能否把专业观点组织成两到三句清楚的话。
+- 能否自然回应追问并维持对话。
+
+语法准确率保留为辅助观察指标，不再单独决定一次训练是否成功。
+
+---
+
+# 九、表达掌握状态表
+
+掌握状态采用以下层级，避免把一次正确复述视为掌握：
+
+1. 已见过或已解释
+2. 已理解
+3. 提示后能说
+4. 当场无提示能说
+5. 延迟回忆成功
+6. 新场景自然使用
+
+## 当前待持续复测
+
+- `jump straight in`
+- `organize the documents`
+- `over the weekend`
+- `I’m familiar with…`
+- `the sun isn’t as harsh`
+- `It affects a lot of other parts.`
+- `I’ve been struggling with it for…`
+- `in the next two days`
+- `take advantage of it`
+- `hit the post`
+- `the bubble burst`
+- `pick myself up`
+- `How’s it going?`
+- `during lunch`
+- `I’m getting a massage.`
+- `Feel free to contact me.`
+- `If anything’s urgent, feel free to ping me.`
+- `I’ll check the app and pick one near the office.`
+- `When I get in, I’ll put down my laptop and fill my water bottle.`
+- `made some progress`
+- `get to the office`
+- `clean sheet`
+- `steady`
+- `My friend usually chooses…`
+- `He doesn’t want to choose…`
+- `Everyone is tired.` / `Everyone was tired.`
+- `work for everyone`
+
+## 2026-09-20 状态更新
+
+- `doesn’t + 动词原形`：第 5 级，已出现跨天无提示成功证据。
+- `My daughter prefers…`：第 4 级，短时延迟成功，五分钟以上延迟待测。
+- `My wife prefers…`：第 4 级，短时延迟成功，五分钟以上延迟待测。
+- `work for everyone`：第 4 级，能够主动使用，跨场景迁移待测。
+- `I’m familiar with…`：第 3 级，语义引导后能够恢复。
+- `over the weekend`：仍未掌握，自然表达继续使用 `in the weekend`。
+- `everyone + 单数谓语`：目标结构证据不足，继续复测。
+
+## 2026-09-21 状态更新
+
+- 第三人称单数与主谓数量匹配：第 3 级，提示后稳定，自由表达仍出现 `they prefers` 和 `agents lives`。
+- `everyone + 单数谓语`：单数意识基本建立，过去时选择仍需提示。
+- `over the weekend`：第 5 级，时间短语已无提示成功；完成时与简单过去时的搭配继续观察。
+- `work for everyone`：保持第 4 级，关系从句 `that works` 可自我修正，跨场景自然迁移仍待验证。
+- `We are developing a showcase demo using a multi-agent framework.`：第 5 级，五分钟以上延迟无提示成功。
+- `The agents live in a simulation town…`：第 4 级，概念和结构能够保留，正式无提示复测证据不足。
+- `First`：目标形式主动复用证据不足。
+- `However`：第 3 级，提示后可以稳定使用。
+- `The key point is…`：第 3 级，提示后能够调用。
+
+## 2026-09-22 状态更新
+
+- `The agent lives...`：第 4 级，无提示成功。
+- `The agents live...`：第 2～3 级，首次出现 `agents living`，完整纠正后理解。
+- `The agent decides...`：本次只获得完整范句后的复述证据，需重新无提示测试。
+- `The agents decide...`：第 3 级，轻微语义提示后成功。
+- `over the weekend`：保持第 5 级；一般过去时搭配尚未自动化。
+- `multi-agent framework`：第 5 级，经过其他任务和长暂停后仍能无提示恢复。
+- `Our showcase demo uses...`：第 3～4 级，核心内容可以恢复，第三人称单数仍丢失。
+- `First`：第 4 级，本次无额外提示调用。
+- `However`：保持第 3 级，本次需要反复直接提示。
+- `The key point is...`：第 4 级，结构可主动调用。
+- `work for everyone`：保留第 4 级历史状态；本次交通场景需要完整句提示，跨场景自然使用仍未建立。
+
+## 2026-09-23 状态更新
+
+- `The agent lives...`、`The agents live...`：本次均无提示首答正确；跨到连续介绍时仍有 `agents lives`，短句表现与自由口语表现分开追踪。
+- `Our showcase demo uses a multi-agent framework.`：中断及其他训练后在明确情境提问下完整说对；第三项首次测试曾以 `We are developing...` 形式回答，目标句自动调用仍需新场景复测。
+- `The players feel...`：复数主谓首答正确；继续练 `disconnected from` 的搭配。
+- `game producer at Grina`：经教师纠正后进入后续完整介绍；未证实跨天自然调用。
+- 首听 86 词演讲：能恢复因果骨架和粗略结论，结果的具体可观察指标仍弱。
+- 用户自我感受：听通常好于说，经常已理解意思但难以即时转换成英语。复述缺少细节时应先做低表达负担的英文识别检查，再判断听力与表达分别卡在哪里。
+- `First / However / The key point is`：此次总结改用自然复述，未获得目标形式的独立复用证据。
+- `get started`：提示、纠正后能说，不升级为自由掌握。
+
+## 2026-09-25 状态更新
+
+- `Our showcase demo uses a multi-agent framework.`：第 5 级，跨天并在展台情境中自然恢复；开头出现一次 `using` 后立即自我修正为 `uses`，继续观察首次调用速度。
+- `The agents live...`、`The agents decide and act...`：第 5 级，在连续项目说明中无提示正确。
+- `communicate with each other`：第 2～3 级。本次两次自然使用 `communicate to each other(s)`，教师没有完成有效纠正。
+- `every player had a separate goal`：本次出现 `every players` 和 `separated goals`，保留为主谓数量与搭配自动化目标。
+- `That's it for now.`：第 3 级，完整示范后成功复现，尚无延迟或新情境证据。
+- 71 词听力：第一次听后没有采集回答；第二次听后无提示保留主题、测试结构和笼统结果，具体修改未恢复；两个细节选择题识别正确。
+- GDC 会后观点表达：能够提出并展开专业质疑，也能在聚焦后说明测试方法对团队的价值；英语压缩与实时句型调用仍明显慢于思考速度。
+
+## 2026-09-27 状态更新
+
+- `Our showcase demo uses a multi-agent framework.`：核心名词无提示恢复，谓语再次说成 `use`，本次没有当场纠正；当前维持第 4～5 级，自动化仍不稳定。
+- `communicate with each other`：目标词块未主动提取；用户无提示使用 `talk to each other` 和 `exchange information`，沟通功能成功。
+- `attendee`：第 2 级，经过拼写和英文释义后理解，尚无独立使用证据。
+- 66 词听力首听：保留两轮测试、笼统修改和两分钟更快；4/10、8/10、shared map 与结论均未通过识别检查。
+- 66 词听力复听：恢复 4/10、8/10 和两分钟更快；shared map 与结论仍未恢复。
+- `on the other hand`：第二次观点表达中主动修正成功，当前第 4 级。
+- `works as intended`、`make a change`：教师提供完整示范，缺少独立复现，当前第 3 级。
+- 结束会话：`That's all for today. See you later.` 在新情境中无提示产生，交际功能达到第 6 级；`That's it for now.` 保持第 3 级。
+
+### 当前 GDC 能力进度
+
+- 现场自我介绍：能够连续完成约 35 秒，已具备基础交流能力；四个核心内容锚点尚未全部稳定覆盖，需要完成两轮计时对照。
+- 项目介绍：`showcase demo` 和 `multi-agent framework` 可以稳定恢复；`demo uses` 仍受第三人称单数自动化影响。agent 行为可以用多种自然表达说明。
+- 演讲听力：不同场次表现有波动。9 月 27 日的 66 词材料首听只保留零散结构和一个结果数据，复听后能够恢复主要数字，具体修改和结论仍容易丢失。稳定的首听数据保持能力尚未建立。
+- 会后交流：能够连续提出专业质疑和条件判断；回答容易超过两三句，语法与句子碎片会削弱清晰度。下一阶段重点是保留原意并压缩为两个完整短句。
+- 日常沟通：能够无提示使用自然表达结束交流；遇到 `attendee` 等会场词汇时会主动询问拼写和含义，澄清策略有效。
+- 结构信号：`First` 和 `The key point is` 已出现主动调用，`However` 仍依赖提示。
+- 当前最优先能力：首次听取后保留数字、修改和结果，并把专业观点压缩成两到三句完整英文。
+
+---
+
+## 2026-09-28 至 2026-09-29｜两段式训练执行记录
+
+资料来源：规划老师检索独立训练 session 的会话索引、原始用户消息与教师相邻反馈后整理。执行老师的简短回复仅用于交叉核对。
+
+### 时间与执行顺序
+
+- Segment 2 于 9 月 28 日北京时间约 09:07 开始，约 09:24 结束，墙钟时长约 17 分钟。消息持续出现，没有发现用户真正离开会话的暂停。因朗读过快而要求 restart 属于训练过程，应计入有效训练时间。
+- Segment 1 于 9 月 29 日北京时间 09:21:59 左右开始，09:26:49 左右结束，约 4 分 50 秒，没有暂停。
+- 两段合计约 22 分钟，低于计划总量 24～30 分钟。Segment 2 略超单段上限，Segment 1 明显短于 12～15 分钟。
+- 实际先完成听力段，再于次日补做口语段。原计划利用第二段开头复测第一段表达的日内延迟设计没有发生。
+
+### Segment 1：项目表达与专业建议
+
+项目框架句在开头和结束时均无提示正确产生：
+
+> Our showcase demo uses a multi-agent framework.
+
+这是跨任务、跨日后再次正确调用的有效证据。该固定句中的 `uses` 已明显趋于稳定。一般第三人称单数仍未完全自动化，因为专业回答中随后出现了：
+
+> what make them confused
+
+目标形式为 `what makes them confused`。
+
+描述 agents 见面后的行为时，用户无提示回答：
+
+> They will talk to each other and exchange the information they have.
+
+表达自然、完整，成功完成沟通任务。`communicate with each other` 没有主动出现，但不构成交流失败。该目标词块继续单独记录为尚未主动提取。
+
+专业建议的自然思路包括：邀请玩家到办公室、观察游戏过程、记录行为和数据、定位产生困惑的位置。首次表达有清楚的解决问题逻辑。经过反馈后产生：
+
+> I recommend the team invite the players to the office and observe how they play the game to find what make them confused.
+
+之后用户一度忘记教师要求补充的第二句，主动请求提醒。获得提醒后进一步表达：
+
+> I recommend the team invite the players to the office to observe how they play the game. And if they can't to invite them, they also can collect the data around the sticky point and analyze it to find what happens.
+
+有效进步：内容压缩为两个主要分支，第一句结构完整；`recommend the team invite...`、`observe how they play...` 和 `collect the data...` 已进入当场输出。
+
+仍需处理：
+
+- `can't to invite` 应为 `can't invite`。
+- 教师提供的是 `sticking point`，用户后来产生 `sticky point`，因此不能记为目标词块成功复现。
+- `what makes them confused` 没有在纠正后以原结构正确复现；用户改用 `find what happens` 绕开了该结构。
+- 计划中的 `I'd recommend starting with...` 没有教学或主动使用证据。
+- tutorial redesign 换场景迁移没有执行。
+- 计划中的 45～60 秒和 30～45 秒渐进重复没有完整执行，也没有形成两轮计时对照。
+
+### Segment 2：AI Companion Playtest 听力
+
+第一次朗读速度过快。用户明确反馈：
+
+> I think you read it too fast. I almost couldn't get any detail. Read it a little slower.
+
+教师随后从头以稍慢语速重读。因为用户此前已经听过同一材料，这次较慢重读不能作为完全陌生材料的标准首听成绩；它仍可用于判断适合当前训练的输入速度。
+
+较慢重读后，用户能够无提示恢复：
+
+- 3 out of 10
+- 玩家不知道如何 command the AI companion
+- wrong menu 的大致问题
+- visual icon
+- long tutorial 改为 shorter guided task 的主线
+- second test was better
+- 立即尝试有助于更快学会系统的结论
+
+用户没有独立恢复：
+
+- 8 out of 10
+- within one minute
+
+用户把 `kept opening the wrong menu` 初步理解或表达为 `misunderstood the menu`，说明整体情境已经理解，但 `keep + -ing` 的持续动作意义没有稳定进入解析。解释后能够说出：
+
+> The players kept opening the wrong menu.
+
+该句属于解释后的即时正确产出，需要延迟和换场景复测。
+
+用户能够用自己的话概括结论：
+
+> Players can learn faster if they can try it immediately.
+
+这是自然且准确的主动重构，说明 key point 的意义已经真正理解。
+
+### 高频表达与最终迁移
+
+在教师已经提供模型后，用户能够说出：
+
+> Based on the data, I recommend the team keep the changes and observe whether the players will rely on the AI companion system more during they play the game.
+
+内容层面已经形成更复杂的专业判断：保留当前改动，同时观察玩家是否对 AI companion 产生更多依赖。需要继续优化：
+
+- `during they play the game` 改为 `while they play the game` 或 `during gameplay`。
+- `Based on the data...` 本次属于模型和提示后的成功使用，尚无跨日无提示证据。
+- `I'd recommend starting with...` 两段训练中均未实际练习，不能记为已学会。
+
+### 当次结论
+
+- `Our showcase demo uses...` 是本次最明确的进步，在熟悉句中已出现开头和延迟无提示正确产出，可升级为第 5 级；是否达到新场景自然使用仍需观察。
+- 一般第三人称单数继续出现 `what make...`，说明固定句稳定不等于语法规则整体自动化。
+- 专业判断内容丰富且解决问题的逻辑清楚，主要瓶颈仍是将复杂思路迅速压缩成两个结构干净的句子。
+- 听力在调整到自然稍慢语速后，问题、改动和结论保持明显改善；数字结果和时间信息仍是最容易丢失的细节。
+- 用户对 `keep + -ing` 的困难同时涉及连续语流解析和表达提取，适合安排延迟复测。
+- 两段式结构可行，但执行必须保证每段达到独立闭环。此次口语段只有约 5 分钟，导致一个高频表达、换场景迁移和完整渐进重复缺失。
+
+### 后续训练优先级
+
+1. 继续训练首次听取后的数字、时间、结果和结论保持。
+2. 练习把真实专业判断压缩成两到三句，并应对现场追问。
+3. 无提示迁移 `Based on the data...`，并正式教学 `I'd recommend starting with...`。
+4. 换场景理解和使用 `keep + -ing`，重点确认是否理解持续发生的动作。
+5. 第三人称单数、`can't + 动词原形` 等局部形式继续观察；只在妨碍理解或明显拖慢表达时占用专项训练时间。
+
+---
+
+# 十、未来 3～4 周观察指标
+
+## 流利度
+
+- 一分钟自由表达中的填充音是否减少。
+- 中途重启是否减少。
+- 是否能先完成句子，再进行修正。
+
+## 语法自动化
+
+- `didn’t + 动词原形`
+- 第三人称单数
+- be 动词
+- 过去时
+- 时间与地点介词
+
+## 听力
+
+- 30 秒自然英语能否准确复述主旨。
+- 能保留多少具体细节。
+- 需要重复的次数是否减少。
+
+## 固定搭配
+
+- 学习几天后能否无提示使用。
+
+## 复杂表达
+
+- 是否开始主动拆成 2～4 个短句。
+- 是否减少先构造完整中文再翻译的情况。
+
+复评时间：完成约 10～15 次有效训练，或持续训练 3～4 周后。
+
+---
+
+## 2026-09-28｜下一次两段式训练计划
+
+### 当日目标
+
+1. 让 `Our showcase demo uses...` 在首次回答中稳定出现。
+2. 把一个专业判断压缩成两到三句完整英文，并完成纠正后的重复输出。
+3. 在一段 72 词的 GDC 风格材料中，用笔记提取 problem、change、result 和 key point。
+4. 学习并迁移两个高频工作表达：`Based on the data...` 与 `I'd recommend starting with...`。
+
+### 第一段：专业观点与口语自动化，12～15 分钟
+
+#### 旧表达复测
+
+依次提问：
+
+> In one complete sentence, tell me what framework your showcase demo uses.
+
+> In one complete sentence, say what the agents do when they meet.
+
+第一题观察 `demo uses`。第二题接受 `talk to each other`、`exchange information`、`communicate with each other` 等自然答案，并分别记录沟通成功与指定词块提取情况。
+
+#### 首次专业回答
+
+任务说明：
+
+> Imagine a GDC attendee asks about a game feature. The latest build has no serious problems, but some players say one feature is confusing. What would you recommend the team do? Give your recommendation and say what evidence the team should use. Answer in two or three sentences.
+
+用户完整回答后，先反馈内容，再选择最多两个语言问题。自然重构必须保留用户的条件和判断。
+
+#### 高频表达
+
+- `Based on the data...`
+- `I'd recommend starting with...`
+
+先确认含义，再结合刚才的观点示范。用户分别在当前情境中使用一次。
+
+#### 渐进重复
+
+- 第二轮：45～60 秒，重新表达相同观点。
+- 第三轮：30～45 秒，压缩为两到三句。
+
+结束前换场景测试：另一个团队只收到两条玩家投诉，正在考虑重做教程。要求用户用一到两句给建议，自主选择一个当日表达。最后再次询问 showcase demo 使用什么框架，形成段内延迟复测。
+
+### 第二段：GDC 听力过程训练，12～15 分钟
+
+#### 开头延迟回忆
+
+不提示原句，要求用户用一句话说明判断应当依据什么，观察能否提取 `Based on the data...`。随后再问一次 showcase demo 使用什么框架。
+
+#### 听前任务
+
+标题：`AI Companion Playtest`
+
+告诉用户可以记关键词，需要捕捉四项：problem、change、result、key point。不得提前透露内容关键词和数字。
+
+#### 听力原文，72 词
+
+> During our first playtest, only three out of ten players knew how to command the AI companion. Most kept opening the wrong menu. We replaced the long tutorial with one guided task and a visual icon above the companion. In the second playtest, eight out of ten players gave the correct command within one minute. The key point is that players understand a new system faster when they can try it immediately.
+
+第一次以自然、稍慢语速完整朗读，句间保留短暂停顿。用户先用关键词或短句报告所有记住的信息；在首答记录完成前不得重复、解释或给选择题。
+
+随后逐项提问：
+
+1. What was the problem?
+2. What did the team change?
+3. What was the result?
+4. What was the key point?
+
+记录完首听结果后，只询问用户最需要补听的槽位，再完整朗读第二次。第二次后仍遗漏的内容，需要区分没有听清、没有记住、不了解词义和知道意思但说不出来。必要时才提供相关单句或文字原文。
+
+#### 口头总结
+
+要求用户用两到三句概括材料。结构信号可以自由选择，不强制套用。回答后按即时纠错流程处理最多两个问题，并立即重说一次。
+
+最后提出：
+
+> Based on these results, what would you recommend the team keep?
+
+用户用一到两句回答，观察能否迁移当日高频表达。
+
+### 对执行者的要求
+
+1. 默认全英文，语速自然、稍慢。用户要求后再使用中文。
+2. 每项任务首次说明必须包含情境、所需信息和回答形式。
+3. 用户对任务困惑时，先用更简单的英语重述，不提供目标答案。
+4. 自由表达期间不打断；回答结束后立即反馈。
+5. 反馈顺序为内容是否清楚、`You said...`、`The problem is...`、`Say...`，每轮最多处理两个问题。
+6. 对可以理解但不自然的表达，提供忠实于用户原意的常用说法，并要求立即重说。
+7. 认可自然同义表达，分别记录沟通任务是否完成和目标词块是否提取。
+8. 教师提供完整答案后的重复只能记为提示后产出。
+9. 暂停时间从有效训练时长中扣除；恢复时从断点继续，不重新讲授待复测答案。
+10. 两段分别控制在 12～15 分钟。第一段完成后明确告知停止点，用户可稍后继续第二段。
+11. 结束时只做简短口头反馈：一个进步点和一个下次关注点。执行 session 不生成书面总结。
+
+---
+
+## 2026-09-29｜下一次两段式训练计划
+
+### 当日目标
+
+1. 在 GDC 会后交流情境中清楚表达建议、依据和第一步行动。
+2. 面对追问时继续对话，不因寻找完美句子而停止。
+3. 首次听取 75 词材料时，优先保留两组数字、两个时间和核心改动。
+4. 复测 `Based on the data...`，并学习两个高频表达：`I'd recommend starting with...` 与 `Just to make sure I understood...`。
+
+局部语法错误不设专项测试。只处理影响理解、改变原意或明显阻碍表达的问题。
+
+### 第一段：GDC 会后专业交流，12～15 分钟
+
+#### 1. 自然复测
+
+提出：
+
+> A team has two possible solutions and mixed player feedback. What should guide their decision? Answer in one or two sentences.
+
+观察用户能否自然调用 `Based on the data...`。使用其他清楚、自然的表达同样视为沟通成功，目标词块是否提取单独记录。
+
+#### 2. 主要交流任务
+
+情境说明：
+
+> You are talking to a speaker after a GDC session. Their new tutorial helps new players, but experienced players say it feels too slow. The speaker asks what the team should do next. Give your recommendation, the first step you would take, and one reason. Answer in two or three sentences.
+
+首次回答允许自由组织。教师只处理一个最影响清晰度的问题，并在理解用户原意后提供一个更紧凑的自然版本。
+
+#### 3. 高频表达
+
+教学：
+
+> I'd recommend starting with...
+
+确认用户理解它用于提出第一步行动。随后让用户根据刚才的 tutorial 情境使用一次。若用户已经自然表达了相同意思，先认可原答案，再介绍该词块作为更便于现场调用的选择。
+
+#### 4. 现场追问
+
+教师扮演演讲者追问：
+
+> Would you remove the tutorial completely for experienced players? Why or why not?
+
+用户用一到两句回应。重点观察能否保留原立场、直接回答追问并继续交流。局部语法不单独纠缠。
+
+#### 5. 精简重说与迁移
+
+要求用户把完整观点压缩成 30～45 秒，再换一个新情境：
+
+> Another team wants to redesign its matchmaking system, but it only has a few player comments and no clear data. What would you recommend starting with?
+
+观察 `Based on the data...` 和 `I'd recommend starting with...` 的主动使用情况。自然同义表达也记录为任务成功。
+
+### 第二段：数字与结论听力，12～15 分钟
+
+#### 1. 听前任务
+
+标题：
+
+> Co-op Tutorial Playtest
+
+允许用户记关键词。说明需要捕捉：
+
+- first result
+- change
+- second result
+- conclusion
+
+提醒材料包含数字和时间，不能透露具体数字。
+
+#### 2. 听力原文，75 词
+
+> During our first playtest, twelve teams tried a new co-op tutorial. Only five teams finished the first mission, and most took nearly nine minutes. We then added a short planning screen that asked each player to choose a role before the mission began. In the second test, nine teams completed the mission, and the average time fell to six minutes. The speaker's conclusion was that clear roles helped players coordinate without making the mission easier.
+
+首次朗读采用自然、稍慢且稳定的速度，句间保留短暂停顿。不得为了模拟 GDC 而突然加快。用户报告全部首听信息前，不重复、不解释、不提供选择。
+
+#### 3. 首听提取
+
+先问：
+
+> Tell me everything you understood. Keywords and short sentences are fine.
+
+随后逐项检查：
+
+1. What happened in the first test?
+2. What did the team change?
+3. What happened in the second test?
+4. What was the conclusion?
+
+需要分别记录：12 teams、5 teams、nearly 9 minutes、planning screen、choose a role、9 teams、6 minutes，以及 conclusion。
+
+#### 4. 高频澄清表达
+
+教学：
+
+> Just to make sure I understood...
+
+让用户选择一个数字、时间或改动信息，向演讲者确认。例如：
+
+> Just to make sure I understood, did the average time fall from nine minutes to six?
+
+先确认含义，再让用户根据自己真实不确定的信息提问，避免机械套句。
+
+#### 5. 定向复听与总结
+
+先让用户说出最需要补听的槽位，再完整朗读一次。复听后用两到三句总结 problem、change 和 result。教师只纠正影响意思的内容，并提供一个能够明显提高现场清晰度的表达建议。
+
+最后追问：
+
+> Based on these results, would you keep the planning screen? Give one reason.
+
+### 对执行者的要求
+
+1. 默认全英文，用户要求后再使用中文。
+2. 每项任务首次说明必须包含情境、需要提供的信息和回答形式。
+3. 先判断交流任务是否完成，再考虑语言形式。
+4. 用户意思清楚时，不因第三人称单数、冠词、介词等局部问题要求反复重说。
+5. 影响理解、改变结论或阻碍继续表达的问题需要即时指出并修正。
+6. 用户回答后立即提供一项内容反馈和最多一项高价值表达建议。
+7. 用户已经给出自然同义表达时，明确认可，同时单独记录目标词块是否主动出现。
+8. 高频表达必须先确认理解，再要求使用。
+9. 听力首遍完成前不得泄露数字、改动或结论。第一遍结果全部记录后才能复听。
+10. 用户表示语速过快时，记录本次首听速度不合格，再以自然稍慢速度重新开始；不得把重新听取记为标准陌生首听。
+11. 每段控制在 12～15 分钟，并完成自身闭环。第一段结束后允许当天稍后继续第二段。
+12. 结束时只做简短口头反馈，不生成书面总结。
+
+---
+
+## 2026-09-29 晚｜GDC 专业建议与 Co-op 听力执行记录
+
+资料来源：规划老师检索独立训练 session 的原始用户消息、相邻教师反馈和时间线后整理。复盘采用 2026-09-29 更新后的“交流任务优先”标准。
+
+### 时间与执行概况
+
+- 训练约于北京时间 19:58 开始，约 20:22 结束，连续完成两段，没有发现明确离开会话的暂停。
+- Segment 1 约 9 分钟，短于计划的 12～15 分钟；主要交流、追问、精简和迁移任务均有实际回答。
+- Segment 2 约 14～15 分钟，包含首听、定向复听、内容讨论和结束前的澄清句练习。
+- 总有效时间约 24 分钟，达到两段式训练总量的下限。
+
+### Segment 1：GDC 会后专业交流
+
+#### 数据依据自然复测
+
+用户没有无提示提取 `Based on the data...`，但自然表达了相同的决策逻辑：
+
+> The developer should always gather and collect the players' feedback and drill into the data about the problems they met.
+
+教师确认回答聚焦 data 和 player input，并建议使用更自然的 `look closely at the data`。按照交流任务优先标准，本题沟通任务成功；目标词块本身仍缺少无提示证据。
+
+#### Tutorial 建议
+
+用户首次回答的核心内容为：简化教程、检查新玩家是否遇到不必要的部分、调查老玩家感觉节奏过慢或乏味的位置。代表性自然表达：
+
+> Sometimes I will recommend the developer to simplify the tutorial and check if there is something unnecessary for the new player.
+
+> They should do some investigate and see what part made the old players feel too slow or too boring.
+
+建议、第一步和理由均已覆盖，真实沟通任务完整完成。更适合现场使用的版本为：
+
+> I'd recommend simplifying the tutorial and investigating which parts make experienced players feel slowed down or bored.
+
+其中 `too boring` 会把人物描述成“很无聊的人”，用户想表达的是玩家感到无聊，使用 `feel bored` 更清楚。这类错误可能改变意思，值得简短纠正。
+
+教师随后提供 `I'd recommend starting with...`。用户在精简回答中能够使用：
+
+> I recommend starting with observing how the new players play and investigating how the experienced players play the game.
+
+用户继续说明需要找出让老玩家感到乏味或节奏慢的部分，再简化教程。该表达属于教学后的当场使用，尚无无提示跨场景提取证据。
+
+#### 现场追问与迁移
+
+面对：
+
+> Would you remove the tutorial completely for experienced players?
+
+用户直接表明通常不会完全移除：
+
+> In most cases, no. Generally, I don't recommend totally removing the tutorial.
+
+回答直接、立场明确，能够维持现场交流。
+
+在 matchmaking 新场景中，用户主动加入身份限定，并提出先亲自试玩、确认投诉是否真实：
+
+> I have to say I'm not an expert in this area, but as a player, I can give out some recommend.
+
+> The team members should spend a lot of time trying the game and see if the complaints are true or not. Finding out the truth is the first step I would recommend.
+
+原始表达存在停顿和词形问题，但对方可以准确理解建议、行动和理由。更自然的高频版本是：
+
+> I'm not an expert in this area, but as a player, I can offer a suggestion. I'd recommend starting by testing the game themselves to see whether the complaints are valid.
+
+本题没有准确提取 `Based on the data...` 或 `I'd recommend starting with...`，但功能迁移成功。
+
+### Segment 2：Co-op Tutorial Playtest 听力
+
+#### 首听结果
+
+本次首听没有出现语速过快投诉，可以作为有效首听证据。用户保留了：
+
+- 进行了两轮测试。
+- 第一轮 12 支队伍中有 5 支完成。
+- 第二轮有 9 支队伍完成。
+- 更清楚的角色分工让团队表现更好。
+
+首听代表性表达：
+
+> They did two tests. In the first group, only four—five of the twelve groups finished.
+
+> In the second group, nine of the twelve teams finished the co-op tutorial.
+
+> The more clear the roles were, the better they finished the tutorial.
+
+用户先说 `four`，随后自我修正为 `five`。第一轮和第二轮完成数量都进入了首听记忆，这是相较上一轮数字保持的明显进步。
+
+首听没有恢复：
+
+- planning screen
+- choose a role before the mission
+- nearly nine minutes
+- six minutes
+- without making the mission easier
+
+#### 定向复听
+
+用户明确表示 change 没有听清，并主动选择复听 first result 和 change。复听后恢复：
+
+> After the first test, the team added a small screen and asked the players to choose a clear role before they started the tutorial.
+
+说明定向复听有效补回了主要改动。`six minutes` 仍没有独立进入复述。
+
+`Most took nearly nine minutes` 由教师直接提供后，用户能够复述：
+
+> Most of the twelve teams took nearly nine minutes.
+
+因此这条属于提示后恢复。用户随后追问，这些用时接近九分钟的队伍最终是否完成任务。原文没有说明这一点，用户识别出了材料中的真实信息缺口。这是积极的演讲听力行为：理解内容后进一步判断证据边界，并提出值得确认的问题。
+
+#### 听后观点
+
+用户认为应该保留 planning screen，因为测试结果有所改善。观点直接使用听力证据完成了后续交流任务。
+
+### `Just to make sure I understood...`
+
+这一环节暴露了明显的任务说明问题。教师要求用户“用一句话确认九分钟的结果”，但没有一次性说清楚交流角色、确认目的和需要询问的未知信息。用户连续表示：
+
+> One sentence for what?
+
+> I didn't get it. Can you explain more about the sentence I'm supposed to say?
+
+> I'm still confused because I don't know what's the purpose and what I'm supposed to do.
+
+教师多次重新要求尝试，最后才给出完整范句：
+
+> Just to make sure I understood, do we know whether the teams that took nearly nine minutes finished the mission?
+
+在完整范句之后，用户多次尝试并最终能够组合出相同功能的问题：
+
+> Just to make sure I understood, do we know if the teams that took nearly nine minutes finished the tutorial?
+
+这属于完整示范后的成功产出，当前为第 3 级。用户最后能够明确识别核心词块 `Just to make sure I understood`，但尚无独立选取情境和无提示使用的证据。
+
+以后遇到此类任务，教师应直接说明：
+
+> Imagine the speaker is still here. You want to confirm one missing detail: whether the teams that took nine minutes finished. Start your question with “Just to make sure I understood...”
+
+用户连续两次表示困惑后，应进一步缩短英语说明；仍未理解时可用一句中文澄清任务目的，再立即回到英文执行。
+
+### 当次结论
+
+- 专业观点表达已经能够覆盖建议、第一步、理由和限制条件，并能回应追问。交流主干稳定，主要提升空间是减少绕行，让回答更紧凑。
+- `Based on the data...` 没有无提示出现，但数据和玩家反馈已经自然进入决策逻辑。当前无需为了精确词面反复训练。
+- `I'd recommend starting with...` 在教师介绍后进入当场表达；新场景中使用了功能相同的自发表达，沟通迁移成功，目标词块仍待无提示调用。
+- 首听数字保持有明显进步：5/12 和 9/12 均进入自然复述。时间信息 9 分钟和 6 分钟仍然容易丢失。
+- 用户能够主动指出听力材料没有回答“九分钟的队伍是否完成”这一问题，体现了较好的内容理解和追问意识。
+- `Just to make sure I understood...` 的学习过程受到任务说明干扰；完整范句后可以使用，下一次只需在清楚的新情境中做一次无提示迁移。
+
+### 后续优先级
+
+1. 继续训练首听中的时间、比例和结果，同时保留用户对材料证据边界的主动追问。
+2. 在真实 GDC 问答中练习 20～40 秒紧凑回答和自然追问。
+3. 用全新且目的清楚的场景无提示测试 `Just to make sure I understood...`。
+4. 将 `I'd recommend starting with...` 作为可选工具，不强制覆盖用户已经能自然表达的建议结构。
+5. 任务说明固定包含角色、目的、需要表达的信息和回答长度；用户表示困惑后不得只重复原指令。
+
+---
+
+## 2026-09-30｜下一次两段式训练计划
+
+### 当日目标
+
+1. 在 GDC 会后交流中听懂一组测试结果、提出澄清问题并表达建议。
+2. 被对方误解时，能够主动修正自己的意思并继续对话。
+3. 首听 75 词材料时保留两组人数、两个时间、改动和结论。
+4. 在目的清楚的新场景中观察能否自然使用 `Just to make sure I understood...`。
+5. 学习一个高频表达：`What I mean is...`。
+
+所有固定表达都是可选交流工具。用户使用自然同义表达并完成任务，同样记录为成功。
+
+### Segment 1：GDC 澄清、观点与表达修复，12～15 分钟
+
+#### 1. 会后澄清问题
+
+教师必须一次性说明完整任务：
+
+> Role: You are talking to a speaker after a GDC session.  
+> Situation: The speaker says, “After we added an AI companion, mission completion rose from 60 percent to 78 percent, but the average session became four minutes longer.”  
+> Purpose: You want to know whether the longer sessions mean stronger engagement or greater confusion.  
+> Task: Ask the speaker one clarification question. Any natural wording is fine.
+
+不得提前要求使用 `Just to make sure I understood...`。观察用户能否主动提取旧表达；自然替代表达也算任务完成。
+
+教师随后以演讲者身份回答：
+
+> We are not sure yet. Players completed more missions, but some of them also spent longer looking for the correct command.
+
+#### 2. 专业观点
+
+继续同一角色扮演：
+
+> Based on this information, would you keep the AI companion in the next build? Give your recommendation and say what the team should check next. Answer in two or three sentences.
+
+用户说完后，教师先反馈观点是否清楚，再提供最多一个能显著提高现场清晰度的自然表达。局部语法不单独处理。
+
+#### 3. 现场追问
+
+教师追问：
+
+> If mission completion improved, why wouldn't you launch the feature immediately?
+
+用户用一到两句回应。重点观察能否保持自己的条件和判断。
+
+#### 4. 高频表达：修正误解
+
+教师故意把用户的立场概括得过度：
+
+> So you think the team should remove the AI companion.
+
+然后说明任务：
+
+> The speaker misunderstood your position. Correct the misunderstanding in one or two sentences.
+
+用户先自由修正。随后介绍：
+
+> What I mean is...
+
+确认含义后，让用户用该结构忠实重述自己的真实立场。
+
+#### 5. 新场景迁移
+
+> At GDC registration, you say that you booked a workshop ticket. The staff member thinks you only have a general conference pass. Correct the misunderstanding in one sentence.
+
+用户可以使用 `What I mean is...` 或任何自然表达。任务目标是让工作人员准确理解票种。
+
+最后用 20～30 秒总结自己对 AI companion 的建议，完成段内精简输出。
+
+### Segment 2：人数、时间与证据边界听力，12～15 分钟
+
+#### 1. 听前任务
+
+教师说明：
+
+> Title: Crafting System Playtest.  
+> Listen for four things: the first result, the change, the second result, and the conclusion.  
+> The passage contains numbers and time information. You may write down keywords.  
+> After listening, first tell me everything you understood. Short phrases are fine.
+
+#### 2. 听力原文，75 词
+
+> At the start of our test, twenty players tried the new crafting system. Only eight completed an item, and the average time was eleven minutes. We then grouped the materials by purpose and added a preview of the final item. In the second test, fifteen players completed an item, and the average time dropped to seven minutes. The speaker concluded that clearer organization reduced searching time while preserving the number of choices available to players.
+
+首次朗读采用自然、稍慢且稳定的速度，句间保留短暂停顿。用户完成全部首听报告前，不重复、不解释、不提供选择。
+
+#### 3. 首听提取
+
+先问：
+
+> Tell me everything you understood. Keywords and short sentences are fine.
+
+首答完成后逐项询问：
+
+1. What happened in the first test?
+2. What did the team change?
+3. What happened in the second test?
+4. What was the conclusion?
+
+分别记录：
+
+- 20 players
+- 8 completed
+- 11 minutes
+- grouped materials by purpose
+- preview of the final item
+- 15 completed
+- 7 minutes
+- reduced searching time
+- preserved the number of choices
+
+#### 4. 定向复听
+
+让用户选择一个最需要补听的槽位，再完整朗读一次。复听后先要求只说数字时间线：
+
+> Give me the numbers in order: how many tried, how many completed, how long it took, and what changed in the second test.
+
+然后用两到三句总结测试逻辑。
+
+#### 5. 明确目的的会后追问
+
+教师一次性说明：
+
+> Role: The speaker is still here.  
+> Purpose: The talk did not say whether the same twenty players joined the second test.  
+> Task: Ask the speaker one question to confirm this missing detail. Any natural wording is fine.
+
+观察能否无提示使用 `Just to make sure I understood...`。用户使用其他自然问法同样算沟通成功，不要求改成目标词块。
+
+### 对执行者的要求
+
+1. 默认全英文，用户要求或连续两次无法理解任务时，可以用一句中文说明任务目的，随后回到英文。
+2. 每项任务首次说明包含角色、情境、目的、需要表达的信息和回答形式。
+3. 用户第一次表示困惑时，用更具体、更短的英语重新说明；第二次仍困惑时给出一个例子或一句中文解释，禁止继续重复原指令。
+4. 优先判断信息是否准确传达、问题是否得到回答、对话是否能够继续。
+5. 每次实质回答后提供一项内容反馈和最多一项高价值表达建议。
+6. 不因第三人称单数、冠词、介词等局部错误要求反复重说。
+7. 可能改变意思的表达需要简短说明，例如 `boring` 与 `bored`。
+8. 固定表达是工具，不作为唯一正确答案。记录交流任务成功和目标词块提取两个维度。
+9. 听力首答全部记录前不得泄露数字、改动或结论。教师直接提供的信息不能计入独立恢复。
+10. 每段控制在 12～15 分钟，段内必须完成自然回答、即时反馈和一次迁移。
+11. 暂停时间不计入有效训练时长；恢复时从断点继续。
+12. 结束时只做一个进步点和一个关注点的口头反馈，不生成书面总结。
+
+---
+
+## 2026-10-02｜AI companion 会后交流与 Crafting System Playtest 复盘
+
+### 来源与证据边界
+
+规划老师检索了当天独立英语口语训练对话的用户消息、相邻教师反馈及时间线。检索可以恢复多个关键轮次，但未取得整个 session 连续逐字导出；下文不把缺失环节补写成事实。日期均为北京时间。原话仅引用检索明确提供的部分，其余用内容概述。
+
+用户完成后明确反馈：“我觉得有一点点吃力。”这一反馈纳入难度调整依据。
+
+### 时间与执行概况
+
+- 开始记录约 15:47；第一段主要回答至约 15:58；约 15:59进入第二段；最后可恢复的提问约 16:08～16:09。
+- 可见训练消息跨度约 22 分钟。第一段约 12 分钟，第二段可见跨度约 9～10 分钟。不能据此给出精确有效训练时长；未检索到明确长暂停记录，也不把响应间隔一概当成暂停。
+- 已确认实际进行了 AI companion 澄清、专业建议、上线理由追问、修正误解、workshop 注册迁移，以及 75 词 crafting 听力的首听、复听、词义解释、最终复述和参与者澄清。
+- 注册迁移有实际回答，但没有证据表明它独立使用了 `What I mean is...`。计划末尾20～30秒总结是否单独计时，无法确认。
+
+### Segment 1：交流主干与提示层级
+
+**开场困难。** 约15:49用户说：
+
+> Please pardon and speak a bit slowly.
+
+随后表示没有理解情境。教师把情境缩短为：加入 AI companion 后，更多玩家完成任务，但游戏时间更长，需要确认更长时间是好事还是问题。约15:52教师提供完整示例问题：
+
+> Do you think the longer time means players were more engaged, or were they confused?
+
+用户随后形成的提问包含：
+
+> Do you think ... whether the players feel confused or ... engaged more ... into the game?
+
+提问意图清楚，交流任务成功；由于此前已有完整示例，不能记录为无提示完成，也不能据此升级旧词块提取状态。难点同时涉及听取情境和组织二选一问题。
+
+**专业建议。** 用户主张保留 AI companion，继续观察和研究，找出玩家卡住以及误解指令的原因。内容概述来自实际回答，不冒充完整原话。可恢复的词组包括 `do more observe and do more research`、`sometimes got stuck`。教师给出自然版本：
+
+> I recommend we keep it for now, but we should test where players get stuck and why commands are unclear.
+
+这条教师改写保留用户立场，属于高价值即时反馈；不能记为用户自然产出。
+
+**上线追问。** 用户实际回答：
+
+> Because the result combined with some good sign and some problem to find out why it happened.
+
+虽然措辞不紧凑，已经准确传达“结果有积极信号，也有问题，需要先查原因”。教师随后改写为：
+
+> Higher completion is promising, but the longer sessions might mean friction. We should find out why before launching.
+
+判断：专业推理和条件判断完整，主要训练空间为把已有意思压缩成两句；不需要为局部词形增加单独练习。`friction` 是教师版本中的附加词汇，不能默认用户已经理解或掌握。
+
+**修正误解。** 教师把用户建议误解为移除 AI companion 后，用户先解释自己并不希望移除；教学后又用 `What I mean is...` 表达应保留并调查卡点及指令误解。当前记录为：理解后当场主动应用成功；跨日无提示提取待验证。
+
+**注册迁移。** 用户表达：
+
+> I've booked workshop to attend.
+
+能够让对方理解已预订 workshop，基本沟通目的达成。更有用的自然说法为 `I booked a workshop ticket, not just a conference pass.` 这是规划老师复盘建议，并非本次教师原话或用户已掌握证据。
+
+### Segment 2：首听、复听与解释后结果
+
+听力使用计划的75词 Crafting System Playtest。关键内容：20人参加首测；8人完成，平均11分钟；材料按用途分组并加入成品预览；二测15人完成，平均7分钟；更清楚的组织减少搜索时间，同时保留可选项数量。
+
+| 信息 | 首听自然复述 | 复听后、词义解释前 | 解释后的最终复述 |
+| --- | --- | --- | --- |
+| 首测20人 | 恢复 | 恢复 | 恢复 |
+| 首测8人完成 | 说five or maybe six，未准确恢复 | eight，准确恢复 | eight，保留 |
+| 平均11分钟 | eleven seconds，数字对、单位错 | eleven seconds，单位仍错 | 检索片段未保留这一项，不补写 |
+| 材料按用途分组 | 概括为材料信息更清楚，未确认理解grouping | 询问如何表达材料用途，随后问What's a grouping? | by the similar usage，核心意思恢复 |
+| 成品预览 | 恢复核心意思 | 能提及展示成品 | 恢复 |
+| 二测15人完成 | 恢复15；说15/20时第二轮人数是额外假定 | 恢复15 | 恢复15 |
+| 平均7分钟 | seven seconds，数字对、单位错 | seven seconds，单位仍错 | seven minutes，教师纠正后正确 |
+| 减少搜索时间且保留选择数量 | 当前片段未确认独立恢复 | 未确认独立恢复 | 主要概括为知道材料用途及结果，表现更好；未明确保留选择数量 |
+
+首听原始片段包括：
+
+> Five or maybe six of twenty ... eleven ... seconds.
+
+约16:05复听后能够说出 `eight of twenty`，但仍使用 `eleven seconds`、`seven seconds`。约16:06教师明确纠正单位为 minutes，并解释 grouping 为 `organized materials by what each one is used for`，同时说明成品预览。
+
+用户问：
+
+> What's a grouping?
+
+这构成明确的词义/短语理解障碍证据。不能将本轮所有漏听都归因为记忆保持。关于 seconds 的判断依据为转写及教师当时纠正，未取得独立音频核验；不进一步推断发音错误。
+
+约16:06:51最终复述能够保留 first test、eight of twenty、按类似用途分组、preview、fifteen、seven minutes，并解释这些变化帮助玩家知道材料怎么用、成品是什么。这说明解释之后可以重新组织整条专业因果链；属于复听和解释后的成功，不能倒计入首听表现。
+
+### 最后的证据边界提问
+
+教师要求确认两次测试是否同一批20人时，用户先说 `Sorry, can you pardon`，又问 `What detail`。澄清任务后，用户问到：
+
+> ... if the same twenty players were in the second test.
+
+交流目的完成，没有实际提取 `Just to make sure I understood...`，不因此判为任务失败。这项内容缺口由教师布置，不能记录为用户自行发现。原文只明确首轮20人，第二轮是否同样人数/参与者未说明；后续复述应避免自动把二轮15人扩展成15/20的已证实比例。
+
+### 能力进度与本次吃力来源
+
+1. **交流功能稳定。** 在情境清楚后，用户能给建议、解释不立即上线、修正他人误解并完成票务说明。内容与专业判断持续强于句子调用速度。
+2. **自然表达仍有组织成本。** 对比式澄清问题和“保留但进一步调查”可以完成，但需要帮助压缩。语法小错没有阻断交流，不提升为专项训练优先级。
+3. **首听保留了多项具体信息。** 本轮首听能保留20、15、11、7及成品预览；8首次不准确。相较早期只记主题已有进步，但任务内容不同，不作标准化分数比较。
+4. **数字与单位需要绑定。** 11和7被记住，minutes却两次说成seconds；这是影响业务含义的重要错误，值得及时、简短纠正。
+5. **本轮包含明确词义障碍。** grouping需要解释；陌生表达处理与英语复述同时进行，增加负担。单凭英语复述不能分离听懂多少、记住多少、能说出多少。
+6. **任务说明也消耗能力。** 开场要求慢一些、情境澄清；结尾Pardon和What detail。后续应同时处理输入清晰度与输出支架，不把困惑一概算用户听力不足。
+
+综合判断：本轮可以在支持下完成，难度处于当前能力上沿；这一判断来自请求帮助、提示层级和用户主观反馈，不是新的CEFR评定。保持GDC主题与两段式安排，暂不同时增加语速、信息密度和回答复杂度。
+
+### 下次计划的高杠杆调整
+
+- **任务指令更短，信息仍完整。** 先用2～3句说明自己和用户的角色及情境，再只要求一个行动。必要时说明“问是否更投入还是更困惑”，避免一次朗读Role/Purpose/Task等长元指令。
+- **口语先搭两句。** 用户自由表达后，确认真实意思，选一个自然词块，帮助组织“立场一句＋原因/下一步一句”；马上让用户按自己的意思重说，再换一个轻量情境。保留即时内容反馈。
+- **听力一次只提高一个维度。** 下一轮保留相近长度与自然稍慢速度，减少需要精确保留的槽位；先抓改动、一个前后结果和结论。不同时考五个数字、两个单位、两个改动、结论及限定条件。
+- **数字连单位记录。** 可记 `before: 8 / 11 min; after: 15 / 7 min`，英语完整句不是听力首答的前提。用户明确不记得时不逼猜数字。
+- **分离理解与表达。** 首答先关键词/短语；不确定是否听懂时，允许一次中文含义确认或简短识别检查，再回到英语表达。识别检查与提示后的答案另记，不混入首听成绩。
+- **教学与评估分开。** 陌生核心词可在训练听力前简短预教，记录为有准备的训练；需要比较首听能力时另用难度匹配且未见的新材料。教师给过的数字或范句一律记提示后。
+- **词块数量控制。** 下轮优先一次无提示复测 `What I mean is...` 的功能，再教最多一个新高频日常表达。旧词块未原样出现但自然完成任务，同样算沟通成功。
+
+### 表达状态更新
+
+| 表达/功能 | 当前证据 |
+| --- | --- |
+| What I mean is... | 理解后当场使用成功；跨日无提示待测 |
+| 修正误解、保留但调查 | 自由回答功能成功；紧凑说法需要支架 |
+| Just to make sure I understood... | 本次未自然调用；其他问法完成任务 |
+| grouped materials by purpose | 初始未充分理解；解释后能用自身说法复述 |
+| 数字＋时间单位 | 首听和复听数字部分保留，单位错误；纠正后7 minutes成功 |
+| workshop ticket沟通 | 说明预订workshop成功；自然票种对比表述待迁移 |
+
+---
+
+# 十一、2026-10-08 阶段性学习更新与待讨论规划
+
+## 评估范围与依据
+
+本次以9月14日正式评估为基线，重点比较9月20日至10月2日的有效训练证据。读取了当前档案24版，并检查10月3日至8日的后续训练线索，未获得这段时间新的本人实际口语训练证据。检索出现的教材下载及子女英语学习不计入本人的训练记录；无法据此断言这段时间没有练习。
+
+本次为训练画像更新，不构成标准化语言水平考试。材料长度、语速、提示层级和任务完成度此前有差异，不能算总体提升百分比，也不能把自然英语复述的遗漏直接等同于未听懂或记忆容量不足。
+
+## 当前能力画像
+
+### 1. 口语交流功能有所扩展
+
+9月14日已经具备日常叙述、事件讲述和简单旅行沟通能力；近期进一步出现了专业建议、理由与限制条件、对证据提出质疑、回应追问、修正他人误解等功能。
+
+9月29日晚能够说明先核实玩家投诉、提出观察和测试建议，并回答通常不会完全移除教程。10月2日能够表达保留AI companion、调查卡点及指令误解、暂缓上线，以及修正对方把立场理解为移除该功能的误解。
+
+这些证据支持：熟悉领域的沟通能力正在扩展。原有口语功能约B1定位保留，目前没有充分证据升级整体CEFR等级。熟悉专业主题的表达能力也不能直接代表陌生日常场景已同样稳定。
+
+### 2. 表达调用与压缩仍为核心瓶颈
+
+用户通常知道自己的立场和理由，第一次英语输出仍有搜索表达、重复启动和绕行。反馈后的短句重构能够明显改善紧凑度；旧训练中若只给自然版本、不让用户按原意重新完成任务，便缺少真正的改进输出证据。
+
+9月28至29日和9月29日晚，专业建议已经能以两个行动分支表达。10月2日“有积极信号也有问题，查清再上线”的观点仍被组织成较绕的句子。这说明进展真实但稳定性有限。
+
+继续以两到三句表达立场、原因和下一步为核心。20～40秒可作常见简短回答目标，但不为了计时删掉重要条件，也不把完成长度当作唯一成功标准。
+
+### 3. 熟悉表达有较明确的延迟恢复证据
+
+`Our showcase demo uses a multi-agent framework.` 在9月28至29日的开头和结束无提示正确出现，项目核心表达比9月22日需要完整范句更稳定。该固定句的变化只证明这条表达趋稳，不证明所有第三人称单数已经自动化，也无需占用后续主要训练时间。
+
+描述agents时，用户自然使用 `talk to each other and exchange information`，意思完整。没有使用 `communicate with each other` 不影响任务成功。
+
+`What I mean is...`、`I'd recommend starting with...` 已有教学后产出；跨日新场景独立使用仍待验证。`Just to make sure I understood...` 未自然出现时，其他有效澄清问法同样记为沟通成功。词块复测服务真实功能，不要求背唯一标准句。
+
+### 4. 听力主旨能力相对较强，具体信息准确性尚不稳定
+
+9月22日41词材料首听主要保留主题和整体正向变化；9月29日晚75词材料首听能恢复5/12、9/12及角色分工改善表现；10月2日75词材料首听保留20、15、11、7与预览核心意思，但首轮完成数不准、时间单位错误。
+
+由此可以判断首听报告中出现的具体信息增加，但材料不同，不作同条件成绩比较。时间、单位和带限定的结论仍然容易丢失或变化。
+
+`keep + -ing` 和 `grouping` 曾形成明确的词义/短语解析障碍。听力困难至少要分成声音辨认、词义理解、信息保持和英语表达四类；必要时用关键词、提示后识别或用户主动选择的中文含义确认来区分。中文不得自动启动，识别提示不能回算为首听回忆。
+
+当前更准确的工作判断：熟悉内容的意思理解往往强于即时英语表达；数字、单位、陌生表达的理解仍需单独验证。避免笼统认定整体听力必然高于整体口语。
+
+### 5. GDC目标的覆盖仍存在缺口
+
+近期已练项目介绍、专业建议、会后澄清、误解修复和少量注册场景。记录高度集中于游戏测试及教程改动，对酒店、餐厅、交通、问路、small talk、交换联系方式等缺少同等数量的近期证据。
+
+听力主要来自教师控制的短文；实际演讲的口音、停顿、弱读、图表指代和长段跟随尚未得到充分验证。现阶段可描述为熟悉专业交流已有基础、演讲主线与细节可在短材料中训练；不对完整真实GDC演讲能力作达标承诺。
+
+## 训练流程的高杠杆调整
+
+1. 继续执行9月29日的交流目标优先原则。语法准确率降为辅助观察，优先处理改变意义、阻断表达或明显降低清晰度的问题。
+2. 每段最多一个核心沟通任务及一个轻量迁移。完整任务信息用简短、自然的情境说明提供，不向用户连读冗长元指令。
+3. 每个核心回答后先反馈理解到的内容，再给最多一个高价值自然版本；版本优先使用用户已经理解的词汇，避免为了更高级而增加新理解负担。然后让用户忠实保留自己的意思重新回答。
+4. 回答第一次可以充分展开；精简重说通常一轮，第三轮按实际需要决定。停止以反复模仿教师完整句为主要练习。
+5. 听力首答允许关键词及不完整短句，记录人数与单位；完整英语复述放在理解确认之后。首听的能力测量与教学后的改进分开保存。
+6. 降低同时考察的信息密度。先考主旨、主要改动、一个关键结果及结论，再逐步增加数字或限定条件。长度、语速、陌生词和细节数量一次只调一个维度。
+7. 每天新增1～2个高频词块，总量跨两段合并控制。复测中自然同义表达优先判为任务成功，目标形式另记；熟悉项目句维护频率降低。
+8. 训练材料的前后指标应对齐，不暗示原文没有说明的因果或参与者条件。保留用户合理质疑，避免在材料逻辑讨论中耗尽一段时间。
+9. 每段12～15分钟，各自形成自然回答、即时改进和迁移闭环。完成后的记录区分未执行项目、提示后结果及有效产出，不用计划内容补足实际证据。
+
+## 下一轮两周试行方案，待与用户讨论确认
+
+以下为建议，尚未视为用户已同意的新方针。
+
+### 段一：让表达更轻松、紧凑
+
+保留12～15分钟。大致安排：1～2分钟旧功能自然复测，3～4分钟真实对话，3～4分钟即时反馈及按原意重说，3～4分钟追问/新场景迁移及简短结束反馈。按段内实际需要调节，不为了填时长增加题目。
+
+每五个有效训练日，建议两个专业交流主题、两个日常/参会服务主题、一个综合主题。专业任务练建议、解释、保留意见、提问；日常任务练酒店问题、点餐、交通、找会场、安排时间与后续联系。比例是针对近期专业主题过密的试行安排，不是通用最优比例。
+
+### 段二：听懂主要意思，并准确抓关键事实
+
+保留12～15分钟。大致安排：简短听前目标及必要词义准备，首听与关键词报告，围绕一个缺口复听，对照关键句诊断，再用两到三句表达主线或回应内容。
+
+多数材料约45～75词或30～45秒，按自然稍慢速度与实际难度选择；两个指标不作固定换算。每次主要保留3～4项重要信息，不要求逐字复述所有细节。
+
+建议每五个有效训练日包含：两次专业短听力、两次现场/日常沟通听力、一次综合任务。条件允许时，在其中一到两次加入15～30秒实际讲话者原音，先用于诊断适应，不立即用最难片段评价整体水平。具体原音来源和可播放方式须在制定该次计划时核实，当前不假定执行者能直接播放外部视频。
+
+### 两周后的比较指标
+
+- 口语：在清楚的新情境中，能否独立表达立场与理由，并回应一次追问；需要完整范句还是少量关键词帮助。
+- 日常沟通：能否完成请求/澄清/解决问题，听者是否准确理解，遇到缺词能否继续。
+- 听力：主旨和一个关键结果是否准确，数字是否连单位保留；首听回忆、提示后识别及解释后表达分别记录。
+- 迁移：少量本轮高频词块是否能在隔天的新情境中自然使用；同义替代的功能成功单独记录。
+- 负担：用户是顺利完成、稍吃力、还是需要频繁完整示范；任务说明的困难单列，不归入用户能力分数。
+
+两周后使用未见过且难度、语速和提示条件相近的任务比较，不以熟练背诵旧内容判断提升。即使一段时间训练次数少于预计，也按实际有效样本评估，不为了日期强行提级。
+
+## 至2027年3月的滚动规划草案
+
+- **10月：** 紧凑表达、日常场景、低到中等密度首听及短原声适应。首先完成两周试行，根据表现调整。
+- **11月至12月：** 短原声稳定后逐步练60～120秒内容，使用关键词笔记；增加项目问答、自然追问和small talk。按表现决定是否延长，不按月份强制升级。
+- **1月至2月：** 演讲片段、笔记、会后问题与交流的连贯模拟；扩展至较长片段并练酒店、餐厅、交通与会场问题。长演讲采用分段跟随及提取关键信息，不要求背出全文。
+- **出发前：** 复测真实高频流程、个人与项目介绍、主动澄清、联系方式交换、临时问题处理；训练接近现场条件下的连续任务。
+
+## 2026-10-08 已确认方针：持续积累个人实用表达
+
+用户进一步说明：开口时经常因为不知道合适的词句而卡住，但无法事先列出需要学习哪些词句。用户明确认可从真实表达中识别缺口、学习实用说法并持续复用，希望日常练习稳定产生这一效果。本项已确认；专业/日常比例及其他两周试行参数仍待讨论。
+
+### 日常执行要求
+
+1. **教师负责发现。** 保留用户自由回答，从卡住、绕行、意思清楚但难以形成句子的地方识别表达缺口。用户不需要先提交想学的词表。若意图不清，先通过简短追问确认；用户仍卡住时可以主动用一句中文说明，不因卡顿自动改用中文。
+2. **区分困难。** 记录缺少说法、见过但提取不出、或意思过多需要拆句。已有自然替代表达成功完成任务时，不额外制造词块缺口。
+3. **精选少量表达。** 每个训练日跨两段选择1～2个新核心词句。优先用户真实需要、日常或工作高频、可跨场景复用的说法；同时可以结合当日情境预先补充少量高频表达。重复出现的缺口优先，低频习语与冗长高级版本不占主线。
+4. **即时应用。** 确认意思后给一个简单、自然且忠实于原意的版本。解释必要部分，再让用户重新完成刚才的沟通任务；允许改词、拆句和其他自然表达，不把跟读视为自主应用。
+5. **持续复用。** 当段或第二段换场景使用；下一次练习及后续数次练习安排间隔复测。未用出时先记录第一次回答，再从语义、首词到完整示范逐步提示。复测占用少量时间，不让当日练习退化为词表测试。
+6. **卡住时的交流策略。** 允许先描述动作、用途或结果，使用简单近义表达，先完成意思，随后再补更自然的说法。
+7. **复盘负责维护。** 执行session不承担正式总结。规划老师读取实际训练记录后，将有效缺口、教师给过的版本、用户的第一次与延迟产出、提示层级写入表达库，依据当前状态设计下一次练习。
+
+### 个人表达缺口与复用库
+
+每条记录至少包含：想表达的意思、原始卡点或绕行说法、可用表达、来源日期、理解/输出证据、提示层级、最近复测结果、下一次复用场景。教师版本只记录为已提供；用户表示理解、模仿成功、当场自主使用、跨日自然使用分别记录。
+
+初始条目从已有实际练习和今天讨论中建立，以下不代表新的掌握结果：
+
+| 想表达的意思 | 可用表达 | 已有证据 | 下一次安排 |
+| --- | --- | --- | --- |
+| 先保留当前功能/方案 | keep it for now | 10月2日教师自然改写中提供；10月8日讨论中再次举例。尚无独立跨日提取证据 | 通过新工作或日常选择情境观察保留建议，不先给英文词块 |
+| 查清为什么发生问题 | find out why… | 10月8日回查确认：10月2日用户原始上线理由已包含to find out why it happened。不能列为不认识的表达；当前主要改进点是句子组织，跨日调用待验证 | 不单独重教词义；用设备故障或行程问题观察简短调查建议 |
+| 说明自己真正想表达的意思 | What I mean is… | 10月2日教学后当场使用成功，跨日无提示待测 | 在明确的误解修复情境中先让用户自由澄清 |
+
+判断效果以是否更快讲完意思、是否减少完整范句帮助、是否能跨场景自然调用为主。自然同义表达记为功能成功，目标词块未出现则单独记录，不要求唯一词面。
+
+### 2026-10-08 历史表达缺口回填
+
+**范围与来源。** 读取当前训练档案26版中相关实际记录，并补充检索9月23日、9月28日和10月2日原始用户消息及教师相邻反馈。用户表示部分session已归档；本次检索确实返回了这些日期的训练消息，但未提供可信的逐会话归档状态字段，因此不声称已读完所有归档会话，也不把学习档案与会话归档状态混同。以下保留已取得的证据，不补写缺失原话。
+
+**缺口定义。** 明确问某意思怎么说、知道含义却无法表达、需要完整说法后才能形成句子，可作为直接表达缺口证据。已能自然沟通但可更紧凑的说法，列为表达升级候选；仅未使用指定词块、单纯语法小错、教师指令不清或已用同义词完成任务，不单独列为沟通缺口。
+
+#### A. 有直接提问、卡顿或语义理解困难的条目
+
+| 编号 | 想表达的意思与来源 | 卡点/原始证据 | 实用说法 | 当前状态 | 下一次复用 |
+| --- | --- | --- | --- | --- | --- |
+| A01 | 网络不稳定；9月28日 | 实际检索返回用户network…网络有些波动，询问英文；教师给The network is unstable. | The network is unstable. | 10月9日和12日实际对话中自然产生，包含真实请求重复场景；已有跨日恢复证据。本轮未需完整范句帮助 | 降至低频维护，不继续反复重教；同时观察请求重复的自然程度 |
+| A02 | 帮助某人开始做某事；9月23日 | 用户明确说知道发生了什么但无法选出合适句子，随后指出不能用get start；教师帮助后形成完整句 | get started；make it easier for someone to… | 9月23日提示后成功。10月9至12日本轮能以其他说法给起步建议，未自然使用get started，未形成明确补教与重说闭环；不记为沟通失败或已掌握 | 仅在确实有用的起步情境简短补教，再按用户真实建议重说；无需所有建议都套该短语 |
+| A03 | 玩家会不会更多依赖AI companion；9月28日 | 检索返回I don’t know how to express it及中文说明更多问题/依赖更多；教师给whether players…rely more on… | rely more on…；observe whether… | 教师模型后产出在档案中已有记录，跨日独立使用待测。不能断定rely这个单词完全陌生 | 说明自己使用某工具后是否更依赖它；先允许两句，避免一开始组织长从句 |
+| A04 | 一个动作反复发生；9月28日 | kept opening the wrong menu曾被理解/表达为misunderstood the menu；解释后才能保留反复动作含义 | keep + -ing | 理解和表达混合缺口；解释后正确说出The players kept opening the wrong menu. | 反复查看手机或某应用反复崩溃，先确认持续动作含义 |
+| A05 | 对比确认更长游戏时间代表更投入还是更困惑；10月2日 | 约15:51用户明确说I can’t organize a complete sentence in my mind；随后完整示例后产生类似问题 | Does that mean…or…? | 对比问句组织缺口；该简短框架为规划老师本次建议，非用户已学会的历史证据 | 把不确定结果转成一个短确认问题；先解决情境理解，再观察自然问法 |
+| A06 | 按用途组织材料；10月2日 | 用户问What's a grouping?并要求进一步解释；之后以by the similar usage复述 | group…by purpose；what…is used for | 首先为词义理解缺口，解释后能复述；不归为纯记忆或纯输出问题 | 文件/工具按用途分类；重要性低于通用澄清和调查表达 |
+| A07 | 指称刚听到的短文；9月28日 | 检索返回用户询问这一篇短文/段落的说法，教师给in this passage；未返回完整后续产出 | this passage | 已提供、应用未验证；教学沟通词，当前低优先级 | 在自然讨论听力时顺带复用，不安排专门反复练习 |
+| A08 | 表达录下整场会议；10月9日 | 用户在record the…后停顿，并询问一整场完整会议怎么说 | record the entire meeting | 教师给the entire meeting/the full meeting后，用户重说record an entire meeting；属提示后使用，延迟新场景待测 | 说明完整活动或会议记录，先观察自然表达，不要求唯一同义词 |
+
+A01、A03、A07来自本次新返回的历史消息，尚无连续逐字导出；日期可靠到训练日，不保存检索中不一致的精确秒数。A02、A04、A05、A06同时有档案实际记录支持。提供过、当场成功与当前仍困难分别记录，不能因历史卡顿断定今天必然不会。
+
+#### B. 已能传达原意，适合自然表达升级的候选
+
+| 编号 | 原意与日期 | 用户已有表达 | 升级候选及来源 | 安排 |
+| --- | --- | --- | --- | --- |
+| B01 | 以非专家身份提供建议；9月29日晚 | I’m not an expert in this area… I can give out some recommend. | offer a suggestion；档案复盘建议，非已验证独立使用 | 意思已传达。可在不同工作/日常话题顺带改善，不按失败处理 |
+| B02 | 给出积极信号和保留意见；10月2日 | Because the result combined with some good sign and some problem to find out why it happened. | The results look good, but we still need to…；本次规划建议 | 主要练两句组织及简短条件判断，不要求更高级词汇 |
+| B03 | 先保留、继续查问题；10月2日 | 用户已能表达保留AI companion并调查卡点 | keep it for now；教师实际给过 | 已有功能成功，词块独立提取待测；与A03或B02择一，不叠加成词表 |
+| B04 | 修正他人误解；10月2日 | 先自由澄清不想移除，然后在教学后用What I mean is…再次说明 | What I mean is…；教师实际给过 | 功能成功，词块需跨日观察；不声称首次自由修正失败 |
+| B05 | 午间安排及紧急联系；9月15日 | 提示后正确，几分钟后出现I’m getting to have a massage / in the lunch time / if anything urgent | during lunch；Feel free to contact me.；教师实际给过 | 历史有延迟失败，今天能力未测；保留日常维护候选，不转为专项be或介词训练 |
+| B06 | 请求工作人员带去某处；10月12日 | 在等待维修与会议快开始的情境中使用lead me to the nearest quiet room | Could you show me the quiet room?；规划老师本次改进建议 | 请求目的已明确。更柔和、自然的服务请求值得补充；该改进句不记为当日已教学 |
+| B07 | 说明剪辑应用与第一条视频；10月12日 | clip app such as Jianying；first short of your video | a video-editing app；make/edit your first short video；规划老师本次改进建议 | 思路已清楚、未阻断对话。作为高频表达升级候选，后续择一补教 |
+
+#### C. 已有自然替代，退出核心补缺清单
+
+- **agents互相交流。** 9月27日及9月28至29日自然使用talk to each other、exchange information，功能已完成；不为communicate with each other未出现增加强制训练。
+- **礼貌结束。** 9月25日询问后跟读That's it for now.；9月27日无提示使用I think that's all for today, and see you later.，功能已解决。目标词块可低频维护，不列当前高优先级缺口。
+- **给建议的第一步。** 9月29日晚已能自由说明Finding out the truth is the first step I would recommend.；I'd recommend starting with…可作可选升级，不能仅因未原样出现判为表达失败。
+- **调查原因。** find out why已在10月2日用户原始回答中出现；主要需要简化整句话，不作为未知词重教。
+- **任务不清。** One sentence for what、What detail等首先记教师说明问题；不能直接推断用户缺少相应英语词句。
+
+#### 后续调用顺序
+
+优先安排A01、A02、A03这类用户明确提出的真实说法需求，再根据情境加入A04或A05。B类作为即时升级池，A06/A07与历史日常条目作为轻量维护池。每个训练日只激活1～2个新/仍未稳定的核心表达，其余等待后续。候选次序可根据新练习中的实际卡点更新，不因条目已入库强制学习。
+
+每次回查补充来源和现状，不覆盖此前正确证据；新的无提示复用成功后更新本条，降低复测频率。
+
+## 2026-10-08 制定：下一次两段式练习计划与执行要求
+
+### 定位、目标与时间
+
+以10月8日阶段更新和个人表达缺口库为依据，下一次降低同时处理的信息量，优先练“有想法，能用简单英语讲完”。保留GDC专业交流及赴美日常沟通。两段各12～15分钟，可以分时完成；暂停后从未完成位置继续。
+
+主要目标：
+
+1. 用两到三句给出一个简单建议、理由，并回应一次追问。
+2. 复测并按实际需要补练A01网络问题、A02开始做某事。核心表达暂选The network is unstable.与get started。
+3. 从低到中等密度听力中抓住问题、等待时间及可执行方案，数字与单位一起保留。
+4. 在真实回答中发现一个最有价值的表达缺口，完成反馈、按原意重说及后续复用记录。
+
+两条核心表达已有教学史，本次先观察当前能否自然使用。无须原样说出才算任务成功。两条已经稳定时，可用自由表达中新发现的一个高频缺口替换补教环节；本次核心新教/补练总量仍控制在两条。rely more on与其他库中条目留到后续，不集中加入本次。
+
+这是有教学支持的训练，听力内容与语速有意降低负担，不与10月2日首听成绩直接比较。不把读过计划后的目标词块复现称作完全未接触条件下的测试。
+
+### Segment 1：帮助他人开始使用工具，12～15分钟
+
+#### 1. 日常旧功能复测，1～2分钟
+
+教师用简单情境布置：
+
+> Imagine we are on a video call. You can hear only parts of what I say. Tell me what is wrong and ask me to repeat my last sentence.
+
+用户先自由回答。不要提前说network、unstable或完整范句。不要求固定词块；其他自然说明如connection is bad同样成功。
+
+教师记录交流是否完成、是否自然提取旧表达、需要何种提示。若卡住，先确认用户想说的意思，再给The network is unstable.，解释必要含义，立即让用户重新说明问题并请求重复。这个环节最多2分钟，不能演变成发音或语法专项。
+
+#### 2. 自由表达，2～3分钟
+
+> Tell me about one app or tool you use often. What do you use it for?
+
+用户说完后只选一个自然追问：
+
+> What was difficult when you first used it?
+
+保留用户自然样本，不提前提供词句。教师观察卡住的真实位置，确认是缺说法、提取困难还是意思需要拆句。此处不要求指定词块，也不对工具实际功能作事实考核。
+
+#### 3. 工作沟通任务与即时升级，约5分钟
+
+角色扮演任务：
+
+> I'm a new colleague. I want to try an AI tool for meeting notes, but I've never used it. Suggest one easy way to begin and tell me why. Two short sentences are enough.
+
+先给用户独立组织的机会。若不清楚任务，教师缩短为“Give me one first step. Then tell me why that step is useful.”；不要继续复述原先整段说明。
+
+用户第一次回答后：
+
+- 教师先概括自己听懂的建议和理由。
+- 选择一个最有价值的表达改善，保持用户真实意思。
+- get started若没有自然出现但建议已清楚，记录功能成功；可以作为省力工具简短补教，不能强制替换用户自然说法。
+- 若用户在该表达上卡住，确认理解后，把它用于用户自己的建议。
+
+教师参考句只在首答后按需提供，内容必须随用户实际建议调整：
+
+> To get started, try it with one short recording. That lets you check whether the notes are useful.
+
+此句是示例，不要求用户选择短录音这个建议。教师不得把用户立场改成预设答案。
+
+随后让用户按自己的意思重做同一个建议，通常一轮即可。无需逐词跟读整段，不同时教授make it easier、rely on、promising等其他核心词块。
+
+#### 4. 追问、新场景与结束，3～4分钟
+
+继续同一角色：
+
+> Would you use it for every meeting right away? Why?
+
+允许简单同意或保留意见，一到两句即可。教师反馈内容并给最多一项高价值改善。
+
+再换一个生活场景：
+
+> A friend wants to start exercising but feels unsure. Suggest one simple first step and explain why.
+
+用户自由给建议，不预先要求使用get started。其他自然说法同样算功能迁移成功。教师只在需要时补最小提示。
+
+结束前简短反馈本段一个进步点与一个关注点。记录本段补教的实际表达、用户即时应用和迁移结果。若时间达到15分钟，结束本段；未完成事项如实记为未完成，不用催促或增加题量补齐。
+
+### Segment 2：酒店网络问题与行动方案，12～15分钟
+
+#### 1. 听前说明，约1分钟
+
+> You're staying in a hotel and have called reception about a problem. Listen for three things: the problem, how long you may need to wait, and what you can do now. You may write down keywords.
+
+不预告问题答案或15分钟。若reception/lobby等词妨碍理解，可先简短解释，并记录本次为有词义准备的训练。无需用户提前用英文猜故事。
+
+#### 2. 完整听力原文，55词
+
+> The internet in your room is not working well this evening. We are fixing it, and it should be ready in about fifteen minutes. For now, you can use a quiet room near the lobby. The internet works well there. If you need to join a video meeting, I can show you the room now.
+
+采用自然稍慢、稳定语速，句间短暂停顿，第一次完整读完。本文为虚构练习情境，不指称实际酒店服务。没有真实原声可播放时，不把教师朗读标为原声训练。
+
+#### 3. 首听理解，2～3分钟
+
+先问：
+
+> What did you understand? Keywords and short phrases are fine.
+
+记录完自由首答后，必要时逐个询问三个信息槽，不泄露具体内容：
+
+1. What is the problem?
+2. How long might you need to wait?
+3. What can you do now?
+
+教师重点记录：房间网络有问题、预计约15分钟恢复、可以立即使用大堂附近安静房间的网络。near the lobby及有人带路可作附加信息，不要求全部记住。
+
+数字必须与单位一起报告；将分钟说成秒属于意义错误，首答记录完成后及时纠正。不要求完整原句，不迫使用户猜遗忘的信息。
+
+#### 4. 带缺口复听与诊断，3～4分钟
+
+先问用户哪一项不确定，再完整读同一原文一次。让用户先补该项，再用两句总结问题和解决方案。
+
+若仍缺信息：用关键句或简短识别检查判断是没听清、不理解、没记住还是不会表达。所有提示后识别和教师给出的答案另记，不能回算为首听或独立二听成功。
+
+若意思清楚但英语卡住，先确认原意，再给一个简单版本并让用户重说。短语听不懂时针对性解释，不继续全文循环朗读。通常两次完整听取后进入应用；用户需要更多帮助时优先拆关键句。
+
+#### 5. 前台实际沟通，3～4分钟
+
+教师说明完整角色及目的：
+
+> I'm the receptionist. Your video meeting starts in five minutes, so you can't wait for the repair. Explain your problem and ask to use the quiet room now. Two short sentences are enough.
+
+这里的5分钟是新角色扮演条件，不能记为原听力内容。
+
+用户先自由表达。观察能否说明网络问题及提出明确请求，允许自然替代。若需要帮助，按原意提供简短版本，例如：
+
+> The network is unstable, and my meeting starts soon. Could I use the quiet room now?
+
+随后让用户重新完成请求。教师以角色身份作自然回应：
+
+> Yes. I can show you the room now.
+
+用户作简短回应，完成交流闭环。新增角色回应不能计入原听力理解成绩。
+
+#### 6. 简短延迟调用与结束，约1分钟
+
+如果第一段已完成，用一个新的生活场景观察表达功能：
+
+> A friend wants to make their first short video. Suggest one easy way to begin.
+
+不提前给get started，不要求固定词面；记录自然产出与提示程度。若两段顺序颠倒，本环节只作为历史表达迁移，不称为第一段后的延迟复测。
+
+结束只反馈一个进步点和一个下次关注点，不生成书面总结。
+
+### 对执行者的统一要求
+
+1. 以Christina角色指导，默认英文、自然稍慢；用户要求时中文解释，再回到英文。先重复，再拆短；任务连续不清时换具体说明或简短示例，不能只重复原指令。
+2. 每次只提出一个清楚行动。角色、情境和目的必须提供，但不向用户机械朗读长串Role/Purpose/Task标签。
+3. 留出自由回答，不频繁打断。实质回答后先确认内容，再给最多一个高价值语言建议；用户明显卡住时可以提前帮助。
+4. 纠正需指出具体位置和改法。优先处理意义、否定、时间单位、表达中断和清晰度；不针对第三人称、冠词等小错反复重说。
+5. 教师负责识别实用表达缺口，用户无须列词表。用户意思不明时先确认；明确理解后才要求复用。
+6. 按用户真实建议改写，不提供更高级却陌生的版本。核心补教最多两条，若临时新缺口更有价值，用它替换原候选，避免不断加内容。
+7. 自然同义表达完成任务同样成功。记录任务完成与目标词块调用两个维度，不把没有指定词面当成失败。
+8. 即时改进必须产生一次用户按原意重说；随后尽量换场景使用。不得把模仿正确直接认定为掌握。
+9. 听力首答记录完成前不提供答案。提示、关键句解释和重复次数要在过程上清楚，避免最终正确答案遮蔽首听困难。
+10. 每段控制12～15分钟。优先完成自然表达、即时反馈、一次应用/迁移，不为凑时间增加题目。超时风险时减少额外追问；未完成环节如实保留。
+11. 用户暂停时记下未完成任务，恢复后从断点继续；重给的情境或范句注明已提示，不重复整套测试。暂停时间不计训练时间。
+12. 执行session无需正式总结或另建学习档案。过程中的教师反馈、用户首答、提示后重说、理解反馈和迁移自然留在对话中；规划老师之后检索复盘并更新表达库。
+
+### 本次后续复盘关注点
+
+- A01和A02目前能否自然完成沟通，是否还需完整范句。
+- 从用户真实回答中新发现的表达缺口是什么，教师提供的版本是否忠实、简单。
+- 同一意思重说后是否更紧凑；是否保留用户自己的理由。
+- 酒店听力能否首听保留一个关键时间及行动方案；信息提示前后分别如何。
+- 听懂但说不出的具体位置，以及教师任务说明造成的困惑是否减少。
+
+本段为已制定的单次计划，不代表用户已确认全部两周主题比例或滚动规划参数。
+
+## 待讨论的选择
+
+1. 用户希望下一轮两周更偏重表达轻松度，还是更偏重演讲听力的完整理解？当前建议每日两段仍各自保留口语和听力。
+2. 当前建议专业与日常主题接近各半，用户是否更希望专业交流稍多？两类最终目标均保留。
+
+本次已更新阶段画像；具体比例、难度和下次练习方案将在讨论后确定。
+
+---
+
+# 十二、2026-10-09 至 2026-10-12｜工具建议、酒店网络听力与表达缺口复盘
+
+## 资料与时间范围
+
+执行对话标题：英语口语训练计划。规划老师于10月12日读取原计划并检索两段实际用户消息、教师相邻反馈及时间/SRT线索。返回多个关键轮次，并非完整连续导出。原话只引用已取得的部分；其余按含义概述，不把计划或教师评价代替用户产出。
+
+- **Segment 1：**10月9日上午约09:20至09:32～09:33，约12分钟。尾部有用户暂停、稍后继续第二段的说明。
+- **Segment 2：**10月12日上午约09:12～09:13恢复，约09:20～09:21结束，约8分钟。SRT长度约8分20秒，与消息时间有几十秒偏差，不给精确秒级有效计时。
+- **两段合计：**约20分钟，跨日间隔全部扣除。第二段短于计划12～15分钟，总量低于24～30分钟目标。段内重复、解释、思考计入训练过程；不将所有响应间隔当作暂停。
+- 用户明确表示本轮已完成；记录可确认最终结束反馈、礼貌结束及两个主要训练段，不能因早期检索片段止于中途便推断未完成。
+
+## 计划执行概况
+
+| 环节 | 实际证据与结果 |
+| --- | --- |
+| 网络问题与请求重复 | 完成，目标核心表达自然出现，并在第二段真实澄清时再次使用 |
+| 常用工具自由表达 | 完成，MacBook用途、获取时间、快捷键适应困难 |
+| AI会议纪要建议与重说 | 完成，录音上传的步骤；真实询问the entire meeting并使用 |
+| 是否每场会议使用 | 完成，加入保密与征得参会者同意的条件 |
+| 生活建议迁移 | 完成，先澄清目的，再给健康生活方面建议 |
+| get started补教与独立使用 | 未取得明确补教闭环，未自然调用；其他起步表达完成任务 |
+| 酒店首听 | 完成，时间准确，问题对象与quiet room辨认不完整 |
+| 复听与两句总结 | 完成，但放在角色扮演和短视频迁移之后补做，此前有词义解释与范句提示 |
+| 前台请求 | 完成，模型帮助后的重说保留用户自己的等待限制与会议目的 |
+| 短视频迁移与结束 | 完成；录制、剪辑与AI帮助的行动建议清楚，词面仍有升级空间 |
+
+## Segment 1：自然表达与实用积累
+
+### 1. 网络表达：已有自然与跨日恢复证据
+
+10月9日开场能自然说明：
+
+> the network is unstable
+
+并请求从头重复。完整请求在返回转写中存在repeat/pardon差异，保留核心表达与请求功能，不对未核验声学细节定错。10月12日又在真实没听清时说：
+
+> Sorry ... my network is unstable.
+
+此为不只是词表模仿的实际应用。A01升级为已有跨日自然恢复证据，降低维护频率。请求重复的省力说法可以自然回述Could you repeat that?，不必另做多轮专项。
+
+### 2. MacBook自由表达
+
+用户能够说明用MacBook写游戏设计文档、开发demo时进行live coding，约六月申请、约一个月后拿到。初期困难是Mac快捷键与Windows不同，学习需要时间。代表性已取得片段：
+
+> I often use a MacBook with my work ... write the game design documents ... live coding ... demos.
+
+> learn the shortcuts ... shortcut keys ... different from the Windows system.
+
+内容清楚、能持续展开。keyboard shortcuts这个概念用户已有说法，不能列为完全不会的词。教师在这部分主要表扬，未检索到高价值自然改写与用户重说的完整闭环。可顺带自然回述use a MacBook for work，但不把介词小错升级为主要训练目标。
+
+### 3. 会议建议与本轮真实新增词句
+
+用户建议用手机或电脑录下会议，把录音上传AI工具生成纪要；提到Codex作为自己的例子。本档案只记录用户表达，不验证具体软件能力或记录合法性。
+
+约09:26用户在record the…处停顿，主动询问如何说“一整场完整的会议”。教师提供：
+
+> the entire meeting
+
+> the full meeting
+
+用户随后重说：
+
+> record an entire meeting
+
+这是明确的“真实需要→提供说法→当场使用”证据，新增A08。未发现隔天无提示复用，状态保持提示后能用。优先观察这条实际学过的词句，避免只围绕预设get started循环。
+
+### 4. 条件判断与目的澄清
+
+面对是否对每场会议使用工具，用户能够加入会议机密、需询问参会者同意等条件。交流具有真实判断，不只列操作步骤。
+
+健身迁移中，用户明确要求先知道为什么开始、目的是什么。已取得片段：
+
+> I can't give out any advice unless I know why ... What purpose?
+
+教师补充目标healthier后，用户建议调整饮食、作息和规律生活。该回答与用户认为需要先明确目标的思路一致。这里不把对情境信息的追问记为语言失败，也不强迫用户给预设运动动作答案。
+
+可用的简短任务设计改进是直接说明朋友的目标，或明确允许先问一个问题。get started只出现于教师任务措辞/历史计划，未取得当日明确解释、用户重说和独立迁移证据；保持A02待观察。
+
+## Segment 2：首听、帮助与最终结果分层
+
+### 1. 实际材料与首次报告
+
+实际朗读使用计划中的55词酒店网络原文，含15分钟、quiet room near the lobby、网络在那里正常工作及可带路。教师朗读不记为真实原声。
+
+首听后用户报告房间某样东西不正常，明确保留fifteen minutes；某词不确定，猜测像engineer。随后将可用空间说成meeting room，经教师反馈才确认quiet room near the lobby。
+
+| 信息 | 首听证据 | 教学/复听后的证据 |
+| --- | --- | --- |
+| 房间网络故障 | 知道有东西不好用，未准确提取internet对象；教师补明 | 最终准确表达internet in my room |
+| 预计约15分钟 | 数字与minutes准确恢复 | 最终保持15分钟；是否保留约/预计的语气仍需观察 |
+| 可立即使用安静房间网络 | 说meeting room，quiet辨认不完整 | 解释词义、拼写及复听后恢复quiet room near the lobby |
+| 可由前台带路 | 首听未取得明确独立报告证据 | 角色扮演提出带路请求；不得回算为首听识别 |
+
+用户明确询问：
+
+> What's the quiet room? How to spell it?
+
+教师拼写Q-U-I-E-T并解释。该环节出现词语辨认/理解困难，不能归为纯信息保持问题。没有独立音频声学检查，不进一步认定某种发音或连读是唯一原因。
+
+相较10月2日minutes被说成seconds，本轮15分钟单位正确；材料长度、密度和主题不同，这只证明本轮保留成功，不证明时间单位已全面稳定。
+
+### 2. 前台请求与教师帮助
+
+角色扮演要求会议五分钟后开始、无法等十五分钟维修。用户在表达“不能等待维修”上需要帮助。教师先提供：
+
+> My meeting starts soon. Could I use the quiet room now?
+
+以及：
+
+> I can't wait fifteen minutes for the repair.
+
+用户重说时保留了自己的感谢、会议五分钟后开始、不能等十五分钟和请求带去安静房间的意思。已取得代表性片段：
+
+> Thank you for the option you gave ... my video meeting will start in five minutes ... I can't wait fifteen minutes for the repair ... lead me to the nearest quiet room ... get ready ...
+
+这是范句帮助后的成功重构，不记录为完整无提示请求。get ready在准备会议的语境中有合理功能，不算get started的目标词面证据。
+
+教师主要评价clear and polite并以角色回应I'll show you the quiet room now。请求目的已完成。服务场景中，Could you show me the quiet room?更自然、柔和；此为规划老师复盘建议，已加入B06，不冒充当日已教授。
+
+### 3. 短视频建议
+
+用户自然提出拍摄身边感兴趣或想分享的内容，使用剪映，再借助AI完成视频。代表性片段：
+
+> record everything or anything around you ... interested in ... share with your friends ... a clip app such as Jianying.
+
+> the AI agent ... help you ... finish your first short of your video.
+
+步骤可理解、迁移任务完成，未自然使用get started。不因此判为功能失败。教师主要表扬，未取得针对clip app/first short of your video的即时自然版本和重说闭环。video-editing app、make/edit your first short video作为B07候选，以后择一补教。
+
+### 4. 补做复听与最终总结
+
+约09:18用户问第二段是否还有项目，教师指出第二次听与两句总结尚未完成。用户随后说不明白该做什么，需要再次解释任务。这是任务说明问题的又一证据，不直接列为缺少英语词句。
+
+之后实际进行了第二次完整朗读，检索返回确认仍包含We are fixing it、The internet works well there、I can show you the room now。SRT线索约00:06:30至00:06:50，发生于角色扮演及短视频建议之后。
+
+用户最终总结：
+
+> The internet in my room is not work well, so the reception tell me it will be ready in fifteen minutes. And if I want to use internet now immediately I can use quiet room near the lobby.
+
+三个主要信息均恢复：故障对象、时间、可执行方案。语法小错未妨碍意思传达，无需反复修正。could/should、about所表达的不确定性没有明确保留，作为辅助观察，不破坏当前主线。
+
+这属于复听加词义解释、范句及角色应用之后的准确总结，不能算未经提示的纯二听成绩，也不能回填首听。教师末尾称第二次覆盖三点，与最终用户产出基本一致。
+
+用户自然确认结束并礼貌告别，已取得：
+
+> Okay, thank you, and see you again.
+
+## 本轮结论与训练执行复盘
+
+### 已确认进步
+
+1. 网络问题表达从“询问怎么说”进入实际对话中的自然及跨日恢复，可降低复测频率。
+2. 能连续说明工具用途、适应困难和操作步骤，还能加入保密条件、目的澄清及个人判断。
+3. 新词句entire meeting确实来自真实表达卡点，并有当场重说，符合用户希望持续积累实用表达的方向。
+4. 酒店情境可在帮助后完成请求，复听和解释后能准确总结主要信息；本轮数字及分钟单位正确。
+
+### 仍需改善
+
+- 实时组织仍有停顿和重启，特别是说明等待限制及连续动作。优先练短句、简单请求与行动建议，不扩展小语法专项。
+- quiet room的辨认需要帮助，说明低密度日常内容仍可能被一个具体词卡住；下一轮分离听词、理解与完整表达。
+- get started未形成新的学习闭环。应在需要时简短提供并复用，或明确用本轮更有价值的新表达替换；不把继续让用户猜目标说法当作补教。
+- 第二段先进入角色扮演和迁移，复听最后才补做。任务顺序应更清楚，先完成首听→复听→诊断，再应用，避免用户反复询问还有什么。
+- 多处即时反馈仅是clear/practical/well done，未具体帮助表达变得更自然。下次实质回答后必须有内容反馈，并在确有价值时提供一条自然升级及用户重说。
+- 第二段约8分钟，总量约20分钟，未达到原定两段24～30分钟。补足时间应靠有效反馈、按原意重说和轻量迁移，不靠多次重复指令或新增题目。
+
+## 表达库更新与下一轮重点
+
+| 条目 | 更新状态 | 下一步 |
+| --- | --- | --- |
+| A01 network is unstable | 本轮跨日自然恢复，降低维护频率 | 仅在真实故障/澄清情境顺带观察 |
+| A02 get started | 本轮功能成功但目标词面无独立使用，补教闭环未建立 | 按需要补练，不强制所有建议使用 |
+| A08 record the entire meeting | 新增真实需求，提示后当场使用 | 隔天或新场景观察entire/whole等自然表达 |
+| B06 Could you show me…? | 服务请求升级候选，尚未由执行教师教授 | 可作下一轮一个核心高频说法 |
+| B07 video-editing app / first short video | 表达升级候选，用户已能传达行动 | 按新话题择一使用，不集中背词 |
+| quiet room | 明确词语辨认困难，解释后恢复 | 在新听力情境自然再听，区分识别与提取 |
+
+下一轮保持两段式，优先完成“自然表达→具体反馈→按原意重说→轻量迁移”的闭环。高频积累可从已学的entire meeting与有需求的Could you show me…中选择，最多两个核心项。听力可保持相近低到中等密度、更换情境，确认问题对象、一个时间及行动方案；暂不同时增加长度与语速。用户目的澄清是有价值的交流策略，任务设计应支持这种真实思考。
+
+---
+
+# 十三、2026-10-12 制定｜下一次具体练习计划
+
+## 本次重点与材料定位
+
+两段各12～15分钟，共24～30分钟，可分时完成。本轮目标是简短说明需求、请求工作人员帮助并回应追问；听力保留一项时间、一个位置和一个行动选择。根据上轮已有自然恢复证据，network is unstable退出核心重复测试。
+
+核心表达：
+
+- 新的表达升级候选：Could you show me…?，优先用于请工作人员指路或带路。
+- 历史实用表达维护：the entire…，以录下整场会议为起点，再换到完整视频/活动等语境。
+
+先观察自由回答，不因指定词块未出现判失败。若entire已稳定，不再重新讲解；若当日发现更有价值的真实表达缺口，使用剩余教学时间补充一条。本轮最多重点补教两条，历史维护不演变为大量词表测试。
+
+全部情境为练习用虚构设定，不代表实际GDC安排或会场位置。教师朗读作为控制难度的训练输入，不标记为真实原声。用户可能已经读过计划，因此本轮首听是当前朗读条件下的报告，不称为完全未见材料的标准化测试。
+
+## Segment 1：清楚说明需求并请求帮助，12～15分钟
+
+### 1. 实用旧表达复用，2分钟
+
+> Tomorrow you want AI-generated notes from a meeting. Everyone has agreed to the recording. Tell a colleague what you will record and what you will do with the recording. Two short sentences are enough.
+
+用户先自由回答，不提前提供entire/full/whole。准确表达记录整个过程并上传处理或生成纪要即可；不考具体软件能力。若用户只说record the meeting但意思已清楚，记录功能成功，必要时用一句追问确认是否全部。
+
+若出现真实提取困难，先给语义提示“from the beginning to the end”，仍需帮助再给the entire meeting，并让用户重说。不要为entire与whole的词面选择反复纠正。
+
+### 2. 日常自由表达，2～3分钟
+
+> When you visit an unfamiliar place, how do you usually find your way?
+
+用户回答后可追问：
+
+> Tell me about one time you needed help finding a place.
+
+如果想不起具体经历，改为：
+
+> Why do you prefer that way of finding a place?
+
+保留自然回答，观察真实表达缺口。不要要求用户必须编一个经历。
+
+### 3. 主要请求任务与即时改进，4～5分钟
+
+> I'm helping visitors at a GDC venue. Your session starts soon, but you can't find Room B. Ask me to help you get there. One or two sentences are enough.
+
+先让用户自由表达。教师确认核心意思，例如“你想找到Room B，而且时间不多”。再选最多一项自然表达改善。
+
+本次重点候选：
+
+> Could you show me the way to Room B?
+
+用户已有其他自然请求时仍算成功。若需要补教，解释Could you show me…?在此处是礼貌请对方指出路线/帮助找到位置。先确认理解，再让用户按自己的需求重新提问。
+
+教师以角色回应：
+
+> Of course. I can walk with you to the room.
+
+用户自然回应。若用户已有准确请求，不要求机械跟读范句；可将改进用于更紧凑地说明原因或新的真实卡点。
+
+### 4. 新场景迁移与结束，3～4分钟
+
+> I'm a hotel receptionist. You want breakfast, but you don't know where the restaurant is. Ask me to help you find it.
+
+用户先自由说，不提示Could you show me…?。教师听懂后自然回应：
+
+> Yes. I can show you where it is.
+
+需要帮助时可以提供：
+
+> Could you show me the way to the restaurant?
+
+这是提示后结果，不能记为独立迁移。用户有自然同义表达时不强制改成标准句。
+
+如时间允许，追加一个简短目的说明：早餐后需要回房间拿电脑，请用户用一句话说明。不要添加新词块或多轮任务。
+
+最后给一个进步点和一个关注点，确认本段结束。保存实际补教内容以及重说和迁移结果。
+
+## Segment 2：会场指引听力与实际行动，12～15分钟
+
+顺序固定为听前说明→首听报告→复听→针对性诊断→实际请求→简短延迟复用与反馈。不得先跳到角色扮演、最后由用户提醒补做复听。
+
+### 1. 听前任务，1分钟
+
+> Listen to a member of the venue staff. Find out when the talk begins, where the room is, and where you can make a call. You may write down keywords.
+
+不预告具体时间、位置或quiet area。若工作人员/会场等情境词不清，先用简单英语说明角色。只解释影响任务理解的词，并记录准备程度。
+
+### 2. 听力原文，56词
+
+> The AI talk will begin in about ten minutes. It is in the room next to the café, not in the main hall. If you want to make a call before the talk, there is a quiet area near the entrance. I can show you the talk room now, or you can follow the green signs.
+
+先完整朗读一次，语速自然稍慢，句间短停；不先展示原文，也不强调答案词到失去自然语流。
+
+### 3. 首听报告，约2分钟
+
+> What did you understand? Keywords and short sentences are fine.
+
+自由首答后必要时逐个询问：
+
+1. When does the talk begin?
+2. Where is the talk room?
+3. Where can you make a call?
+
+三个主要槽位为：约10分钟后；咖啡馆旁边的房间；入口附近安静区域。green signs、工作人员可以带路作为附加信息，漏掉不要求继续猜测。
+
+记录时间连单位，以及talk room和quiet area能否区分。not in the main hall涉及意义准确性，误判时首答记录后简短纠正；未经用户报告，不提供内容提示。
+
+### 4. 定向复听与诊断，3～4分钟
+
+用户选一个不确定项，教师完整再读同一原文一次。先让用户补该项，再用两句概括自己现在知道什么。
+
+若仍有困难，对照一个关键句或做一次简短理解确认；记录声音辨认、词义、保持或英语表达的困难，不一概归为记忆差。quiet已在上轮解释过，本轮重点观察它能否在quiet area新组合中辨认；用户提出时再解释/拼写。
+
+解释后答案与独立复听结果分开。如果核心意思已经清楚，不因为短句语法不完整要求多轮重复。通常两次完整听取后转入应用。
+
+### 5. 用听到的信息完成行动，约4分钟
+
+> I'm the staff member. You want to go straight to the AI talk, and you would like me to walk with you. Ask me to show you the way to the room.
+
+用户独立提出请求，观察能否调用第一段表达。然后教师回应：
+
+> Sure. Would you like to make a call first, or go straight to the talk?
+
+让用户按自己的选择用一句话回应，并给一个简短理由。两种选择都允许，不设唯一正确立场。
+
+教师提供具体内容反馈；确有需要时给一项自然改善，再让用户重新完成请求或说明，不能仅以clear/well done结束。角色中新增信息不计入听力首答。
+
+### 6. 简短延迟复用与结束，1～2分钟
+
+> A colleague missed the beginning of a recorded talk. You want them to watch it from beginning to end before discussing it. What would you say?
+
+用户自然回答，观察the entire talk/video或其他有效说法，如watch it all。不提前给entire。这个任务是表达完整观看的范围，不再考指路或新增词汇。
+
+如果两段顺序颠倒，该项为历史词句复用，不称为第一段后的延迟测试。最后只做一个进步点和一个关注点的口头反馈。
+
+## 对执行者的要求
+
+1. 以Christina指导，默认英文、自然稍慢。用户要求时中文解释，再回到英文。先重复或拆短，再给具体示例；不能在用户困惑后只反复原指令。
+2. 每项任务用简短自然语言说明角色、目的和需要表达的意思，一次只要求一个行动。用户主动询问目标或条件时如实补充，不把合理澄清判为能力不足。
+3. 保留第一次自然回答。每个核心任务有内容反馈；存在真实卡点或明显自然升级空间时，给一个忠实、简单的版本，并产生一次用户按原意重说。不能只有泛泛表扬，也不能为了纠正而纠正。
+4. 新/仍需补教的核心词句最多两条。the entire…已能自然使用时降低维护，不追加get started、network is unstable等既定词表。
+5. 自然同义表达完成任务同样成功。记录任务完成和词块原样调用两个维度，不能把未出现指定词面当作失败。
+6. 范句只在首答后按需给。用户尚未理解说法时先解释，不强迫复用；模仿正确、提示后使用、跨场景独立使用分别记录。
+7. 纠正时指出具体位置及改法，优先意思、时间、否定、请求清晰度和表达中断。第三人称单数等小错通常自然回述即可。
+8. 听力首答结束前不泄露答案。第二次完整听取在应用前完成，重复次数、词义准备、关键词提示与最终总结保持可追溯。
+9. 每段12～15分钟。用有效重说和迁移完成训练，不提前八分钟结束，也不为凑时长添加题目。临近15分钟先收束，未完成项目如实留到后续。
+10. 暂停时明确断点；恢复从该处继续。暂停间隔不计训练时间，重新给过的答案记录为提示。
+11. 无需生成正式书面总结或另建档案。实际首答、教师帮助、改进产出、迁移及理解反馈保留在对话中，之后由规划老师读取复盘。
+
+## 后续复盘观察
+
+- the entire…是否在不同内容中自然提取，还是仍需完整答案。
+- Could you show me…?是否理解、当场应用，并进入新情境请求。
+- 是否存在真正的内容反馈和用户重说，帮助了哪个实际卡点。
+- 首听能否准确报告一个时间、两个不同位置；quiet area与talk room有无混淆。
+- 两段是否各自形成完整闭环，任务说明困惑是否减少。
+
+---
+
+# 十四、后续档案维护规则
+
+从 2026-09-24 起，执行训练的独立 session 不再负责撰写总结。用户完成练习后通知规划老师，由规划老师查阅该次 session 的完整对话和时间线，自行分析、复盘并新增单次记录。不能从检索片段确认的事项，应标明证据限制，不要求执行 session 补写报告。单次记录至少包含：
+
+- 日期、主题和训练任务
+- 用户自然产出
+- 老师提示后产出
+- 跟读或即时模仿结果
+- 用户明确反馈的听懂或未听懂内容
+- 短听力主旨与细节表现
+- 旧表达无提示回忆、提示层级和结果
+- 新表达及当前掌握层级
+- 高频错误和修正
+- 下次必须复测的内容
+
+训练计划以这份档案为依据，优先选择仍未自动化、已有延迟失败证据或需要跨场景迁移的内容。规划老师查阅训练原始对话后更新累计趋势，不因单次表现直接改变总体判断。执行 session 的结束环节只需简短口头反馈，不布置书面总结。
+
+---
+
+**档案更新时间：2026-10-12**

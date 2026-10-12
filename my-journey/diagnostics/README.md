@@ -1,3 +1,7 @@
-_This folder holds dated copies of `docs/templates/english-diagnostic.md`,
-filled in with real results. One file per diagnostic session, named
-`YYYY-MM-DD-<label>.md` (e.g. `2026-08-27-baseline.md`)._
+# 能力评估
+
+[2026-09-14综合评估基线](2026-09-14-baseline.md)已经迁入。后续阶段变化见[2026-10-08阶段更新](../weekly-reviews/2026-10-08-stage-review.md)。
+
+采用[Level Up诊断模板](../../docs/templates/english-diagnostic.md)的证据原则，重点评估听说。阅读、写作标记未测；不虚构四项平均等级，不从单次跟读推断掌握。
+
+新复评用条件相近的任务比较首答、帮助依赖与迁移。没有同条件证据时只报告可支持的结论。
