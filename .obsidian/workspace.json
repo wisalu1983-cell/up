@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.md",
+                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/media/gdc-2024-ai-workflows-baseline-1080p.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gdc-2024-ai-workflows-baseline-1080p.transcript"
+              "title": "gdc-2024-ai-workflows-baseline-1080p"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.md",
+                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/media/gdc-2024-ai-workflows-baseline-1080p.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.md",
+                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/media/gdc-2024-ai-workflows-baseline-1080p.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.md",
+                "file": "my-journey/resources/talks/gdc-2024-ai-workflows/media/gdc-2024-ai-workflows-baseline-1080p.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""

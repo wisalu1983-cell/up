@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gmail Launch · AI Tool · VOA Learning English transcript</title>
+  <meta name="description" content="Time-indexed English transcript for the VOA Learning English episode: Gmail Launch · AI Tool.">
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #667085;
+      --line: #e6eaf0;
+      --paper: #ffffff;
+      --wash: #f5f7fb;
+      --accent: #2563eb;
+      --accent-soft: #eaf1ff;
+      --shadow: 0 18px 50px rgba(31, 41, 55, .08);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: linear-gradient(180deg, #f8fafc 0%, var(--wash) 340px, #f8fafc 100%);
+      font: 16px/1.75 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .page { width: min(920px, calc(100% - 32px)); margin: 0 auto; padding: 24px 0 72px; }
+    .switcher {
+      position: sticky; top: 12px; z-index: 5; display: flex; align-items: center; gap: 12px;
+      margin-bottom: 18px; padding: 10px 14px; border: 1px solid rgba(230, 234, 240, .95);
+      border-radius: 14px; background: rgba(255,255,255,.9); box-shadow: 0 8px 24px rgba(31,41,55,.06);
+      backdrop-filter: blur(12px);
+    }
+    .switcher-label { color: var(--muted); font-size: .84rem; font-weight: 700; white-space: nowrap; }
+    .switcher select { min-width: 0; flex: 1; border: 0; color: var(--ink); background: transparent; font: inherit; font-weight: 600; outline: none; cursor: pointer; }
+    .hero { background: var(--paper); border: 1px solid var(--line); border-radius: 24px; padding: 36px 40px 30px; box-shadow: var(--shadow); }
+    .kicker { margin: 0 0 8px; color: var(--accent); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+    h1 { margin: 0; max-width: 760px; font-size: clamp(1.8rem, 4vw, 2.7rem); line-height: 1.2; letter-spacing: -.03em; }
+    .lede { margin: 14px 0 20px; color: var(--muted); font-size: 1.04rem; }
+    .meta { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; color: var(--muted); font-size: .9rem; }
+    .meta a { color: var(--accent); font-weight: 650; text-decoration: none; }
+    .meta a:hover { text-decoration: underline; }
+    .toolbar { display: flex; gap: 10px; margin-top: 28px; }
+    .search { flex: 1; min-width: 0; border: 1px solid var(--line); border-radius: 12px; padding: 11px 14px; color: var(--ink); background: #fbfcfe; font: inherit; outline: none; }
+    .search:focus { border-color: #9bb9ff; box-shadow: 0 0 0 3px var(--accent-soft); }
+    .clear { border: 1px solid var(--line); border-radius: 12px; padding: 0 16px; color: var(--ink); background: white; font: inherit; cursor: pointer; }
+    .clear:hover { background: var(--wash); }
+    .note { margin: 22px 4px; color: var(--muted); font-size: .88rem; }
+    .transcript { overflow: hidden; background: var(--paper); border: 1px solid var(--line); border-radius: 20px; box-shadow: var(--shadow); }
+    .entry { display: grid; grid-template-columns: 74px 1fr; gap: 22px; padding: 22px 30px; border-bottom: 1px solid var(--line); }
+    .entry:last-child { border-bottom: 0; }
+    .entry:hover { background: #fbfdff; }
+    .entry.is-hidden { display: none; }
+    .stamp { align-self: start; margin-top: 3px; color: var(--accent); font: 650 .86rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; text-decoration: none; }
+    .stamp:hover { text-decoration: underline; }
+    .entry p { margin: 0; font-size: 1.02rem; }
+    .result-count { align-self: center; color: var(--muted); font-size: .84rem; white-space: nowrap; }
+    .empty { display: none; padding: 36px; color: var(--muted); text-align: center; }
+    footer { margin-top: 24px; color: var(--muted); font-size: .82rem; text-align: center; }
+    @media (max-width: 640px) {
+      .page { width: min(100% - 20px, 920px); padding-top: 12px; }
+      .switcher { top: 8px; align-items: flex-start; flex-direction: column; gap: 4px; padding: 11px 14px; }
+      .switcher select { width: 100%; }
+      .hero { padding: 26px 22px 22px; border-radius: 18px; }
+      .entry { grid-template-columns: 58px 1fr; gap: 14px; padding: 18px 18px; }
+      .entry p { font-size: .98rem; }
+      .toolbar { flex-direction: column; }
+      .clear { min-height: 42px; }
+      .result-count { align-self: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <nav class="switcher" aria-label="Switch transcript">
+      <span class="switcher-label">切换影片 / Switch video</span>
+      <select id="video-select" aria-label="Choose a transcript">
+          <option value="Learning English Podcast   New natural law, Accessible gaming, Anna plays a game.html">New natural law · Accessible gaming · Anna plays a game</option>
+          <option value="Learning English Podcast - Gmail Launch, AI Tool.html" selected>Gmail Launch · AI Tool</option>
+          <option value="Learning English Podcast - Writing Contest, Gaza Famine, AI Searches.html">Writing Contest · Gaza Famine · AI Searches</option>
+          <option value="Learning English Podcast - Lab Diamonds, Wealth Inequality, Private Spacecraft, Chatbot Companions.html">Lab Diamonds · Wealth Inequality · Private Spacecraft · Chatbot Companions</option>
+          <option value="AI Concerns, Hidden Electronic Field, Talking to Tourists.html">AI Concerns · Hidden Electronic Field · Talking to Tourists</option>
+          <option value="Plastic pollution, New AI iPhones, Tag questions.html">Plastic pollution · New AI iPhones · Tag questions</option>
+          <option value="Moving an Elephant, Police Use AI, Soft and Hard Skills.html">Moving an Elephant · Police Use AI · Soft and Hard Skills</option>
+          <option value="AI Weather Forecast, Brain Self Cleaning, Anna’s Best Friend.html">AI Weather Forecast · Brain Self Cleaning · Anna’s Best Friend</option>
+          <option value="Learning English Podcast - 'Smart' Cars, Smartphones in School, Ukraine Story.html">“Smart” Cars · Smartphones in School · Ukraine Story</option>
+          <option value="Learning English Podcast - Extremist Groups, Dwarf Planet, AI Robot System.html">Extremist Groups · Dwarf Planet · AI Robot System</option>
+      </select>
+    </nav>
+    <header class="hero">
+      <p class="kicker">VOA Learning English · transcript</p>
+      <h1>Gmail Launch · AI Tool</h1>
+      <p class="lede">A clean, paragraph-based transcript with clickable time indexes.</p>
+      <div class="meta">
+        <a href="https://www.youtube.com/watch?v=4pRrCF6UlUo" target="_blank" rel="noreferrer">Open original on YouTube ↗</a>
+        <span>29:54 · 53 paragraphs</span>
+      </div>
+      <div class="toolbar">
+        <input id="search" class="search" type="search" placeholder="Search this transcript…" aria-label="Search transcript">
+        <button id="clear" class="clear" type="button">Clear</button>
+        <span id="result-count" class="result-count" aria-live="polite">53 paragraphs</span>
+      </div>
+    </header>
+    <p class="note">Source: YouTube English automatic captions. Click a blue timestamp to open that moment in the video; minor caption errors may remain. 搜索栏只筛选当前页面的英文讲稿；切换影片请使用顶部菜单。</p>
+    <section id="transcript" class="transcript" aria-label="Transcript">
+      <article class="entry" id="p-001" data-text="welcome to learning english, a daily 30 minute program from the voice of america. i&#x27;m dan novak. and i&#x27;m dan friedell. this program is designed for english learners, so we speak a little slower and we use words and phrases, especially written for people learning english. coming up on the program, april 1st is the 20th anniversary of the start of gmail.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=3s" target="_blank" rel="noreferrer" aria-label="Jump to 00:03">00:03</a>
+        <p>Welcome to Learning English, a daily 30 minute program from the Voice of America. I&#x27;m Dan Novak. And I&#x27;m Dan FRIEDELL. This program is designed for English learners, so we speak a little slower and we use words and phrases, especially written for people learning English. Coming up on the program, April 1st is the 20th anniversary of the start of Gmail.</p>
+      </article>
+      <article class="entry" id="p-002" data-text="some people thought the launch of the email program was a joke because of its release on april fool&#x27;s day. brian lin has the story on a matteo has the health and lifestyle report on ai chat bots designed to help people with mental health issues. later, andrea smith and jill robbins present the lesson of the day.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=38s" target="_blank" rel="noreferrer" aria-label="Jump to 00:38">00:38</a>
+        <p>Some people thought the launch of the email program was a joke because of its release on April Fool&#x27;s Day. Brian Lin has the story on a Matteo has the Health and Lifestyle report on AI chat bots designed to help people with mental health issues. Later, Andrea Smith and Jill Robbins present the lesson of the day.</p>
+      </article>
+      <article class="entry" id="p-003" data-text="but first, when google launched gmail in 2004, it quickly grew into one of the internet&#x27;s most popular email services. at the time, though, many people thought the gmail launch was a joke. this is because it was announced on april 1st, april fool&#x27;s day, and google&#x27;s co-founders, larry page and sergey brin, had already established themselves as april fools day pranksters.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=64s" target="_blank" rel="noreferrer" aria-label="Jump to 01:04">01:04</a>
+        <p>But first, when Google launched Gmail in 2004, it quickly grew into one of the Internet&#x27;s most popular email services. At the time, though, many people thought the Gmail launch was a joke. This is because it was announced on April 1st, April Fool&#x27;s Day, and Google&#x27;s co-founders, Larry Page and Sergey Brin, had already established themselves as April Fools Day pranksters.</p>
+      </article>
+      <article class="entry" id="p-004" data-text="one year, google published a false job opening, promising job seekers a position at a research center on the moon. another year on april fool&#x27;s day, the company said it was considering adding a tool that would permit users to smell search results. page and brin later said gmail&#x27;s launch was the perfect april fool&#x27;s day prank.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=103s" target="_blank" rel="noreferrer" aria-label="Jump to 01:43">01:43</a>
+        <p>One year, Google published a false job opening, promising job seekers a position at a research center on the moon. Another year on April Fool&#x27;s Day, the company said it was considering adding a tool that would permit users to smell search results. Page and Brin later said Gmail&#x27;s launch was the perfect April Fool&#x27;s Day prank.</p>
+      </article>
+      <article class="entry" id="p-005" data-text="this is because they felt the new offerings or features might have seemed too good to be true for users. gmail launched as a free service. the new features included an increase in storage space up to one gigabyte per account. while that amount may not seem like a lot today, at the time it was considered very large.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=134s" target="_blank" rel="noreferrer" aria-label="Jump to 02:14">02:14</a>
+        <p>This is because they felt the new offerings or features might have seemed too good to be true for users. Gmail launched as a free service. The new features included an increase in storage space up to one gigabyte per account. While that amount may not seem like a lot today, at the time it was considered very large.</p>
+      </article>
+      <article class="entry" id="p-006" data-text="in 2004, for example, one gigabyte was enough to store about 13,500 emails. this compared to just 30 to 60 emails that could be saved with the then leading email services run by yahoo and microsoft oft. in addition, the new gmail included google&#x27;s search technology. this permitted users to quickly find specific emails, photos or other data stored in the service.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=164s" target="_blank" rel="noreferrer" aria-label="Jump to 02:44">02:44</a>
+        <p>In 2004, for example, one gigabyte was enough to store about 13,500 emails. This compared to just 30 to 60 emails that could be saved with the then leading email services run by Yahoo and Microsoft oft. In addition, the new Gmail included Google&#x27;s search technology. This permitted users to quickly find specific emails, photos or other data stored in the service.</p>
+      </article>
+      <article class="entry" id="p-007" data-text="gmail also introduced a feature that grouped multiple email communications about the same subjects. former google executive marissa mayer spoke to the associated press about her involvement developing gmail at the company. the original pitch we put together was all about the three s&#x27;s, mayer told the ap. she explained that the s&#x27;s stood for storage, search and speed.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=203s" target="_blank" rel="noreferrer" aria-label="Jump to 03:23">03:23</a>
+        <p>Gmail also introduced a feature that grouped multiple email communications about the same subjects. Former Google executive Marissa mayer spoke to the Associated Press about her involvement developing Gmail at the company. The original pitch we put together was all about the three S&#x27;s, Mayer told the AP. She explained that the S&#x27;s stood for storage, search and speed.</p>
+      </article>
+      <article class="entry" id="p-008" data-text="meyer helped design several products at google before leaving the company and later becoming yahoo&#x27;s chief executive. when gmail&#x27;s launch happened in 2004, some readers began contacting the ap to suggest the news agency must have been fooled by google&#x27;s announcement. but that reaction by users was part of the charm of making a product that people will not believe is real, said paul wilhite.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=239s" target="_blank" rel="noreferrer" aria-label="Jump to 03:59">03:59</a>
+        <p>Meyer helped design several products at Google before leaving the company and later becoming Yahoo&#x27;s chief executive. When Gmail&#x27;s launch happened in 2004, some readers began contacting the AP to suggest the news agency must have been fooled by Google&#x27;s announcement. But that reaction by users was part of the charm of making a product that people will not believe is real, said Paul Wilhite.</p>
+      </article>
+      <article class="entry" id="p-009" data-text="he recently spoke to the ap about his efforts to help build gmail. bluekai explained that the gmail project was developed quietly at google, which even gave the effort a secret name. he noted that at the time he was just google&#x27;s 23rd employee hired. the company now employs more than 180,000 people. although the gmail launch captured a lot of publicity, it started out being offered only to a limited number of people.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=276s" target="_blank" rel="noreferrer" aria-label="Jump to 04:36">04:36</a>
+        <p>He recently spoke to the AP about his efforts to help build Gmail. BlueKai explained that the Gmail project was developed quietly at Google, which even gave the effort a secret name. He noted that at the time he was just Google&#x27;s 23rd employee hired. The company now employs more than 180,000 people. Although the Gmail launch captured a lot of publicity, it started out being offered only to a limited number of people.</p>
+      </article>
+      <article class="entry" id="p-010" data-text="this is because at the time, google only had enough computing power to support a small number of users. when we launched, we only had 300 machines and they were really old machines that no one else wanted book, wright told the ap. we only had enough capacity for 10,000 users, which is a little absurd, he added.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=316s" target="_blank" rel="noreferrer" aria-label="Jump to 05:16">05:16</a>
+        <p>This is because at the time, Google only had enough computing power to support a small number of users. When we launched, we only had 300 machines and they were really old machines that no one else wanted book, Wright told the AP. We only had enough capacity for 10,000 users, which is a little absurd, he added.</p>
+      </article>
+      <article class="entry" id="p-011" data-text="but the account limitations actually led to more interest in the service and persuade needed large numbers of people to request new gmail accounts. at one point, bright said invitations to open a new account were selling for $250 each on ebay. over time, google was able to increase the number of new gmail accounts it established as it expanded its data centers.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=345s" target="_blank" rel="noreferrer" aria-label="Jump to 05:45">05:45</a>
+        <p>But the account limitations actually led to more interest in the service and persuade needed large numbers of people to request new Gmail accounts. At one point, Bright said invitations to open a new account were selling for $250 each on eBay. Over time, Google was able to increase the number of new Gmail accounts it established as it expanded its data centers.</p>
+      </article>
+      <article class="entry" id="p-012" data-text="this move sped up the process of getting a new gmail account, but the company did not begin approving all new gmail requests until it officially opened up the service to the world in 2007. a few weeks later, on april fool&#x27;s day in 2007, google announced a new service called gmail paper. the service was described as a way for users to print their email out on paper and send it through the regular mail.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=378s" target="_blank" rel="noreferrer" aria-label="Jump to 06:18">06:18</a>
+        <p>This move sped up the process of getting a new Gmail account, but the company did not begin approving all new Gmail requests until it officially opened up the service to the world in 2007. A few weeks later, on April Fool&#x27;s Day in 2007, Google announced a new service called Gmail paper. The service was described as a way for users to print their email out on paper and send it through the regular mail.</p>
+      </article>
+      <article class="entry" id="p-013" data-text="but this time google was actually joking. i&#x27;m brian lynn. a more and more among them. more and more and more and more and more and more about the more and more and more among them. more and more and more become more and more and more and more and more and more from voa learning english.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=414s" target="_blank" rel="noreferrer" aria-label="Jump to 06:54">06:54</a>
+        <p>But this time Google was actually joking. I&#x27;m Brian Lynn. A more and more among them. More and more and more and more and more and more about the more and more and more among them. More and more and more become more and more and more and more and more and more From VOA Learning English.</p>
+      </article>
+      <article class="entry" id="p-014" data-text="this is the health and lifestyle report. the mental health chat bot ear kick greets users with a friendly looking panda that could fit easily in a children&#x27;s program. when users talk about anxiety, the panda gives the kind of comforting statements that a trained mental health professional called a therapist would say. then it might suggest breathing exercises or give advice on how to deal with stress.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=459s" target="_blank" rel="noreferrer" aria-label="Jump to 07:39">07:39</a>
+        <p>This is the Health and Lifestyle Report. The Mental Health chat bot ear Kick greets users with a friendly looking panda that could fit easily in a children&#x27;s program. When users talk about anxiety, the panda gives the kind of comforting statements that a trained mental health professional called a therapist would say. Then it might suggest breathing exercises or give advice on how to deal with stress.</p>
+      </article>
+      <article class="entry" id="p-015" data-text="ear kick is one of hundreds of free chat bots aimed at dealing with a mental health crisis among young people. but the co-founder of ear kick, karen, andrea stefan, says he and the other creators do not feel comfortable calling their chat bots a therapy tool. whether these chat bots or apps provide a simple self-help tool or mental health treatment is important to the growing digital health industry.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=499s" target="_blank" rel="noreferrer" aria-label="Jump to 08:19">08:19</a>
+        <p>Ear kick is one of hundreds of free chat bots aimed at dealing with a mental health crisis among young people. But the co-founder of Ear Kick, Karen, Andrea Stefan, says he and the other creators do not feel comfortable calling their chat bots a therapy tool. Whether these chat bots or apps provide a simple self-help tool or mental health treatment is important to the growing digital health industry.</p>
+      </article>
+      <article class="entry" id="p-016" data-text="since the apps do not claim to diagnose or treat medical conditions. they do not need approval from the food and drug administration or fda. the industry&#x27;s position is now coming under more careful examination, with recent developments of chat bots powered by artificial intelligence a ai. the technology uses a large amount of data to copy human language.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=538s" target="_blank" rel="noreferrer" aria-label="Jump to 08:58">08:58</a>
+        <p>Since the apps do not claim to diagnose or treat medical conditions. They do not need approval from the Food and Drug Administration or FDA. The industry&#x27;s position is now coming under more careful examination, with recent developments of chat bots powered by artificial intelligence a AI. The technology uses a large amount of data to copy human language.</p>
+      </article>
+      <article class="entry" id="p-017" data-text="the upsides are clear the chat bots are free. they are available 24 hours a day and people can use them in private. now for the downsides, there is limited data that the chat bots improve mental health and they have not received fda approval to treat conditions like depression. vail wright is a psychologist and technology director with the american psychological association.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=573s" target="_blank" rel="noreferrer" aria-label="Jump to 09:33">09:33</a>
+        <p>The upsides are clear The chat bots are free. They are available 24 hours a day and people can use them in private. Now for the downsides, there is limited data that the chat bots improve mental health and they have not received FDA approval to treat conditions like depression. Vail Wright is a psychologist and technology director with the American Psychological Association.</p>
+      </article>
+      <article class="entry" id="p-018" data-text="she said users of these chat bots have no way to know whether they&#x27;re actually effective. right. added that the chat bots are not the same as traditional mental health treatment. but she said they could help some people with less severe mental and emotional problems. your kicks website states that the app does not provide any form of medical care, medical opinion, diagnosis or treatment.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=614s" target="_blank" rel="noreferrer" aria-label="Jump to 10:14">10:14</a>
+        <p>She said users of these chat bots have no way to know whether they&#x27;re actually effective. Right. Added that the chat bots are not the same as traditional mental health treatment. But she said they could help some people with less severe mental and emotional problems. Your Kicks website states that the app does not provide any form of medical care, medical opinion, diagnosis or treatment.</p>
+      </article>
+      <article class="entry" id="p-019" data-text="some health lawyers say such claims are not enough. glenn cohen of harvard law school said, if you are really worried about people using your app for mental health services, you want a disclaimer that&#x27;s more direct. he suggested this is just for fun. still, chat bots are already playing a role due to an ongoing shortage of mental health professionals.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=651s" target="_blank" rel="noreferrer" aria-label="Jump to 10:51">10:51</a>
+        <p>Some health lawyers say such claims are not enough. Glenn Cohen of Harvard Law School said, If you are really worried about people using your app for mental health services, you want a disclaimer that&#x27;s more direct. He suggested this is just for fun. Still, chat bots are already playing a role due to an ongoing shortage of mental health professionals.</p>
+      </article>
+      <article class="entry" id="p-020" data-text="britain&#x27;s national health service has begun offering a chat bot called weiss to help with stress, anxiety and depression among young people. this includes those people waiting to see a therapist. some health insurers, universities and hospitals in the united states are offering similar programs. dr. angela skin ski is a family doctor in the american state of new jersey.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=683s" target="_blank" rel="noreferrer" aria-label="Jump to 11:23">11:23</a>
+        <p>Britain&#x27;s National Health Service has begun offering a chat bot called Weiss to help with stress, anxiety and depression among young people. This includes those people waiting to see a therapist. Some health insurers, universities and hospitals in the United States are offering similar programs. Dr. Angela Skin Ski is a family doctor in the American State of New Jersey.</p>
+      </article>
+      <article class="entry" id="p-021" data-text="when she tells her patients how long it will take to see a therapist, she says they are usually very open to trying a chat. but her employer, virtua health, offers robot to some adult patients. founded in 2017 by a stanford trained psychologist, robot does not use a.i. programs. the chat bot uses thousands of structured language models written by its staff and researchers.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=720s" target="_blank" rel="noreferrer" aria-label="Jump to 12:00">12:00</a>
+        <p>When she tells her patients how long it will take to see a therapist, she says they are usually very open to trying a chat. But her employer, Virtua Health, offers robot to some adult patients. Founded in 2017 by a Stanford trained psychologist, Robot does not use A.I. programs. The chat bot uses thousands of structured language models written by its staff and researchers.</p>
+      </article>
+      <article class="entry" id="p-022" data-text="robot founder alison darcy says. this rules based model is safer for health care use. the company is testing generative a.i. models, but darcy says there have been problems with the technology. she said we couldn&#x27;t stop the large language models from telling someone how they should be thinking. instead of facilitating the person&#x27;s process.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=758s" target="_blank" rel="noreferrer" aria-label="Jump to 12:38">12:38</a>
+        <p>Robot founder Alison Darcy says. This rules based model is safer for health care use. The company is testing generative A.I. models, but Darcy says there have been problems with the technology. She said we couldn&#x27;t stop the large language models from telling someone how they should be thinking. Instead of facilitating the person&#x27;s process.</p>
+      </article>
+      <article class="entry" id="p-023" data-text="wambach&#x27;s finding was included in a research paper on a.i. chat bots published last year in digital medicine. the writers concluded that chat bots could help with depression in a short time, but there was no way to study their long term effect on mental health. ross koppel of the university of pennsylvania studies health information technology.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=792s" target="_blank" rel="noreferrer" aria-label="Jump to 13:12">13:12</a>
+        <p>Wambach&#x27;s finding was included in a research paper on A.I. chat bots published last year in Digital Medicine. The writers concluded that chat bots could help with depression in a short time, but there was no way to study their long term effect on mental health. Ross Koppel of the University of Pennsylvania studies health information technology.</p>
+      </article>
+      <article class="entry" id="p-024" data-text="he worries these chat bots could be used in place of treatment and medications. koppel and others would like to see the fda review and possibly regulate these chat bots. dr. doug opel works at seattle children&#x27;s hospital. he said there is a whole host of questions we need to understand about this technology so we can ultimately do what we&#x27;re all here to do improve kid&#x27;s mental and physical health.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=823s" target="_blank" rel="noreferrer" aria-label="Jump to 13:43">13:43</a>
+        <p>He worries these chat bots could be used in place of treatment and medications. Koppel and others would like to see the FDA review and possibly regulate these chat bots. Dr. Doug Opel works at Seattle Children&#x27;s Hospital. He said there is a whole host of questions we need to understand about this technology so we can ultimately do what we&#x27;re all here to do improve kid&#x27;s mental and physical health.</p>
+      </article>
+      <article class="entry" id="p-025" data-text="and that&#x27;s the health and lifestyle report. i&#x27;m on a matteo on a matteo is with me now to talk more about this week&#x27;s health and lifestyle report. thanks for joining me, anna. hi, dan. thanks for having me. so today&#x27;s story is about chat bots essentially playing the role of mental health therapists. this presents some opportunities as well as some challenges.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=861s" target="_blank" rel="noreferrer" aria-label="Jump to 14:21">14:21</a>
+        <p>And that&#x27;s the Health and lifestyle report. I&#x27;m on a Matteo on a Matteo is with me now to talk more about this week&#x27;s Health and Lifestyle report. Thanks for joining me, Anna. Hi, Dan. Thanks for having me. So today&#x27;s story is about chat bots essentially playing the role of mental health therapists. This presents some opportunities as well as some challenges.</p>
+      </article>
+      <article class="entry" id="p-026" data-text="what are the problems with these mental health chat bots powered by a.i.? some mental health experts have experimented with a.i. powered chat bots, and they have found that these chat bots tell people what to do. rather than teaching people how to get better. another problem experts are finding is that a.i. powered chat bots often do not say the right things in emergency situations.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=908s" target="_blank" rel="noreferrer" aria-label="Jump to 15:08">15:08</a>
+        <p>What are the problems with these mental health chat bots powered by A.I.? Some mental health experts have experimented with A.I. powered chat bots, and they have found that these chat bots tell people what to do. Rather than teaching people how to get better. Another problem experts are finding is that A.I. powered chat bots often do not say the right things in emergency situations.</p>
+      </article>
+      <article class="entry" id="p-027" data-text="what do you mean by emerge in this situation? well, let&#x27;s say a person is having thoughts of self-harm. some mental health experts and even emergency responders are trained in how to deal with this. the chat bots do not seem prepared or able to correctly help these people. okay. so we&#x27;ve heard some problems that may be caused by mental health chat bots, but how can they help people dealing with mental health problems?">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=941s" target="_blank" rel="noreferrer" aria-label="Jump to 15:41">15:41</a>
+        <p>What do you mean by emerge in this situation? Well, let&#x27;s say a person is having thoughts of self-harm. Some mental health experts and even emergency responders are trained in how to deal with this. The chat bots do not seem prepared or able to correctly help these people. Okay. So we&#x27;ve heard some problems that may be caused by mental health chat bots, but how can they help people dealing with mental health problems?</p>
+      </article>
+      <article class="entry" id="p-028" data-text="well, some research has shown that they may be able to help people with less severe mental health issues by providing comforting statements, advice or techniques for handling things like stress. and unlike an actual person, these bots are available 24 hours a day, as we like to say, 24, seven, 24 hours a day, seven days a week.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=974s" target="_blank" rel="noreferrer" aria-label="Jump to 16:14">16:14</a>
+        <p>Well, some research has shown that they may be able to help people with less severe mental health issues by providing comforting statements, advice or techniques for handling things like stress. And unlike an actual person, these bots are available 24 hours a day, as we like to say, 24, seven, 24 hours a day, seven days a week.</p>
+      </article>
+      <article class="entry" id="p-029" data-text="but with the shortage of mental health professionals, these bots could be a good alternative, meaning another choice for some people. but as the experts in the story say, it is too early to determine whether these bots are actually effective or give good advice. it sounds like for now, people should not be looking for bots as a replacement for actual therapists and certainly not anyone with serious mental health problems.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1005s" target="_blank" rel="noreferrer" aria-label="Jump to 16:45">16:45</a>
+        <p>But with the shortage of mental health professionals, these bots could be a good alternative, meaning another choice for some people. But as the experts in the story say, it is too early to determine whether these bots are actually effective or give good advice. It sounds like for now, people should not be looking for bots as a replacement for actual therapists and certainly not anyone with serious mental health problems.</p>
+      </article>
+      <article class="entry" id="p-030" data-text="thanks for coming on the show, ana. you&#x27;re welcome, dan. thanks for having me. voa learning english has launched a new program for children. it is called let&#x27;s learn english with ana. the new course aims to teach children american english through asking and answering questions and experiencing fun situation sessions. for more information, visit our website.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1042s" target="_blank" rel="noreferrer" aria-label="Jump to 17:22">17:22</a>
+        <p>Thanks for coming on the show, Ana. You&#x27;re welcome, Dan. Thanks for having me. VOA Learning English has launched a new program for children. It is called Let&#x27;s Learn English with Ana. The new course aims to teach children American English through asking and answering questions and experiencing fun situation sessions. For more information, visit our website.</p>
+      </article>
+      <article class="entry" id="p-031" data-text="learning english taught voa news.com. hello. my name is ana mateo and my name is jill robbins. and i&#x27;m andrew smith. you&#x27;re listening to the learning english podcast. welcome to the part of the show where we help you do more with our series. let&#x27;s learn english. the series shows anima teo in her work and life in washington, dc.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1101s" target="_blank" rel="noreferrer" aria-label="Jump to 18:21">18:21</a>
+        <p>Learning English taught VOA News.com. Hello. My name is Ana Mateo and my name is Jill Robbins. And I&#x27;m Andrew Smith. You&#x27;re listening to the Learning English podcast. Welcome to the part of the show where we help you do more with our series. Let&#x27;s Learn English. The series shows Anima Teo in her work and life in Washington, DC.</p>
+      </article>
+      <article class="entry" id="p-032" data-text="today&#x27;s lesson has three parts. first, you&#x27;ll hear and repeat a few informal expressions ana uses that are very common in american english. next, you&#x27;ll hear andrew and me having a native speaker conversation. third, you&#x27;ll get to practice hearing and listening to phrases that begin with the word what? we have a lot to do in today&#x27;s lesson, so let&#x27;s get started.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1157s" target="_blank" rel="noreferrer" aria-label="Jump to 19:17">19:17</a>
+        <p>Today&#x27;s lesson has three parts. First, you&#x27;ll hear and repeat a few informal expressions Ana uses that are very common in American English. Next, you&#x27;ll hear Andrew and me having a native speaker conversation. Third, you&#x27;ll get to practice hearing and listening to phrases that begin with the word what? We have a lot to do in today&#x27;s lesson, so let&#x27;s get started.</p>
+      </article>
+      <article class="entry" id="p-033" data-text="here&#x27;s ana in lesson 19, when she learns that she is going to make a new tv show. i have a new assignment for you. your skills are perfect for a new show, a children&#x27;s show, a children&#x27;s show. that is awesome. when do i start? you start next month. start thinking of ideas for the show.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1190s" target="_blank" rel="noreferrer" aria-label="Jump to 19:50">19:50</a>
+        <p>Here&#x27;s Ana in lesson 19, when she learns that she is going to make a new TV show. I have a new assignment for you. Your skills are perfect for a new show, a children&#x27;s show, a children&#x27;s show. That is awesome. When do I start? You start next month. Start thinking of ideas for the show.</p>
+      </article>
+      <article class="entry" id="p-034" data-text="i have tons of ideas. i can show children what it&#x27;s like in outer space or great tons of is an informal way of saying a lot of a ton and the units of weight use in the united states is £2,000, which is about 907 kilograms. so that&#x27;s why a ton of four tons of means.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1222s" target="_blank" rel="noreferrer" aria-label="Jump to 20:22">20:22</a>
+        <p>I have tons of ideas. I can show children what it&#x27;s like in outer space or great tons of is an informal way of saying a lot of a ton and the units of weight use in the United States is £2,000, which is about 907 kilograms. So that&#x27;s why a ton of four tons of means.</p>
+      </article>
+      <article class="entry" id="p-035" data-text="a lot or very many. ana has a lot of imagination, so she has tons of ideas. i have tons of ideas and there are tons of things we can talk about based on the let&#x27;s learn english series from voa learning english. here&#x27;s some more examples with the expression tons of. so, andrew, i&#x27;m going to charlotte, north carolina next weekend for a work meeting, but i haven&#x27;t had time to plan my trip and i don&#x27;t really know what to do.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1252s" target="_blank" rel="noreferrer" aria-label="Jump to 20:52">20:52</a>
+        <p>A lot or very many. Ana has a lot of imagination, so she has tons of ideas. I have tons of ideas and there are tons of things we can talk about based on the Let&#x27;s Learn English series from VOA Learning English. Here&#x27;s some more examples with the expression tons of. So, Andrew, I&#x27;m going to Charlotte, North Carolina next weekend for a work meeting, but I haven&#x27;t had time to plan my trip and I don&#x27;t really know what to do.</p>
+      </article>
+      <article class="entry" id="p-036" data-text="oh, don&#x27;t worry about that. there&#x27;s tons to do. there are more than one really good art museums downtown. there are major sports teams. there&#x27;s an nba basketball team, an nfl football team, soccer teams. there&#x27;s a very good symphony orchestra and a lot of good restaurants. you will have plenty to do. yeah, i&#x27;m sure i will.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1289s" target="_blank" rel="noreferrer" aria-label="Jump to 21:29">21:29</a>
+        <p>Oh, don&#x27;t worry about that. There&#x27;s tons to do. There are more than one really good art museums downtown. There are major sports teams. There&#x27;s an NBA basketball team, an NFL football team, soccer teams. There&#x27;s a very good symphony orchestra and a lot of good restaurants. You will have plenty to do. Yeah, I&#x27;m sure I will.</p>
+      </article>
+      <article class="entry" id="p-037" data-text="hey, i meant to ask you, could you help me move my office furniture if you&#x27;re not too busy? yeah, no problem. i&#x27;ve got tons of time to. speaking of the office, do you have any paper clips? oh, i&#x27;ve got tons of them. take all you want, andrew. pretty soon our listeners will have tons of examples.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1316s" target="_blank" rel="noreferrer" aria-label="Jump to 21:56">21:56</a>
+        <p>Hey, I meant to ask you, could you help me move my office furniture if you&#x27;re not too busy? Yeah, no problem. I&#x27;ve got tons of time to. Speaking of the office, do you have any paper clips? Oh, I&#x27;ve got tons of them. Take all you want, Andrew. Pretty soon our listeners will have tons of examples.</p>
+      </article>
+      <article class="entry" id="p-038" data-text="that&#x27;s true. i think they probably get the idea, but they should remember that tons of is a little bit informal, and it is used more in speaking than in formal writing. that&#x27;s true. so how about teaching another informal expression? well, how about how about. yeah, we can do that. here&#x27;s ayana and jeannie in lesson 14.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1339s" target="_blank" rel="noreferrer" aria-label="Jump to 22:19">22:19</a>
+        <p>That&#x27;s true. I think they probably get the idea, but they should remember that tons of is a little bit informal, and it is used more in speaking than in formal writing. That&#x27;s true. So how about teaching another informal expression? Well, how about how about. Yeah, we can do that. Here&#x27;s Ayana and Jeannie in lesson 14.</p>
+      </article>
+      <article class="entry" id="p-039" data-text="ana needs some clothes to wear, and a genie appears and tries to help. tonight i am going to the theater with my friends, but i don&#x27;t know what clothes to wear. maybe this magazine can help. her clothes are beautiful. i really want a friend like her to help me. who are you? i am jeannie.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1369s" target="_blank" rel="noreferrer" aria-label="Jump to 22:49">22:49</a>
+        <p>Ana needs some clothes to wear, and a genie appears and tries to help. Tonight I am going to the theater with my friends, but I don&#x27;t know what clothes to wear. Maybe this magazine can help. Her clothes are beautiful. I really want a friend like her to help me. Who are you? I am Jeannie.</p>
+      </article>
+      <article class="entry" id="p-040" data-text="you want help? i am here to help you find the right clothes. awesome. how about jeans and a t shirt? no. jeans and a t-shirt are two cars full? how about something more formal? sure. when anna says, how about she means what if we try this? awesome. how about jeans and a t shirts?">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1396s" target="_blank" rel="noreferrer" aria-label="Jump to 23:16">23:16</a>
+        <p>You want help? I am here to help you find the right clothes. Awesome. How about jeans and a t shirt? No. Jeans and a T-shirt are two cars full? How about something more formal? Sure. When Anna says, how about she means what if we try this? Awesome. How about jeans and a t shirts?</p>
+      </article>
+      <article class="entry" id="p-041" data-text="and when we speak quickly, we sometimes drop the sound from about and just say bout. so it sounds like this. how about this? or how about that? how about we listen to ana one more time? can you put on a jacket? why not? i love the jacket. how about a hat? i think we can find tons of examples of people saying, how about.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1427s" target="_blank" rel="noreferrer" aria-label="Jump to 23:47">23:47</a>
+        <p>And when we speak quickly, we sometimes drop the sound from about and just say bout. So it sounds like this. How about this? Or how about that? How about we listen to Ana one more time? Can you put on a jacket? Why not? I love the jacket. How about a hat? I think we can find tons of examples of people saying, How about.</p>
+      </article>
+      <article class="entry" id="p-042" data-text="i&#x27;m sure we can. but how about we do something else? there&#x27;s something ana says at the end of lesson 19 that we could talk about for our native speaker conversation. let&#x27;s listen. i have tons of ideas. i can show children what it&#x27;s like in outer space or great in the deep, dark ocean.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1461s" target="_blank" rel="noreferrer" aria-label="Jump to 24:21">24:21</a>
+        <p>I&#x27;m sure we can. But how about we do something else? There&#x27;s something Ana says at the end of lesson 19 that we could talk about for our native speaker conversation. Let&#x27;s listen. I have tons of ideas. I can show children what it&#x27;s like in outer space or great in the deep, dark ocean.</p>
+      </article>
+      <article class="entry" id="p-043" data-text="those are great ideas. ana, please go. think of more at your desk. yes. what other things can i show them? mount everest. everyone has different skills. you have skills? i have skills. the important thing is to know what you are good at. until next time. i think ana has some useful advice. it is important to know what you are good at.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1483s" target="_blank" rel="noreferrer" aria-label="Jump to 24:43">24:43</a>
+        <p>Those are great ideas. Ana, please go. Think of more at your desk. Yes. What other things can I show them? Mount Everest. Everyone has different skills. You have skills? I have skills. The important thing is to know what you are good at. Until next time. I think Ana has some useful advice. It is important to know what you are good at.</p>
+      </article>
+      <article class="entry" id="p-044" data-text="yeah. for example, last week i realized that i&#x27;m good at catering. you know, like setting up food and tables for a party. it&#x27;s probably something i learned from watching my mother. let&#x27;s move on to our third topic for today. phrases that start with the word plot grammatically. these are called noun clauses. but you don&#x27;t have to worry about the name.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1512s" target="_blank" rel="noreferrer" aria-label="Jump to 25:12">25:12</a>
+        <p>Yeah. For example, last week I realized that I&#x27;m good at catering. You know, like setting up food and tables for a party. It&#x27;s probably something I learned from watching my mother. Let&#x27;s move on to our third topic for today. Phrases that start with the word plot grammatically. These are called noun clauses. But you don&#x27;t have to worry about the name.</p>
+      </article>
+      <article class="entry" id="p-045" data-text="just listen to the word order. you hear the word what? then you hear a subject followed by a verb. here&#x27;s ana again. and lesson 19 excited that she&#x27;s going to have a new tv show. the noun clause is at the end, a children&#x27;s show. that is awesome. when do i start? you start next month.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1539s" target="_blank" rel="noreferrer" aria-label="Jump to 25:39">25:39</a>
+        <p>Just listen to the word order. You hear the word What? Then you hear a subject followed by a verb. Here&#x27;s Ana again. And lesson 19 Excited that she&#x27;s going to have a new TV show. The noun clause is at the end, a children&#x27;s show. That is awesome. When do I start? You start next month.</p>
+      </article>
+      <article class="entry" id="p-046" data-text="start thinking of ideas for the show. i have tons of ideas. i can show children what it&#x27;s like in outer space. when she says what it&#x27;s like, you hear the word. what? plus the subject. it. plus the verb is using the contraction form it. so normally, when we ask a question with words such as what or where the verb comes before the subject, like when we say, what is your name?">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1569s" target="_blank" rel="noreferrer" aria-label="Jump to 26:09">26:09</a>
+        <p>Start thinking of ideas for the show. I have tons of ideas. I can show children what it&#x27;s like in outer space. When she says what it&#x27;s like, you hear the word. What? Plus the subject. It. Plus the verb is using the contraction form it. So normally, when we ask a question with words such as what or where the verb comes before the subject, like when we say, What is your name?</p>
+      </article>
+      <article class="entry" id="p-047" data-text="but if we put the what or where inside a sentence or statement, the subject and verb change places like this. i want to know what your name is. the words, what your name is are the object of the verb? no. so their job in the sentence is to function like a noun instead of a question.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1606s" target="_blank" rel="noreferrer" aria-label="Jump to 26:46">26:46</a>
+        <p>But if we put the what or where inside a sentence or statement, the subject and verb change places like this. I want to know what your name is. The words, what your name is are the object of the verb? No. So their job in the sentence is to function like a noun instead of a question.</p>
+      </article>
+      <article class="entry" id="p-048" data-text="so that&#x27;s why the word order is not like a question. with what? it can be tricky to reverse the subject and verb order correctly. but don&#x27;t worry, we&#x27;re going to give you tons of examples. i can show children what it&#x27;s like in outer space. and how about these examples? i can show you what i want.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1634s" target="_blank" rel="noreferrer" aria-label="Jump to 27:14">27:14</a>
+        <p>So that&#x27;s why the word order is not like a question. With what? It can be tricky to reverse the subject and verb order correctly. But don&#x27;t worry, we&#x27;re going to give you tons of examples. I can show children what it&#x27;s like in outer space. And how about these examples? I can show you what I want.</p>
+      </article>
+      <article class="entry" id="p-049" data-text="i can show you what i need. i can tell you what i think. i can tell you what i see. you can show me what you want. you can show me what you need. you can tell me what you think. you can tell me what you see. i can tell you what to do.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1658s" target="_blank" rel="noreferrer" aria-label="Jump to 27:38">27:38</a>
+        <p>I can show you what I need. I can tell you what I think. I can tell you what I see. You can show me what you want. You can show me what you need. You can tell me what you think. You can tell me what you see. I can tell you what to do.</p>
+      </article>
+      <article class="entry" id="p-050" data-text="i can tell you where to go. you can? yes, i can. go ahead. tell me some more. i can tell you what time it is. i can tell you what the weather is. i can tell you what my cat likes to eat. i can tell you where my cat likes to sleep. i can tell you what it&#x27;s like to watch the moon and stars at night.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1676s" target="_blank" rel="noreferrer" aria-label="Jump to 27:56">27:56</a>
+        <p>I can tell you where to go. You can? Yes, I can. Go ahead. Tell me some more. I can tell you what time it is. I can tell you what the weather is. I can tell you what my cat likes to eat. I can tell you where my cat likes to sleep. I can tell you what it&#x27;s like to watch the moon and stars at night.</p>
+      </article>
+      <article class="entry" id="p-051" data-text="i can tell you what i want. i can tell you what i need. but i can&#x27;t tell you what to do because that&#x27;s really up to you. you know, i think that&#x27;s true. you can&#x27;t tell me what to do. but you can give me some good advice. well, here&#x27;s some advice for our listeners.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1699s" target="_blank" rel="noreferrer" aria-label="Jump to 28:19">28:19</a>
+        <p>I can tell you what I want. I can tell you what I need. But I can&#x27;t tell you what to do because that&#x27;s really up to you. You know, I think that&#x27;s true. You can&#x27;t tell me what to do. But you can give me some good advice. Well, here&#x27;s some advice for our listeners.</p>
+      </article>
+      <article class="entry" id="p-052" data-text="practice repeating the sentences you hear. on this lesson of the day. and use the let&#x27;s learn english series to find many more examples of things you can learn to say. that is some good advice. we hope you&#x27;ve enjoyed today&#x27;s lesson of the day on the learning english podcast. i&#x27;m andrew smith. and i&#x27;m jill robbins.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1717s" target="_blank" rel="noreferrer" aria-label="Jump to 28:37">28:37</a>
+        <p>Practice repeating the sentences you hear. On this lesson of the day. And use the Let&#x27;s learn English series to find many more examples of things you can learn to say. That is some good advice. We hope you&#x27;ve enjoyed today&#x27;s lesson of the day on the Learning English podcast. I&#x27;m Andrew Smith. And I&#x27;m Jill Robbins.</p>
+      </article>
+      <article class="entry" id="p-053" data-text="and that&#x27;s our program for today. join us again tomorrow to keep learning english through stories from around the world. i&#x27;m dan novak. and i&#x27;m dan friedell.">
+        <a class="stamp" href="https://www.youtube.com/watch?v=4pRrCF6UlUo&t=1767s" target="_blank" rel="noreferrer" aria-label="Jump to 29:27">29:27</a>
+        <p>And that&#x27;s our program for today. Join us again tomorrow to keep learning English through stories from around the world. I&#x27;m Dan Novak. And I&#x27;m Dan FRIEDELL.</p>
+      </article>
+      <p id="empty" class="empty">No matching paragraphs.</p>
+    </section>
+    <footer>Prepared for listening practice · English text preserved as published captions</footer>
+  </main>
+  <script>
+    const select = document.getElementById('video-select');
+    select.addEventListener('change', () => { if (select.value) window.location.href = select.value; });
+    const input = document.getElementById('search');
+    const clear = document.getElementById('clear');
+    const entries = [...document.querySelectorAll('.entry')];
+    const empty = document.getElementById('empty');
+    const resultCount = document.getElementById('result-count');
+    function normalize(value) {
+      return value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    }
+    function filter() {
+      const query = normalize(input.value);
+      let visible = 0;
+      entries.forEach((entry) => {
+        const haystack = normalize(entry.dataset.text || entry.textContent || '');
+        const match = !query || haystack.includes(query);
+        entry.hidden = !match;
+        entry.classList.toggle('is-hidden', !match);
+        if (match) visible += 1;
+      });
+      empty.style.display = visible ? 'none' : 'block';
+      resultCount.textContent = query ? visible + ' matching paragraphs' : visible + ' paragraphs';
+    }
+    input.addEventListener('input', filter);
+    input.addEventListener('keyup', filter);
+    input.addEventListener('change', filter);
+    clear.addEventListener('click', () => { input.value = ''; filter(); input.focus(); });
+    filter();
+  </script>
+</body>
+</html>

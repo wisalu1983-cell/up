@@ -19,8 +19,7 @@ my-journey/
     └── talks/              # conference talks and related source files
         └── gdc-2024-ai-workflows/
             ├── README.md
-            ├── media/      # audio and video
-            └── transcript/ # readable transcript and subtitle files
+            └── media/      # audio, video, readable transcripts, and subtitles
 ```
 
 ## Sync workflow (fork + stay updated with upstream)

@@ -1,6 +1,6 @@
 # GDC 2024 — AI Workflows 音频转写
 
-- 来源：[`gdc-2024-ai-workflows-baseline-1080p.m4a`](../media/gdc-2024-ai-workflows-baseline-1080p.m4a)
+- 来源：[`gdc-2024-ai-workflows-baseline-1080p.m4a`](gdc-2024-ai-workflows-baseline-1080p.m4a)
 - 音频时长：约 35:56.821
 - 音频语言：英语
 - 阅读版：已将 ASR 的短语音段合并为较自然的连续段落；每段保留起止时间。

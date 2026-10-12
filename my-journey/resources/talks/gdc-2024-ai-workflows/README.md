@@ -7,15 +7,14 @@ reviews.
 
 ## Contents
 
-- [`media/`](media/) — source video and extracted audio
-- [`transcript/`](transcript/) — readable timestamped transcript and SRT subtitles
+- [`media/`](media/) — source video, extracted audio, and all transcripts
 
 ## Files
 
 - [Video](media/gdc-2024-ai-workflows-baseline-1080p.mp4)
 - [Audio](media/gdc-2024-ai-workflows-baseline-1080p.m4a)
-- [Readable transcript](transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.md)
-- [SRT subtitles](transcript/gdc-2024-ai-workflows-baseline-1080p.transcript.srt)
+- [Readable transcript](media/gdc-2024-ai-workflows-baseline-1080p.md)
+- [SRT subtitles](media/gdc-2024-ai-workflows-baseline-1080p.srt)
 
 The Markdown transcript is grouped into longer reading paragraphs. The SRT
 file keeps finer-grained timing for subtitle playback. Both are automatically
