@@ -1,13 +1,13 @@
 # Kala 的英语训练与 GDC 准备
 
-仓库：wisalu1983-cell/up，分支：master。更新时间：2026-10-12。
+仓库：wisalu1983-cell/up，分支：master。更新时间：2026-10-14。
 
 从2026-10-12起，本目录是训练目标、当前状态、方法方针、表达库、计划和复盘的主档案。每天继续在ChatGPT制定与执行训练；完成复盘后将相关资料提交到这里。既有ChatGPT档案保留为迁移快照。
 
 ## 新会话读取顺序
 
 1. [当前学习状态](current-state.md)
-2. [当前训练方针与Level Up方法应用](training-policy.md)
+2. [当前训练方针与Level Up方法应用](training-policy.md)，手机Live执行者继续读[执行与核验协议](execution-protocol-live.md)
 3. [GDC目标与滚动规划](gdc-2027-plan.md)
 4. [个人表达缺口与复用库](expression-bank.md)
 5. [计划索引](plans/README.md)及[训练记录索引](sessions/README.md)中的最近记录

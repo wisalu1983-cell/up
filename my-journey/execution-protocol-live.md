@@ -1,0 +1,185 @@
+# 手机 Cloud Work + Live 英语训练执行协议
+
+制定日期：2026-10-14。状态：依据10月13至14日复盘与官方资料制定，下一轮试行；尚无采用本协议后的效果证据。
+
+适用环境：手机ChatGPT App中的Cloud Work会话，使用Live语音练习。保留每天两段、每段12～15分钟的安排。学习目标和反馈优先级见[训练方针](training-policy.md)。
+
+## 具体执行偏差
+
+依据[137条原记录](sessions/2026-10-13--14.md)和[逐项复盘](sessions/2026-10-13--14-review.md)。以下是执行问题，不计入用户英语能力的错误。
+
+| 类型 | 实际表现与定位 | 对训练的影响 |
+| --- | --- | --- |
+| 背景不足、语言要求未落实 | 006只问明天录什么，没有会议背景；007—011多次澄清；004和050使用中文，用户005与051提醒 | 时间花在猜任务和恢复要求上；不能把澄清记为听力失败 |
+| 任务与材料被替换 | 054把Room B改为安静会议室；092用另一段路线替代56词原文 | 原计划的目标和难度失去对应关系；酒店新场景没有执行 |
+| 纠错优先级漂移 | 022—028围绕attended/attends、分享句反复重说；教师曾给出互相变化的纠正 | 用户意思已清楚，未获得相应沟通收益，并主动要求停止 |
+| 教师语言引出额外课程 | 056使用How did that land，随后解释land、come across；102又引入get started | 临时生词占用原任务时间；新的陌生表达继续解释前一陌生表达 |
+| 暂停后未准确恢复行动 | 079与081用户想再次听路线，080仍给请求范句 | 恢复了错误子步骤，用户反复澄清 |
+| 首答与复听证据被污染 | 126先给时间和房间答案；128先给入口位置再复听；129检查已懂的打电话用途 | 无法判断用户独立恢复了哪些信息，也没有核验原来忘记的地点 |
+| 反馈没有关闭真实表达缺口 | 133不知道如何说听这个讲座；134只给前往与准备的版本；135转录含歧义，136直接说清楚 | 对应动作表达没有真正补教，改进效果未确认 |
+| 完成声明缺少验收 | 088、114、116、136宣告完成；自由表达、酒店迁移、两句概括、选择与理由、范围延迟复用等仍有遗漏 | 用户承担了核查任务，后续状态容易被错误更新 |
+
+此前训练也反复出现听力长度缩水、正式复测前给范句、延迟间隔不足和说明不清等问题。本协议优先控制执行顺序、材料和证据；提高难度留待执行可靠之后。
+
+## 调研结论与适用边界
+
+官方产品文档确认：手机Work可以启动Live、使用所选体验的工具并查看文字任务结果；结束语音后，尚未完成的Work任务可以继续以文字执行。[来源1](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
+
+官方Live API指南建议把语音端指令保持简短，把复杂任务流程放到后端；涉及完成声明时等待核实结果。另一个指南把任务状态和中断恢复交给应用维护。[来源2](https://developers.openai.com/api/docs/guides/live-prompting)及[来源3](https://developers.openai.com/api/docs/guides/live-delegation)
+
+这些API设计原则支持本协议的分工，但不能证明手机App内部具体怎样传递上下文。App未提供可由普通用户配置的API会话参数或本协议的强制流程控制；这里采用会话指令、文字清单与事后核验。不能承诺每次语音指令都会触发特定后台调用，也不能把Live的口头“检查过了”当作实际核验凭据。
+
+官方还说明Live可在同一聊天接收文字、显示回应；语音结束后可查看转录。转录可能和实际说话不完全一致，语速只能用自然语言要求调整，手机没有精确播放速度控制。重叠说话、噪音、停顿和网络会影响交互。[来源4](https://help.openai.com/en/articles/20001274-chatgpt-voice)
+
+用户实践有相近报告：
+
+- [Android Live指令应用不一致，重述后可能恢复](https://github.com/openai/codex/issues/45160)：2026年9月用户自报，设备与本次环境不完全一致。
+- [语音语言练习逐渐回到泛泛回应](https://www.reddit.com/r/ChatGPT/comments/1m58cs4/custom_instructions_help_while_learning_language/)：旧版语音用户自报；重复自定义指令未稳定解决。不能外推为当前Live的确定行为。
+- [语音学习进度和断点不可靠的需求报告](https://github.com/openai/codex/issues/36081)：涵盖桌面与手机，属于用户提出的改进需求，没有验证有效方案。
+- [桌面语音与文字指令表现不同的报告](https://github.com/openai/codex/issues/37950)：作者在自己的应用里每次连接加载简短上下文；仅借鉴显式加载思路，不能据此认定手机Cloud Work存在同一缺陷。
+
+未找到已充分验证、直接适用于手机Cloud Work + Live英语课程、能保证逐项执行的公开方案。本协议是基于官方原则和实际失败点的试行设计。观察到的遗漏和答案泄漏可以确认；语音与Work之间具体丢失了哪些上下文仍是待验证假设。
+
+## 开练前：文字Work准备执行卡
+
+规划老师以后同时提供中文学习计划和简短英文执行卡。计划写清必做、可选、顺序、材料与结束标准；不要把历史记录、研究说明和全部表达库都放进Live的执行指令。
+
+在同一个Work会话，先读取指定计划、当前方针和本协议，再生成当前一段的执行卡。记录计划路径及读取版本，固定听力原文及字数。第二段开练时生成第二段卡，保留需要延迟复用的条目。
+
+每张卡保留一个主任务与少量子步骤；每步有ID、给用户的情境和行动、完成证据。标明下一步。回复中不提前展示听力原文或旧表达答案；用户已经看过的内容标记为准备过的练习。
+
+### 启动文字指令
+
+> 请通过GitHub读取我们指定的训练计划、my-journey/training-policy.md和my-journey/execution-protocol-live.md。先准备本次Segment 1的英文执行卡，列出必做步骤、固定材料、每步完成证据和当前第一步，不展示听力原文或回忆答案。暂不开始提问。随后我在同一会话打开Live，请依卡执行并维护断点；结束前按实际答复核验。
+
+“指定计划”使用规划老师下一次提供的日期和路径。不能默认索引最后一行就是待执行计划；没有找到明确对象时先说明候选和缺失。
+
+读取失败时明确说没有取得哪些内容，不能凭旧印象替换成临时课程。准备过程中可处理其他已明确的事项，依赖缺失材料的环节保持待执行。
+
+## Live练习：每步完成一个闭环
+
+### 简短英文执行指令
+
+```text
+You are Christina, my English speaking teacher. Use the active segment
+card in this chat. Speak English at a natural, slightly slower pace.
+
+Explain the situation, my role, and one action before each task.
+If I ask what to do, clarify the task without giving a model answer.
+
+Let me finish. After a substantive answer, confirm the meaning and give
+one useful improvement when needed. Prioritize communication and natural
+phrasing. Give the specific replacement, then let me try once.
+Accept natural alternatives. Keep minor grammar feedback brief.
+
+Read the fixed listening passage as written. Collect all first-listen
+answers before revealing any content answers. After replay, check the
+exact information I said I missed.
+
+Keep the current step and remaining required steps in the chat.
+On pause, save the breakpoint. On return, restore that step.
+Avoid adding unrelated expressions; teach at most two core chunks across
+both segments.
+
+Before reporting completion, compare actual learner responses with every
+required step. Report missing evidence honestly. Ask Work to check when
+the plan, progress, or completion status is uncertain.
+```
+
+这段是聊天指令，不是可直接设置手机App内部session.instructions的配置。文字准备完成后，语音开场只需说开始本段；不要把整份协议逐条朗读。
+
+### 每步的教学动作
+
+1. 先交代情境和行动。例如：You are at your hotel. You want to have breakfast, but you cannot find the restaurant. Ask me, the receptionist, for directions.
+2. 用户独立回答。合理澄清只补背景、角色和行动，不给目标句。
+3. 教师确认意图和沟通效果。已有自然可用说法时直接认可；确有价值时给一个忠实、简单的升级版本。
+4. 需要改进时，明确原话中的位置和具体改法，让用户按原意再表达一次。一般只重说一轮。
+5. 到迁移环节换受众、目的或真实场景，保存新首答。同一quiet room的换问法不能代替酒店餐厅迁移。
+6. 记录已做步骤和下一步。记录留在聊天中；口头只用一句自然过渡，不朗读整张表。
+
+教师用Were the directions clear?或Which part was unclear?确认理解。避免How did that land?等临时陌生说法。用户询问额外词义时简短回答并回到当前任务；额外词不自动成为当天核心词句。
+
+用户明确卡在某个意图时，先直接补足对应动作。比如听这个讲座先教listen to the talk，再让用户把前往房间与听讲座组合起来。不要只改善句子的其他部分。
+
+## 听力：固定材料与首答顺序
+
+执行顺序固定为：
+
+1. 简短说明本次要抓哪些类型的信息，允许用关键词回答。
+2. 确認准备好后，完整朗读固定原文，保持自然稍慢；不临时缩写、替换或加入解释。
+3. 用户报告已记得内容，再逐个询问计划中的信息槽位。全部首答保存之前不提供内容答案。
+4. 问用户哪项不确定。沿用原文完整复听。
+5. 先核验原来不确定的那项，再完成概括和情境应用。
+6. 仍未理解时才做局部解释或选择题，并记录帮助条件。
+
+例：用户说忘记quiet area在哪里，复听后先问Where was the quiet area?不能改问可以在那里做什么。
+
+用户没注意听、离开手机或被现实中断时，记录错过输入，完整重读；错过的那遍不计有效首听。已经得到答案后不能再称同一内容为无提示首答。
+
+固定原文在聊天中可核对，但Live朗读遵守程度仍需实测。若实际材料被改写，记录改写和不符合规格，不能把后续答案当成原计划的标准测试。
+
+## 暂停与恢复
+
+教师在用户明确暂停时保存：
+
+```text
+Plan:
+Segment:
+Completed steps and evidence:
+Current step and unfinished action:
+Listening attempts and answers already revealed:
+Next prompt:
+Remaining required steps:
+```
+
+返回时先用一句话恢复断点，例如We finished your request. Next, I'll answer as the receptionist, and you can respond.不从头重复目标范句，不凭最后一个关键词重新开课。
+
+暂停、换题和取消分开处理。用户说稍后回来，保留任务；用户要求修改计划，更新清单并注明修改；未执行的项目保持未执行。
+
+若当前断点无法确定，先请求Work比对计划与已见记录。没有核实结果时说明需要核对，不自行宣告恢复成功。需要时结束Live，在同一聊天用文字Work恢复；这一步用于核验，尽量不占用有效练习时间。
+
+## 结束前：核验实际证据
+
+每段设置一个收尾检查。Live先按执行卡检查并请求Work核对；是否触发了独立任务处理，以实际文字结果为准。口头“全部完成”本身不构成完成证据。
+
+正式核验采用同一个手机聊天：结束该段Live后，由文字Work比对原计划和新增转录。无需用户逐项检查、重新提供回答或找另一个会话链接。
+
+### 收尾文字指令
+
+> 核验刚完成这一段的执行卡与实际对话。逐项列出已执行、部分执行、未执行和无法核实，并给出用户答复或消息位置作为证据。区分独立首答、提示后重说和新场景迁移。先不要写正式学习总结；有漏项就生成从断点继续的简短执行卡。不要仅沿用语音老师的完成声明。
+
+这是一份简短执行凭据，正式能力分析仍由规划老师完成。当前Work如拿不到完整新增记录，应说明可见范围；不要编写缺失对话。原记录归档后，规划老师再独立审计并按既有授权提交复盘和状态更新。
+
+| 验收项目 | 成立所需证据 |
+| --- | --- |
+| 主任务执行 | 对应情境中的用户实际回答 |
+| 有价值反馈 | 明确的沟通效果反馈；需要改进时有具体改法 |
+| 改进表达 | 需要重说时有用户自己的改进产出 |
+| 新场景迁移 | 实际不同的情境及用户新首答 |
+| 首听报告 | 所有计划信息槽位在答案提示前的报告；不知道也有效记录 |
+| 复听闭环 | 完整原文复听，随后检查原先不确定项 |
+| 情境互动 | 请求、角色回应、用户回应或选择与理由，按该计划要求 |
+| 延迟复用 | 间隔后用户实际回答，并记录此前帮助 |
+| 结束反馈 | 一个具体进步或有效表现、一个后续关注点 |
+
+任务已执行与目标已掌握分开记。用户答错、说不知道或需要帮助，不自动等于该项目没有执行；规定的问答和反馈闭环未发生才属于执行缺失。完成核验不得为了唯一词面制造额外纠错。
+
+12～15分钟是时间预算。删减先作用于可选扩展；必做事项来不及完成时明确部分完成与剩余项。短于预算但确已完成可结束，不做无效重复凑时长。较长的检查、仓库读取和正式复盘放在有效练习之外。
+
+有真实可取时间时记录开始、暂停、恢复和结束，扣除明确暂停。只有转录而没有时间戳时，仍可判断断点和漏项，不能精确核定分钟数。API存在带时间的事件不代表手机聊天对执行者开放这些字段。
+
+## 下一轮试行与验证
+
+接下来连续两次有效训练采用同一协议和相近难度。初期只检验执行可靠性，不同时提高材料长度和专业复杂度。
+
+观察五项：
+
+- 必做项均有实际证据，或明确标记部分完成；没有虚假全部完成。
+- 固定听力材料与计划一致，首答阶段没有提前泄漏答案。
+- 暂停恢复后从准确子步骤继续，不再次提供原本要回忆的目标句。
+- 对用户真实卡点给出具体、忠实的高频说法；小错误不进入多轮纠缠。
+- 用户需要纠正教师流程的次数减少；任务背景澄清与纠正教师执行分别记录。
+
+不要求用户故意制造中断。自然发生的暂停、追问和表达卡点已足以检验。两次后根据真实记录判断哪些规则有效，精简无收益的检查；在验证前不称本协议已解决偏差。
+
+如果继续出现严重漏项或虚假完成，保留手机App与现有训练：将每段拆成两张较短执行卡，在自然任务边界增加一次文字核验。只有实测证明需要时再增加检查频率，不默认让用户每轮手动监督。
