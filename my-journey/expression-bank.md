@@ -1,6 +1,6 @@
 # 个人表达缺口与复用库
 
-更新时间：2026-10-14。来源为历史实际复盘、可见会话片段及[10月13至14日连续记录复盘](sessions/2026-10-13--14-review.md)。
+更新时间：2026-10-21。来源为历史实际复盘、可见会话片段及[10月13至14日连续记录复盘](sessions/2026-10-13--14-review.md)。
 
 功能完成与指定词句提取分开记录；同义表达成功仍是交流成功。当前状态优先于旧卡点，教师候选不记为用户已学。每日只激活1～2个核心项。
 
@@ -15,8 +15,9 @@
 | A05 | 对比确认更长游戏时间代表更投入还是更困惑；10月2日 | 约15:51用户明确说I can’t organize a complete sentence in my mind；随后完整示例后产生类似问题 | Does that mean…or…? | 对比问句组织缺口；该简短框架为规划老师本次建议，非用户已学会的历史证据 | 把不确定结果转成一个短确认问题；先解决情境理解，再观察自然问法 |
 | A06 | 按用途组织材料；10月2日 | 用户问What's a grouping?并要求进一步解释；之后以by the similar usage复述 | group…by purpose；what…is used for | 首先为词义理解缺口，解释后能复述；不归为纯记忆或纯输出问题 | 文件/工具按用途分类；重要性低于通用澄清和调查表达 |
 | A07 | 指称刚听到的短文；9月28日 | 检索返回用户询问这一篇短文/段落的说法，教师给in this passage；未返回完整后续产出 | this passage | 已提供、应用未验证；教学沟通词，当前低优先级 | 在自然讨论听力时顺带复用，不安排专门反复练习 |
-| A08 | 表达录下整场会议；10月9日 | 首次询问整场会议说法；本轮015绕行表达每个人在会议中的发言 | record the entire meeting | 10月9日提示后使用。本轮012先给whole meeting、016给entire，017复现目标；仍为范句后使用。完整talk/video范围延迟项未执行 | 用新的完整观看或活动范围轻量观察，接受all/whole等自然替代 |
-| A09 | 前往会场听讲座；10月13至14日 | 133在get ready to…后停住，明确询问怎样说听这个会议；134提供前往与准备的整句，135尝试重说仍有文本歧义 | listen to the talk；组合候选I'll go to the room and listen to the talk. | 明确输出缺口。listen to版本为规划老师复盘建议，尚未教授，尚无理解或主动使用证据；不因136表扬判掌握 | 下一次优先确认原意、直接补教、按自己的意思重说，再用另一讲座情境应用 |
+| A08 | 表达录下整场会议；10月9日 | 首次询问整场会议说法；本轮015绕行表达每个人在会议中的发言 | record the entire meeting | 此前entire为范句后使用。10月21日S2-053在情境澄清后、未获建议模型，独立建议watch the video from the first minute，完整观看功能已完成；entire词面尚无独立证据 | 降为低频维护；需要时自然观察完整范围，不强制entire |
+| A09 | 前往会场听讲座；10月13至14日 | 133在get ready to…后停住，明确询问怎样说听这个会议；134提供前往与准备的整句，135尝试重说仍有文本歧义 | listen to the talk；组合候选I'll go to the room and listen to the talk. | 10月20至21日S1-035提供listen to模型，036仍用hear the talk，含义可理解；S2-046再次给模型，047成功使用。属于提示后复用，未证实独立提取；S2-045找座位准备notepad本身合理 | 开放的新讲座行动场景低负担观察，接受自然替代；不因未用指定词误判沟通失败 |
+| A10 | 问往前走多远；10月20至21日 | S1-052主动中文询问距离说法，053教师给How far is it? | How far is it from here? | 054自行扩展if I go straight ahead；072短间隔恢复，前一条教师刚列目标词，尚非跨日独立提取 | 下一轮换酒店或交通新地点，先不说far或提供范句 |
 
 A01、A03、A07来自本次新返回的历史消息，尚无连续逐字导出；日期可靠到训练日，不保存检索中不一致的精确秒数。A02、A04、A05、A06同时有档案实际记录支持。提供过、当场成功与当前仍困难分别记录，不能因历史卡顿断定今天必然不会。
 
@@ -29,8 +30,10 @@ A01、A03、A07来自本次新返回的历史消息，尚无连续逐字导出�
 | B03 | 先保留、继续查问题；10月2日 | 用户已能表达保留AI companion并调查卡点 | keep it for now；教师实际给过 | 已有功能成功，词块独立提取待测；与A03或B02择一，不叠加成词表 |
 | B04 | 修正他人误解；10月2日 | 先自由澄清不想移除，然后在教学后用What I mean is…再次说明 | What I mean is…；教师实际给过 | 功能成功，词块需跨日观察；不声称首次自由修正失败 |
 | B05 | 午间安排及紧急联系；9月15日 | 提示后正确，几分钟后出现I’m getting to have a massage / in the lunch time / if anything urgent | during lunch；Feel free to contact me.；教师实际给过 | 历史有延迟失败，今天能力未测；保留日常维护候选，不转为专项be或介词训练 |
-| B06 | 请求工作人员帮助找位置；10月12日至14日 | 055自然说Can you show me…quiet room；087范句后问地图；101当轮未预给范句再次问如何去quiet room | Could you show me the way to…?；教师078、080已提供 | 请求功能已有独立首答和本轮后续恢复；地图版本有完整提示；酒店餐厅迁移未执行。下一次在新位置请求先自由说，不强制Could替换可用Can |
+| B06 | 请求工作人员帮助找位置；10月12日至14日 | 055自然说Can you show me…quiet room；087范句后问地图；101当轮未预给范句再次问如何去quiet room | Could you show me the way to…?；教师078、080已提供 | 10月20至21日S1-028酒店餐厅和S2-041会场均无当轮请求范句先行，独立说明需求并用Can you show me the way。请求功能已有跨场景证据，降频维护；注册台场景有registration desk词汇帮助。Could仅可选升级 |
 | B07 | 说明剪辑应用与第一条视频；10月12日 | clip app such as Jianying；first short of your video | a video-editing app；make/edit your first short video；规划老师本次改进建议 | 思路已清楚、未阻断对话。作为高频表达升级候选，后续择一补教 |
+
+补充候选：S1的registration desk经过词形帮助和重复后可用于请求；不据此判独立掌握。S2-045、047用notepad说明记录需求，take notes为规划老师候选，尚未教授，先确认手写笔记与录音原意。
 
 ## C. 已有自然替代，退出核心补缺清单
 
@@ -42,11 +45,11 @@ A01、A03、A07来自本次新返回的历史消息，尚无连续逐字导出�
 
 ## 当前调用顺序
 
-优先A09听讲座的真实卡点与B06新的服务请求；A08完整范围轻量回忆。quiet room/area本轮可表达打电话用途，主要未保持并未复测的是入口位置。A01降频维护，A02按需低频应用；A03/A04/A05择情境使用。B类为自然升级池，A06/A07低频维护。
+优先观察A10问距离的跨日迁移；A09听讲座在真实目的中轻量复用，不强迫指定词。B06请求功能和A08完整观看功能降频维护。take notes仅为待确认意图的候选，每轮新教与巩固合计1～2项。
 
-历史项目句Our showcase demo uses a multi-agent framework已有多次自然及延迟产出，低频维护。over the weekend可自然恢复；时态小错不占核心训练。works for everyone此前依赖完整示例，保留按需使用，不设为强制主线。
+历史项目句Our showcase demo uses a multi-agent framework已有多次自然及延迟产出，低频维护。over the weekend可自然恢复；时态小错不占核心训练。works for everyone此前依赖完整示例，按需使用。
 
-quiet room在10月12日明确问词义与拼写；10月13至14日127已主动说明可打电话，129复听后使用quiet area说明用途。入口位置被教师告知后未复测，暂不推断整体quiet辨认已稳定。How did that land与come across为本轮教师临时引入，解释后独立应用未测，暂不进入核心词块池。
+10月21日首答能说安静处打电话，二听混合Room C、café、蓝标；behind café是在教师给位置及第三次全文后恢复。网络不稳定及准备程度未核实，不能把遗漏直接归为词义或记忆问题。来源：[本轮复盘](sessions/2026-10-20--21-review.md)。
 
 ## 后续每条证据的必要字段
 
